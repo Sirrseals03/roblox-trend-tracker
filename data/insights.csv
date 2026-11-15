@@ -400,6 +400,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 1582293268,5,45,45,45,cosmetic,13,0.8,63,obby_climb,,
 1586272220,5,,,,,10,0.161,22,clicker|shooter,ice_fire|military,
 1598111240,4,99,29,499,,20,0.141,658,race_drive,,
+1606003779,6,150,80,250,speed,3,0.213,2485,cook_serve|escape_run|obby_climb|tycoon_build,,escape_x
 1609765104,2,200,100,300,,139,0.935,185,break_mine|hatch_gacha|obby_climb,,
 1610695529,3,225,150,350,multiplier,59,0.877,207,escape_run,,one_word
 1611590046,14,211,70,3111,vip,12,0.649,,,,emoji
@@ -433,6 +434,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 1685316311,2,27,5,49,multiplier,1,,9318,fight_battle,anime|zombies,x_vs_y
 1685325039,2,27,5,49,multiplier,1,,33833,fight_battle,superheroes|zombies,x_vs_y
 1686885941,24,299,35,749,speed|vip,,,,race_drive|roleplay_life,school|toys|vehicles,emoji
+1698069706,7,100,35,1250,,2,0.047,,,,emoji
 1699553764,8,350,15,500,speed,5,0.065,15439,,zombies,emoji|simulator
 1699709637,12,174,59,399,multiplier|speed|vip,317,0.921,852,hatch_gacha|obby_climb|shooter|survive_nights,,
 1699904679,7,500,150,1500,multiplier,,,,fight_battle,,
@@ -779,6 +781,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 2802559498,,,,,,1,,3733,,,
 2805713501,8,119,40,499,cosmetic|vip,3,0.264,9784,obby_climb,,emoji
 2807944996,3,99,49,199,multiplier|speed,,,,break_mine|hit_swing,superheroes|vehicles,emoji|simulator
+2816987917,,,,,,,,,,,
 2820580801,9,150,27,1875,,1,,2164,,,one_word
 2822776643,5,399,149,1199,multiplier|skip,27,0.309,15785,escape_run|fight_battle,disaster|fantasy|ice_fire|money|nature|superheroes,emoji
 2823072758,22,199,50,550,cosmetic,42,0.16,1166,,sports,emoji|one_word
@@ -1383,7 +1386,6 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 4741312477,7,75,30,105,,1,,113,,,
 4743794878,13,25,25,125,cosmetic|multiplier,1,,3261,,sports,
 4745526903,4,200,150,250,speed|vip,6,0.152,927,obby_climb,,
-4748981356,12,324,99,499,multiplier,2,0.591,1194,,,
 4750561026,7,400,400,1000,,3,0.056,,fight_battle,military,
 4753245433,3,350,300,400,,,,,escape_run,disaster,
 4753878751,3,399,399,399,vip,60,0.78,6026,fight_battle|shooter,,
@@ -1554,6 +1556,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 5195680485,3,55,10,100,,1,,,,,one_word
 5200032028,9,40,10,200,,,,,,,
 5200655965,5,,,,vip,9,0.433,3255,break_mine|clicker,,update_tag
+5203208431,,,,,,,,,,,
 5203828273,15,324,129,799,multiplier|speed|vip,14,0.438,196488,dress_style,,emoji
 5206433511,1,1200,1200,1200,,3,0.14,56047,,,
 5207621753,6,324,99,1299,luck|multiplier|speed|storage|vip,11,0.121,5526,fight_battle|hatch_gacha|obby_climb|steal_raid|tower_defense|tycoon_build,brainrot|giant,emoji
@@ -2532,6 +2535,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 7579926638,12,199,79,379,cosmetic,9,0.041,155,survive_nights,animals|horror|ocean,emoji
 7579968588,,,,,,,,,fight_battle,,
 7580022263,,,,,,14,0.462,4055,fight_battle,,
+7585079192,,,,,,,,,,,
 7585140258,26,375,99,1499,,14,0.281,66083,,prison,
 7585947700,1,499,499,499,,47,0.28,5397,hatch_gacha|survive_nights,space,emoji
 7587104675,18,449,75,1199,speed,7,0.492,10252,,money|ocean,simulator
@@ -2720,6 +2724,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 7960300951,2,499,499,499,speed,20,0.814,42938,fight_battle,,
 7961333063,7,189,89,299,multiplier|speed,7,0.406,3341,fight_battle|race_drive|tycoon_build,vehicles,
 7962728616,,,,,,11,0.002,1372,,,emoji
+7963919157,7,199,149,295,,4,0.021,5097,survive_nights,horror|school,emoji
 7964539330,8,349,249,1499,,2,0.144,38381,obby_climb,,emoji
 7968055762,6,299,249,349,multiplier,13,0.284,18395,fight_battle|tower_defense,memes,
 7972256224,3,150,52,200,,128,0.597,1273,escape_run|grow_farm|obby_climb|tycoon_build,space,emoji|tycoon
@@ -2948,6 +2953,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 8599518829,,,,,,,,,break_mine|tycoon_build,stone_rocks,build_a|emoji
 8600977079,9,99,3,299,multiplier|speed|storage,18,0.021,70298,collect_index|dice_cards|escape_run|fight_battle|survive_nights,,
 8601956127,7,56,9,799,multiplier,1,,15005,obby_climb,,emoji
+8603178384,4,224,19,249,luck|multiplier|vip,,,,race_drive,vehicles,emoji
 8607126407,,,,,,,,,roleplay_life|steal_raid,,
 8613687643,1,299,299,299,vip,4,0.44,2936,,,update_tag
 8614510589,17,25,1,200,,,,,obby_climb,,emoji
@@ -3138,6 +3144,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 9113699321,14,299,20,1200,vip,7,0.821,956,fight_battle|shooter|steal_raid,fantasy,
 9119177027,5,67,9,299,,,,,tycoon_build,,emoji
 9119782663,4,62,25,99,multiplier|vip,6,0.701,59889,,,
+9124064586,,,,,,,,,,,
 9125259344,42,55,5,499,multiplier|skip|speed|storage|vip,,,,survive_nights,prison,
 9126204352,4,449,299,1299,speed|vip,,,,forge_craft|steal_raid,,
 9130827443,5,399,199,600,multiplier|vip,11,0.505,6662,fight_battle|party_minigames,,emoji
@@ -3355,7 +3362,6 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 9538407588,6,54,15,129,cosmetic|multiplier|speed|vip,,,,escape_run|fishing,disaster|money,escape_x
 9539483725,3,49,9,199,speed,,,,hatch_gacha,,
 9539768872,21,199,14,1299,cosmetic|multiplier|vip,,,,rng_roll,,
-9539775122,6,199,9,199,multiplier,8,0.887,941,survive_nights,horror,emoji|x_vs_y
 9539801659,6,34,9,349,auto|multiplier|speed|vip,2,0.0,11186,escape_run,disaster|fantasy|money,emoji
 9540040997,1,,,,,1,,480,break_mine,brainrot,
 9541728527,4,250,100,300,multiplier|vip,6,0.313,838,,horror,one_word
@@ -3532,7 +3538,6 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 9759989445,5,79,25,189,multiplier|vip,7,0.776,5553,race_drive,money|vehicles,
 9760889718,5,149,149,149,auto|multiplier,,,,break_mine,money,
 9761700404,2,,,,multiplier|vip,,,,quiz_guess,,emoji
-9762578530,,,,,,,,,collect_index|paint_create,,
 9763957106,10,44,29,149,speed,2,0.641,12232,party_minigames|quiz_guess,,
 9765294056,7,299,99,399,auto|multiplier|speed|vip,2,0.194,18428,collect_index|tycoon_build,money,emoji|tycoon
 9765324104,16,499,79,1599,multiplier|storage|vip,1,,26045,job_shift|race_drive|tycoon_build,money|vehicles,emoji|update_tag
@@ -4273,6 +4278,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10411590664,8,95,60,1495,auto|multiplier|vip,28,0.919,422,fishing|grow_farm|pet_care|roleplay_life|trade,animals,emoji
 10411998017,45,299,79,899,multiplier|speed,,,,job_shift,vehicles,emoji
 10412063194,21,199,29,699,auto|multiplier,,,,sell_shop,,
+10413337362,4,214,79,429,auto|luck|multiplier|speed,,,,grow_farm,,
 10414363829,3,500,50,1000,multiplier,3,0.0,3368,,disaster|ocean,
 10414383300,4,67,49,299,,,,,fight_battle|grow_farm|job_shift|roleplay_life,school,one_word
 10414828414,1,349,349,349,vip,28,0.642,26525,,,emoji
@@ -4957,7 +4963,6 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10766399546,1,599,599,599,luck|multiplier,,,,fight_battle,,
 10766399632,,,,,,,,,clicker|fight_battle,,
 10766420770,6,324,199,499,luck|speed|vip,6,0.997,1698,collect_index|grow_farm|hatch_gacha|sell_shop,animals|food,emoji
-10766426236,19,139,19,5000,luck|multiplier|speed|storage|vip,5,0.13,,race_drive,vehicles,update_tag
 10766431714,7,209,89,399,skip|storage|vip,,,,fight_battle|forge_craft|hatch_gacha,,update_tag
 10766440138,3,399,199,467,luck|multiplier,,,,hatch_gacha|steal_raid|tycoon_build,military,update_tag
 10766440903,8,349,149,799,multiplier|storage|vip,2,0.171,66201,rng_roll,,
@@ -5382,6 +5387,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10769925758,6,299,199,499,multiplier|vip,,,,,vehicles,emoji
 10769941558,7,199,5,499,auto|luck|multiplier|speed|vip,,,,fishing|steal_raid|tycoon_build,,build_a
 10769941703,,,,,,,,,escape_run|job_shift|survive_nights,prison,
+10769947152,,,,,,,,,,,
 10769955995,6,92,9,1200,luck,,,,,animals,emoji
 10769957062,,,,,,,,,,,emoji
 10769965862,,,,,,,,,collect_index,animals,emoji
@@ -5501,6 +5507,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10771096738,5,49,29,399,storage,3,0.194,97271,dress_style|obby_climb,seasonal,emoji
 10771098720,39,299,29,1000,auto|multiplier,1,,,paint_create|tycoon_build,vehicles,emoji
 10771110187,27,99,25,849,auto|multiplier|speed|vip,1,,61751,grow_farm|race_drive|tycoon_build,vehicles,emoji|update_tag
+10771111607,,,,,,,,,,,
 10771111717,4,92,64,120,multiplier|vip,,,,fight_battle,,
 10771118255,6,50,35,70,,4,0.042,17,clicker|paint_create|shooter,,one_word
 10771124452,16,79,3,779,multiplier,2,0.056,670003,obby_climb,prison,
@@ -5523,6 +5530,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10771362432,4,299,199,799,skip|speed|vip,,,,roleplay_life|sell_shop|tycoon_build,,
 10771368987,31,400,149,2500,auto|multiplier|vip,,,,fight_battle|paint_create|shooter,,emoji|update_tag
 10771382704,6,99,39,249,speed|vip,,,,cook_serve,,update_tag
+10771388912,,,,,,,,,,,
 10771403972,2,79,9,149,multiplier|vip,,,,fight_battle|quiz_guess,,
 10771406194,13,800,199,1699,multiplier,,,,race_drive,sports|vehicles,
 10771410956,5,109,49,139,,,,,hit_swing|race_drive,,emoji|update_tag
@@ -5585,6 +5593,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10772200970,23,74,3,999,auto|multiplier|vip,,,,plus_one_stat,fashion,plus_one
 10772210273,3,199,199,799,vip,,,,,,
 10772217708,6,199,49,825,multiplier|vip,,,,,prison,update_tag
+10772237634,,,,,,,,,,,
 10772253152,,,,,,,,,grow_farm,giant|money|nature,emoji
 10772266488,30,99,19,149,auto|cosmetic|luck|multiplier|skip|speed|vip,,,,break_mine|roleplay_life|tycoon_build,money,update_tag
 10772281976,8,149,79,399,cosmetic|vip,,,,fight_battle,,
@@ -5629,8 +5638,10 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10773031983,4,224,99,299,multiplier|vip,,,,survive_nights,,emoji
 10773033667,2,62,54,71,luck|vip,2,0.001,174237,break_mine|collect_index|hatch_gacha,animals|eggs|money,emoji
 10773059991,8,124,9,999,luck|multiplier,31,0.862,193228,,,emoji
+10773064825,,,,,,,,,,,
 10773082965,,,,,,,,,fight_battle,,
 10773086391,8,174,99,699,multiplier|storage|vip,30,0.862,76913,paint_create,military|superheroes,emoji
+10773097147,,,,,,,,,,,
 10773158335,2,174,150,199,multiplier,1,,22853,collect_index|hatch_gacha|steal_raid,anime|eggs,steal_a
 10773161216,12,214,25,5000,,,,,break_mine|race_drive,giant|vehicles,emoji
 10773186898,,,,,,3,0.362,61283,hit_swing,vehicles,
@@ -5650,11 +5661,13 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10773450570,1,99,99,99,,1,,84911,break_mine|plus_one_stat,,plus_one|update_tag
 10773487349,7,199,149,299,luck|multiplier|storage|vip,,,,fight_battle|grow_farm,,emoji
 10773501077,,,,,,,,,,,one_word
+10773502711,,,,,,,,,,,
 10773502882,7,74,3,199,multiplier|vip,,,,,vehicles,
 10773512703,4,174,49,299,multiplier|vip,,,,hit_swing|paint_create,,
 10773517934,6,174,79,279,auto|multiplier|vip,1,,308926,tycoon_build,,emoji|tycoon|update_tag
 10773574214,44,399,3,4999,auto|luck|multiplier|speed|storage|vip,,,,fight_battle|plus_one_stat,,emoji|plus_one
 10773582045,,,,,,6,0.308,86271,fight_battle,,
+10773611097,,,,,,,,,,,
 10773618503,16,129,39,699,multiplier|vip,1,,211481,break_mine|fight_battle|hit_swing|race_drive|shooter,disaster|giant|space|vehicles,
 10773629747,3,49,49,299,multiplier|vip,,,,break_mine|steal_raid|tycoon_build,money,emoji
 10773727134,4,274,149,399,multiplier|vip,,,,hatch_gacha|race_drive|survive_nights,vehicles,emoji
@@ -5667,6 +5680,7 @@ universe_id,pass_count,pass_price_median,pass_price_min,pass_price_max,pass_type
 10773912080,12,349,149,499,multiplier|speed,14,0.502,254541,party_minigames|survive_nights,money|school,
 10773918255,5,199,149,349,multiplier|vip,,,,,animals,
 10773926254,18,199,99,499,multiplier|vip,13,0.939,267414,hit_swing|race_drive|shooter,,emoji
+10774018521,,,,,,,,,,,
 10774051088,,,,,,10,0.368,596022,shooter,disaster|ice_fire|space,
 10774140929,13,99,25,299,vip,5,0.33,168479,hit_swing,anime,emoji|update_tag
 10774204862,,,,,,29,0.739,59225,clicker,,

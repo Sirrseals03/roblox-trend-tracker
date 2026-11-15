@@ -2522,5 +2522,87 @@
       "theme": "Giant / huge",
       "title": "Build a Sandcastle \ud83c\udfd6\ufe0f"
     }
+  ],
+  "2026-11-15": [
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Survive"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Bat Tornadoes for Cash \ud83c\udf2a\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Survive"
+      ],
+      "theme": "Zombies",
+      "title": "Tunnel Under the Horde \ud83e\udddf"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Obby / climb / jump"
+      ],
+      "theme": "Military / war",
+      "title": "Bail Out of the Plane \ud83e\ude82"
+    },
+    {
+      "mechanics": [
+        "Sell / run a shop",
+        "Hit / swing / launch"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Armor Shop [Crash Test] \ud83d\udee1\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Hit / swing / launch"
+      ],
+      "theme": "Giant / huge",
+      "title": "Draw a Ragdoll \u270f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "title": "+1 Hammer Size \ud83d\udd28"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Race / drive"
+      ],
+      "theme": "Vehicles",
+      "title": "Grow a Car \ud83d\ude97"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "Fight / battle"
+      ],
+      "theme": "Giant / huge",
+      "title": "Tie Down the Giant \ud83e\udea2"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Break / mine / dig"
+      ],
+      "theme": "Vehicles",
+      "title": "Ram Walls for Gems \ud83d\udefb"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "+1 stat per action"
+      ],
+      "theme": "Space",
+      "title": "Be a Meteor \u2604\ufe0f"
+    }
   ]
 }
