@@ -1,403 +1,382 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "ideas": [
     {
-      "title": "Bat Tornadoes for Cash 🌪️",
+      "title": "Build a Ski Jump ⛷️",
       "scope": "small",
-      "genre": "Simulator · Physics batting",
+      "genre": "Physics Sim · Launch for distance",
       "mechanics": [
         "Hit / swing / launch",
-        "Survive"
+        "Paint / create"
       ],
-      "theme": "Disaster / weather",
-      "hook": "Tornadoes roll toward your town and you are the only one with a bat. Smack them away before they hit, and every twister you launch rains cash and loot on your plot.",
+      "theme": "Sports",
+      "hook": "Draw your own ski ramp on the mountain, then send a ragdoll skier flying off it. The farther and wilder the flight, the more cash you land.",
       "core_loop": [
-        "Wait on the edge of town as a tornado wave spawns",
-        "Time your swing to launch each tornado back over the hills",
-        "Collect the cash and debris that falls out",
-        "Buy bigger bats and swing upgrades",
-        "Survive longer waves for rare storm drops"
+        "Shape the ramp by dragging points on the slope",
+        "Push off and launch your ragdoll skier",
+        "Earn cash for distance, flips and crashes",
+        "Unlock taller hills and springier ramp pieces",
+        "Beat your best jump on the next hill"
       ],
-      "twist": "A missed tornado sucks up part of your town and you have to buy it back, so every swing has something at stake.",
+      "twist": "Ramp pieces you place stay on the hill for other players to use, so the server builds one huge shared course over time.",
       "monetization": [
-        "2x cash multiplier",
-        "VIP golden bat",
-        "Swing power boost",
-        "Extra lives for missed storms"
+        "2x distance cash multiplier",
+        "VIP gold skis",
+        "Lucky landing boost"
       ],
       "retention": [
-        "Daily storm streak rewards",
-        "Longest-wave leaderboard",
-        "Weekly mega-storm events",
+        "Daily longest-jump leaderboard",
+        "Weekly new mountain",
         "Codes on updates"
       ],
-      "why_now": "Hit / swing / launch is the fastest-rising mechanic at 2.69 momentum, led by Throw Food For Animals (459,635 CCU) and Hyper Realistic Ragdoll (174,338). Disaster / weather is rising at 2.40 (up 0.81 this week) with Stop The Tsunami! (24,509).",
+      "why_now": "Hit / swing / launch is the top rising mechanic at 2.85 momentum (44 new games), led by Throw Food For Animals (211,784 CCU) and Hyper Realistic Ragdoll (174,338). Paint / create is rising at 1.58 and the \"Build a ___\" formula at 1.27 with Build Your World! 🔨 (9,400).",
       "inspired_by": [
         "Throw Food For Animals",
         "Hyper Realistic Ragdoll",
-        "Stop The Tsunami!"
+        "Build Your World! 🔨"
       ],
-      "differentiator": "Disaster games make you hide from the storm; here the storm is the ball and you are the batter.",
-      "art_style": "simulator_bright",
+      "differentiator": "Launch games give you a fixed cannon; here you draw the ramp, so every jump is your own design.",
+      "art_style": "stylized",
       "map_style": "linear_course"
     },
     {
-      "title": "Tunnel Under the Horde 🧟",
+      "title": "Be a Wrecking Ball 🏗️",
       "scope": "medium",
-      "genre": "Survival · Dig and escape",
+      "genre": "Physics Sim · Destruction",
       "mechanics": [
-        "Break / mine / dig",
-        "Survive"
-      ],
-      "theme": "Zombies",
-      "hook": "The city above is overrun. Dig tunnels under the horde to reach supply drops, rescue survivors and get everyone to the evac point before your tunnels collapse.",
-      "core_loop": [
-        "Dig through dirt, pipes and rock with your shovel",
-        "Pop up under supply crates and drag them down",
-        "Reinforce tunnels with planks you craft",
-        "Rescue survivors who follow you underground",
-        "Upgrade drills and push to deeper evac points"
-      ],
-      "twist": "Zombies hear digging. Loud tools are fast but draw the horde to dig in after you, so you trade speed for noise.",
-      "monetization": [
-        "Luck boost for rare crates",
-        "VIP drill",
-        "2x dig speed multiplier",
-        "Extra survivor slots"
-      ],
-      "retention": [
-        "Underground base you keep expanding",
-        "Nightly horde events",
-        "Rescue-count leaderboard",
-        "Codes on updates"
-      ],
-      "why_now": "Break / mine / dig is rising at 1.63 momentum (up 0.65 this week) with Sandworm Playground (37,024 CCU). Break / mine / dig x Zombies is an open gap (score 3.07), and Zombies is rising at 1.20 with [UPDATE 2.1] 30 Floors Up (17,243). Interior maps are rising at 1.58.",
-      "inspired_by": [
-        "Sandworm Playground",
-        "[UPDATE 2.1] 30 Floors Up",
-        "Ragdoll Reality 🩸"
-      ],
-      "differentiator": "Zombie games are about holding a base on the surface; this one moves the whole fight underground where digging is both escape and danger.",
-      "art_style": "stylized",
-      "map_style": "interior"
-    },
-    {
-      "title": "Bail Out of the Plane 🪂",
-      "scope": "small",
-      "genre": "Escape · Skydive course",
-      "mechanics": [
-        "Escape / run",
-        "Obby / climb / jump"
-      ],
-      "theme": "Military / war",
-      "hook": "Your cargo plane is going down over a war zone. Sprint through the cabin, grab a chute and skydive past searchlights, flak and wreckage to land safe.",
-      "core_loop": [
-        "Run through the shaking cabin dodging sliding crates",
-        "Jump out and steer the freefall through hazards",
-        "Pop the chute at the right height to land in the safe zone",
-        "Earn medals to unlock new planes and drop zones",
-        "Beat your fastest escape time"
-      ],
-      "twist": "Your chute only opens once. Open early and you drift slowly through flak; open late and you risk a ragdoll crash landing.",
-      "monetization": [
-        "Speed boost",
-        "VIP parachute skins",
-        "2x medal multiplier",
-        "Auto-glide pass"
-      ],
-      "retention": [
-        "New plane every update",
-        "Fastest-escape leaderboard",
-        "Daily drop challenges",
-        "Rebirth for elite ranks"
-      ],
-      "why_now": "Escape / run x Military / war is an open gap (score 2.84). The Escape sub-genre is rising at 1.47 with 13 Days to Escape [ALPHA] (24,341 CCU), Physics Sim at 2.56 with Ragdoll Physics 🩸 (28,983), and Military is rising at 1.16 with Voxel Wars (27,834).",
-      "inspired_by": [
-        "13 Days to Escape [ALPHA]",
-        "Voxel Wars",
-        "Ragdoll Physics 🩸"
-      ],
-      "differentiator": "Military games are about shooting; this one is a pure escape run where the weapon is gravity.",
-      "art_style": "realistic",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Armor Shop [Crash Test] 🛡️",
-      "scope": "medium",
-      "genre": "Shop sim · Physics testing",
-      "mechanics": [
-        "Sell / run a shop",
-        "Hit / swing / launch"
-      ],
-      "theme": "Fantasy / medieval",
-      "hook": "Run a castle armor shop where every knight tests the armor before buying. Ragdoll them with maces, catapults and dragons. If the armor holds, they pay.",
-      "core_loop": [
-        "Forge armor pieces at your anvil",
-        "Strap them on a knight dummy at the test yard",
-        "Hit it with maces, catapults and dragon fire",
-        "Sell armor that survives for more gold",
-        "Upgrade the shop and unlock rarer metals"
-      ],
-      "twist": "Customers bring their own tests. A king may ask for armor that survives a catapult, so you have to build for the order.",
-      "monetization": [
-        "2x gold multiplier",
-        "Bigger display storage",
-        "Faster forge speed",
-        "VIP dragon test pit"
-      ],
-      "retention": [
-        "Daily royal orders",
-        "Shop value leaderboard",
-        "Codes on updates",
-        "Weekly dragon events"
-      ],
-      "why_now": "Sell / run a shop x Fantasy / medieval is an open gap (score 2.28). Sell / run a shop is rising at 1.22 with [💎] Sell Fries! [Anomaly] 🍟 (29,386 CCU), and Physics Sim is rising at 2.56 with [🏢] Ragdoll Research (19,594). Fantasy is at 1.11 with Ragdoll Playground.",
-      "inspired_by": [
-        "[💎] Sell Fries! [Anomaly] 🍟",
-        "[🏢] Ragdoll Research",
-        "Ragdoll Playground"
-      ],
-      "differentiator": "Shop games sell static items; here the product demo is a ragdoll stress test, which is the fun part.",
-      "art_style": "stylized",
-      "map_style": "interior"
-    },
-    {
-      "title": "Draw a Ragdoll ✏️",
-      "scope": "small",
-      "genre": "Sandbox · Draw and fling",
-      "mechanics": [
-        "Paint / create",
-        "Hit / swing / launch"
-      ],
-      "theme": "Giant / huge",
-      "hook": "Draw any body you want and it comes to life as a ragdoll. Long legs, ten arms, a giant head. Then fling it off the launcher and see how far your creation flies.",
-      "core_loop": [
-        "Draw a ragdoll body with a pencil tool",
-        "Watch the physics bring your drawing to life",
-        "Launch it at targets and distance markers",
-        "Earn ink to unlock bigger canvases and colours",
-        "Vote on the funniest ragdolls each round"
-      ],
-      "twist": "Bigger drawings weigh more, so a giant doodle smashes harder but flies shorter. You have to balance size and distance.",
-      "monetization": [
-        "VIP colour packs",
-        "2x ink multiplier",
-        "Bigger canvas pass"
-      ],
-      "retention": [
-        "Daily draw prompts",
-        "Farthest-fling leaderboard",
-        "Gallery of top drawings",
-        "Codes on updates"
-      ],
-      "why_now": "Paint / create is rising at 1.62 (28 new games, spread out) with Kukirin Life [Testing] (20,403 CCU), and Hit / swing / launch is at 2.69 led by Hyper Realistic Ragdoll (174,338). Physics Sim is rising at 2.56 and Giant / huge at 2.21.",
-      "inspired_by": [
-        "Kukirin Life [Testing]",
-        "Hyper Realistic Ragdoll",
-        "Ragdoll Physics 🩸"
-      ],
-      "differentiator": "Drawing games score your art; this one turns your art into the physics object, so a bad drawing is funnier than a good one.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "+1 Hammer Size 🔨",
-      "scope": "medium",
-      "genre": "Simulator · Smash and grow",
-      "mechanics": [
-        "+1 stat per action",
+        "Hit / swing / launch",
         "Break / mine / dig"
       ],
       "theme": "Giant / huge",
-      "hook": "Every swing makes your hammer one size bigger. Start by smashing pebbles, then cars, houses, mountains and finally the moon.",
+      "hook": "You are the wrecking ball. Swing on your crane chain into buildings, smash them to rubble and grow bigger with every block you break.",
       "core_loop": [
-        "Swing at objects to gain +1 hammer size",
-        "Smash bigger objects for more loot",
-        "Unlock new zones that need a giant hammer",
-        "Rebirth for faster growth",
-        "Collect hammer skins in the index"
+        "Swing into a building and break as many parts as you can",
+        "Collect cash from falling rubble",
+        "Grow your ball heavier and your chain longer",
+        "Unlock bigger districts with skyscrapers",
+        "Rebirth into a giant ball that flattens whole blocks"
       ],
-      "twist": "A giant hammer is slow. You can shrink it any time to swing fast on small loot, so you pick the right size for each target.",
+      "twist": "Every few minutes a demolition contract names one tower; the player who knocks it down first takes the bonus.",
       "monetization": [
-        "2x size multiplier",
-        "Auto-swing pass",
-        "VIP hammer skins",
-        "Luck boost for rare ores"
+        "2x rubble cash multiplier",
+        "VIP spiked ball skin",
+        "Lucky crit-smash boost"
       ],
       "retention": [
-        "Rebirth ladder",
-        "Biggest-hammer leaderboard",
-        "Daily rewards",
-        "Codes on updates"
+        "Daily demolition contract",
+        "Biggest-ball leaderboard",
+        "Weekend double-cash events"
       ],
-      "why_now": "+1 stat per action is rising at 1.77 with [⚔️UPD] +1 Venom Evolution (26,045 CCU) and +1 Boxing Battle Evolution (15,710). Break / mine / dig is at 1.63 and Giant / huge at 2.21 with [🐶PETS] Raise The Biggest Family (23,011).",
+      "why_now": "Hit / swing / launch leads at 2.85 momentum with Hyper Realistic Ragdoll (174,338 CCU). Break / mine / dig is rising at 1.78 with Sandworm Playground (15,548), Giant / huge at 2.49 and Physics Sim at 2.83. The \"Be a ___\" formula is up to 1.32 with ⚽ Be a Soccer Legend (7,756).",
       "inspired_by": [
-        "[⚔️UPD] +1 Venom Evolution",
-        "+1 Boxing Battle Evolution",
-        "[🐶PETS] Raise The Biggest Family"
+        "Hyper Realistic Ragdoll",
+        "Sandworm Playground",
+        "⚽ Be a Soccer Legend"
       ],
-      "differentiator": "+1 games grow your body; here the growing thing is your tool, and each size tier opens a new layer of the world to smash.",
+      "differentiator": "Destruction games hand you a hammer; here you are the swinging ball, and your size is your progress.",
+      "art_style": "stylized",
+      "map_style": "zone_progression"
+    },
+    {
+      "title": "Dig Cake for Candy 🍰",
+      "scope": "medium",
+      "genre": "Simulator · Dig down",
+      "mechanics": [
+        "Break / mine / dig",
+        "Sell / run a shop"
+      ],
+      "theme": "Food / candy",
+      "hook": "A giant birthday cake sits in the middle of town. Dig down through frosting, sponge and jam layers to find the rare candy buried inside, then sell it at your sweet stand.",
+      "core_loop": [
+        "Dig through cake layers with your spoon or shovel",
+        "Find candies, rarer the deeper you go",
+        "Sell candy at your stand for cash",
+        "Buy better diggers and bigger bags",
+        "Reach the next layer for new candy"
+      ],
+      "twist": "The cake is shared and slowly fills back in with fresh frosting, so the deepest tunnels race the refill.",
+      "monetization": [
+        "2x candy multiplier",
+        "VIP golden spoon",
+        "Extra bag storage"
+      ],
+      "retention": [
+        "Daily rare-candy hunt",
+        "Deepest-dig leaderboard",
+        "Weekly new cake flavour"
+      ],
+      "why_now": "Break / mine / dig is rising at 1.78 momentum (43 new games) with Sandworm Playground (15,548 CCU) and [🐣UPD] Run A Farm! (7,376). Food / candy is up at 1.46 with My Cookie Store 🍪[BETA] (4,727), and Giant / huge is at 2.49.",
+      "inspired_by": [
+        "Sandworm Playground",
+        "[🐣UPD] Run A Farm!",
+        "My Cookie Store 🍪[BETA]"
+      ],
+      "differentiator": "Mining games dig rock and ore; this digs a giant cake, so every layer looks and tastes different.",
       "art_style": "simulator_bright",
       "map_style": "zone_progression"
     },
     {
-      "title": "Grow a Car 🚗",
-      "scope": "medium",
-      "genre": "Farming · Grow and race",
+      "title": "Be a Tank Racer 🪖",
+      "scope": "large",
+      "genre": "Racing · Vehicle combat",
       "mechanics": [
-        "Grow / farm",
-        "Race / drive"
+        "Race / drive",
+        "Shooter"
       ],
-      "theme": "Vehicles",
-      "hook": "Plant a car seed and water it until a car grows out of the ground. Rare seeds grow sports cars and monster trucks. Harvest them and race your crop.",
+      "theme": "Military / war",
+      "hook": "Race tanks around a war-torn track and fire at the tanks ahead of you. First across the line wins, but only if your armor survives the shells.",
       "core_loop": [
-        "Plant car seeds in your garden plot",
-        "Water and fertilise to grow parts (wheels, engine, body)",
-        "Harvest the finished car",
-        "Race it on the town track for cash",
-        "Buy rarer seeds and mutations"
+        "Pick a tank and join a race lobby",
+        "Drive the course and shoot rivals to slow them",
+        "Grab repair and ammo pickups on the track",
+        "Win cash and parts by placing",
+        "Upgrade engine, turret and armor"
       ],
-      "twist": "Mutations change the car: a frost mutation adds ice tyres, a gold mutation doubles race cash. You breed seeds for the car you want.",
+      "twist": "Shells blast holes and shortcuts in the track walls, so the course changes every lap.",
       "monetization": [
-        "Luck boost for rare seeds",
-        "Faster growth multiplier",
-        "VIP garden plot",
-        "Extra plot storage"
+        "VIP camo tank",
+        "2x race cash multiplier",
+        "Limited event tank skins"
       ],
       "retention": [
-        "Weekly race cup",
-        "Seed index",
-        "Mutation events",
+        "Weekly ranked race season",
+        "Limited-time event tracks",
+        "Daily first-win bonus"
+      ],
+      "why_now": "Race / drive + Shooter is the second strongest pairing in new games (5 games, 201,478 CCU). Shooter is at 1.64 momentum (up 1.03 this week) with Ragdoll Physics 🩸 (27,367), Race / drive at 1.48 (up 0.50) with BloxNG [CRASH PHYSICS] 💥 (10,403), and Military / war at 1.25 with Voxel Wars (15,188).",
+      "inspired_by": [
+        "Ragdoll Physics 🩸",
+        "BloxNG [CRASH PHYSICS] 💥",
+        "Voxel Wars"
+      ],
+      "differentiator": "Tank games are slow battles and racers have no weapons; this is a fast race where the cannon is your way to pass.",
+      "art_style": "realistic",
+      "map_style": "linear_course"
+    },
+    {
+      "title": "Escape the Drill Sergeant 🎖️",
+      "scope": "small",
+      "genre": "Obby · Chase",
+      "mechanics": [
+        "Escape / run"
+      ],
+      "theme": "Military / war",
+      "hook": "Boot camp is a nightmare. Run the obstacle course before the angry drill sergeant catches you and sends you back to the start.",
+      "core_loop": [
+        "Start the course when the whistle blows",
+        "Climb walls, crawl under nets and jump mud pits",
+        "Stay ahead of the chasing sergeant",
+        "Reach the next checkpoint for medals",
+        "Spend medals on speed and stamina"
+      ],
+      "twist": "The sergeant gets faster each time a player in the server finishes, so late runners face a tougher chase.",
+      "monetization": [
+        "2x medal multiplier",
+        "Speed boots",
+        "VIP skip-a-stage pass"
+      ],
+      "retention": [
+        "Daily new course order",
+        "Fastest-escape leaderboard",
+        "Weekly rank promotions"
+      ],
+      "why_now": "Escape / run with Military / war is an open gap (score 2.64). Escape / run is at 1.26 momentum with 13 Days to Escape [ALPHA] (10,090 CCU), the Escape subgenre at 1.67, and the \"Escape ___\" formula is up 0.16 to 1.08 with Escape the Basement! (2,497). Military / war is rising at 1.25 with Voxel Wars (15,188).",
+      "inspired_by": [
+        "13 Days to Escape [ALPHA]",
+        "Escape the Basement!",
+        "Voxel Wars"
+      ],
+      "differentiator": "Military games are about fighting; this is a funny boot-camp chase where the only enemy is your sergeant.",
+      "art_style": "stylized",
+      "map_style": "linear_course"
+    },
+    {
+      "title": "Rent Horses for Gold 🐴",
+      "scope": "medium",
+      "genre": "Tycoon · Shop",
+      "mechanics": [
+        "Sell / run a shop"
+      ],
+      "theme": "Fantasy / medieval",
+      "hook": "Run the stable at the edge of the kingdom. Rent horses to knights heading off on quests, and they come back with gold, loot or a tired horse.",
+      "core_loop": [
+        "Feed and groom horses in your stable",
+        "Rent them to passing knights",
+        "Collect gold and quest loot when they return",
+        "Buy faster, rarer horses and bigger stalls",
+        "Unlock harder quests that pay more"
+      ],
+      "twist": "Some knights bring horses back hurt or never return, so you choose which knights to trust with your best horses.",
+      "monetization": [
+        "2x rent gold multiplier",
+        "VIP royal stable",
+        "Extra stall storage",
+        "Faster quest speed"
+      ],
+      "retention": [
+        "Daily royal quest board",
+        "Codes on updates",
+        "Richest-stable leaderboard"
+      ],
+      "why_now": "Sell / run a shop with Fantasy / medieval is an open gap (score 2.15). Sell / run a shop is rising at 1.15 momentum (36 new games) with [💎] Sell Fries! [Anomaly] 🍟 (12,100 CCU) and Sell a Million Sushi (5,219). The \"___ for ___\" formula holds 1.07 with Jump for Cases🎲 (7,685).",
+      "inspired_by": [
+        "[💎] Sell Fries! [Anomaly] 🍟",
+        "Sell a Million Sushi",
+        "Jump for Cases🎲"
+      ],
+      "differentiator": "Shop games sell food to walk-ins; here you rent out horses and wait to see what the quest brings back.",
+      "art_style": "stylized",
+      "map_style": "plot_base"
+    },
+    {
+      "title": "Doodle Soldiers for Medals ✏️",
+      "scope": "medium",
+      "genre": "Strategy · Drawn armies",
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "hook": "Draw your soldiers, tanks and walls on paper, and they come to life on the battlefield. Better drawings fight harder.",
+      "core_loop": [
+        "Draw units with your ink budget",
+        "Send them into battle against another player's army",
+        "Win medals when your army holds the field",
+        "Unlock new ink colours that give units powers",
+        "Climb the ranks to bigger battles"
+      ],
+      "twist": "Units are judged by how they are drawn: longer legs run faster, thicker lines make tougher armor.",
+      "monetization": [
+        "2x medal multiplier",
+        "VIP rainbow ink",
+        "Extra ink per round"
+      ],
+      "retention": [
+        "Daily drawing challenge",
+        "Ranked battle season",
         "Codes on updates"
       ],
-      "why_now": "Grow / farm is rising at 1.50 (45 new games, spread out) with [🐜] Ant Evolution (29,038 CCU) and [2x WEEKEND] Farm Evolution (17,917). The Vehicle Sim sub-genre is rising at 1.42 with Can You Pass A Driving Test? (25,800).",
+      "why_now": "Paint / create is rising at 1.58 momentum with ⚽ Be a Soccer Legend (7,756 CCU) and Backseat Rally (4,555). Fight / battle is up 0.37 this week to 1.12, and Military / war is at 1.25 with Voxel Wars (15,188) and Ragdoll Wars! (5,380).",
+      "inspired_by": [
+        "⚽ Be a Soccer Legend",
+        "Voxel Wars",
+        "Ragdoll Wars!"
+      ],
+      "differentiator": "War games give you set units; here every soldier is something you drew, so no two armies look alike.",
+      "art_style": "simulator_bright",
+      "map_style": "arena"
+    },
+    {
+      "title": "Grow a Giant Pearl 🦪",
+      "scope": "medium",
+      "genre": "Simulator · Ocean farm",
+      "mechanics": [
+        "Grow / farm"
+      ],
+      "theme": "Ocean / pirates",
+      "hook": "Farm oysters on your own stretch of reef. Feed them, wait, and crack them open for pearls that grow huge and glow in rare colours.",
+      "core_loop": [
+        "Plant oysters on your reef plot",
+        "Feed them plankton to grow their pearls",
+        "Crack them open for pearls",
+        "Sell pearls or keep rare ones in your collection",
+        "Expand your reef and buy better oysters"
+      ],
+      "twist": "The longer you wait before cracking an oyster, the bigger the pearl, but a passing storm can wash unopened ones away.",
+      "monetization": [
+        "2x growth multiplier",
+        "Lucky rare-pearl boost",
+        "VIP diver suit"
+      ],
+      "retention": [
+        "Daily giant-pearl contest",
+        "Biggest-pearl leaderboard",
+        "Weekly new oyster type"
+      ],
+      "why_now": "Grow / farm is rising at 1.57 momentum (49 new games) with [🐜] Ant Evolution (17,036 CCU), [2x WEEKEND] Farm Evolution (10,635) and Throw a Seed (9,426). Giant / huge is at 2.49 with [FOREST] Durian Garden 🍈 (4,597), and Ocean / pirates is at 1.20.",
       "inspired_by": [
         "[🐜] Ant Evolution",
-        "[2x WEEKEND] Farm Evolution",
-        "Can You Pass A Driving Test?"
+        "Throw a Seed",
+        "[FOREST] Durian Garden 🍈"
       ],
-      "differentiator": "Farming games sell crops; here the crop is a car you drive, so the harvest becomes the race.",
+      "differentiator": "Farm games grow crops on land; this grows pearls under the sea, and size is the whole point.",
       "art_style": "simulator_bright",
       "map_style": "plot_base"
     },
     {
-      "title": "Tie Down the Giant 🪢",
-      "scope": "large",
-      "genre": "Co-op action · Giant hunt",
+      "title": "+1 Anchor Weight ⚓",
+      "scope": "small",
+      "genre": "Simulator · +1 dive",
       "mechanics": [
-        "Shooter",
-        "Fight / battle"
+        "+1 stat per action"
       ],
-      "theme": "Giant / huge",
-      "hook": "A giant is stomping toward the city. Your team fires grappling ropes at its arms and legs to pin it down before it reaches the walls.",
+      "theme": "Ocean / pirates",
+      "hook": "Every time you drop your anchor it gets +1 heavier. Heavier anchors sink deeper, and deeper water hides better treasure.",
       "core_loop": [
-        "Spawn on the city wall with a rope launcher",
-        "Fire ropes at the giant's limbs and anchor them",
-        "Dodge stomps and swats as it fights back",
-        "Topple the giant for loot and medals",
-        "Upgrade launchers and unlock bigger giants"
+        "Drop your anchor off the dock",
+        "Gain +1 weight each drop",
+        "Sink deeper and grab treasure on the way",
+        "Rebirth for weight multipliers",
+        "Reach the next ocean zone"
       ],
-      "twist": "Every rope you anchor is also a path. Teammates can run up the ropes to hit weak spots on the giant's back.",
+      "twist": "Sea creatures grab onto your anchor on the way down and drag up as pets that boost your weight gain.",
       "monetization": [
-        "VIP launcher skins",
-        "2x medal multiplier",
-        "Extra rope capacity",
-        "Cosmetic ropes and trails"
+        "2x weight multiplier",
+        "Auto-drop pass",
+        "Extra treasure storage",
+        "VIP golden anchor"
       ],
       "retention": [
-        "New giant every update",
-        "Weekly boss rush",
-        "Team leaderboards",
-        "Daily rewards"
+        "Daily rewards",
+        "Deepest-drop leaderboard",
+        "Rebirths and codes"
       ],
-      "why_now": "Giant / huge is rising at 2.21 (up 0.45 this week) led by Hyper Realistic Ragdoll (174,338 CCU). Shooter is rising at 1.30 and Fight / battle x Shooter is a top pair (6 new games, 211,730 CCU). Arena maps are rising at 1.31 with Unstable SMP FFA [JAVA PVP!] (46,755).",
+      "why_now": "The \"+1 ___\" formula is still at 1.88 momentum (35 new games, down 0.32 this week) with [🌍UPD 5] +1 Venom Evolution (12,660 CCU) and [⚔️CLANS] +1 Gun Forge (8,131). Ocean / pirates is at 1.20 with [🏝️ISLAND] Criminal Simulator 💰 (14,138), and depth games like [UPD6 🎉] Depth Incremental (13,895) lead the 1.75 linear-course map style.",
       "inspired_by": [
-        "Hyper Realistic Ragdoll",
-        "Ragdoll Physics 🩸",
-        "Unstable SMP FFA [JAVA PVP!]"
+        "[🌍UPD 5] +1 Venom Evolution",
+        "[⚔️CLANS] +1 Gun Forge",
+        "[UPD6 🎉] Depth Incremental"
       ],
-      "differentiator": "Shooters pit players against each other; this one points the whole server at one huge target that fights back.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "Ram Walls for Gems 🛻",
-      "scope": "medium",
-      "genre": "Driving · Smash course",
-      "mechanics": [
-        "Race / drive",
-        "Break / mine / dig"
-      ],
-      "theme": "Vehicles",
-      "hook": "Drive a monster truck through walls of stone, ice and gold. Every wall you break spills gems, and the next wall is always thicker.",
-      "core_loop": [
-        "Pick a truck and floor it down the course",
-        "Smash through walls for gems",
-        "Bank gems at the end to buy engine and bumper upgrades",
-        "Reach thicker, richer walls",
-        "Unlock new trucks and course themes"
-      ],
-      "twist": "Truck damage carries over. Smash too many walls without repairs and parts start flying off mid-run.",
-      "monetization": [
-        "2x gem multiplier",
-        "VIP trucks",
-        "Speed boost",
-        "Luck boost for rare gem walls"
-      ],
-      "retention": [
-        "Rebirth for faster trucks",
-        "Furthest-wall leaderboard",
-        "Daily wall challenge",
-        "Codes on updates"
-      ],
-      "why_now": "Break / mine / dig x Race / drive is a top pair (3 new games, 180,624 CCU). Break / mine / dig is rising at 1.63 with Sandworm Playground (37,024 CCU), and Vehicle Sim at 1.42 with BloxNG [CRASH PHYSICS] 💥 (21,503). The \"___ for ___\" formula is at 1.06 with [😈] Jump for Cases🎲.",
-      "inspired_by": [
-        "Sandworm Playground",
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Can You Pass A Driving Test?"
-      ],
-      "differentiator": "Crash games wreck cars for fun; here the crash is the mining tool, with a clear gem economy behind every wall.",
-      "art_style": "voxel_blocky",
+      "differentiator": "+1 games grow speed or size; here the stat is weight, so the number literally pulls you deeper.",
+      "art_style": "simulator_bright",
       "map_style": "linear_course"
     },
     {
-      "title": "Be a Meteor ☄️",
+      "title": "Blast Asteroids for Ore ☄️",
       "scope": "large",
-      "genre": "Physics sim · Destruction",
+      "genre": "Shooter · Space mining",
       "mechanics": [
-        "Hit / swing / launch",
-        "+1 stat per action"
+        "Shooter",
+        "Break / mine / dig"
       ],
       "theme": "Space",
-      "hook": "You are a meteor. Pick your landing spot, smash into towns, farms and cities, and every crash makes you bigger for the next impact.",
+      "hook": "Fly a mining ship through an asteroid field and blast rocks apart for ore. Big asteroids crack into smaller ones, and the rare cores hide in the middle.",
       "core_loop": [
-        "Steer your meteor through space dodging satellites",
-        "Slam into a planet target for damage points",
-        "Gain +1 size from what you destroy",
-        "Rebirth into rarer meteors (ice, gold, plasma)",
-        "Unlock new planets to hit"
+        "Fly into the asteroid field",
+        "Shoot asteroids to break them apart",
+        "Collect the ore and cores that float out",
+        "Sell at the station for upgrades",
+        "Push into deeper fields with giant asteroids"
       ],
-      "twist": "Other players can be the planet's defenders, firing lasers to shrink you before landing, so every server mixes meteors and defenders.",
+      "twist": "Other players can shoot the ore you broke loose, so you protect your haul or race to grab theirs.",
       "monetization": [
-        "2x size multiplier",
-        "VIP meteor trails",
-        "Luck boost for rare meteor types",
-        "Auto-steer pass"
+        "VIP laser color",
+        "2x ore multiplier",
+        "Bigger cargo hold"
       ],
       "retention": [
-        "Biggest-crater leaderboard",
-        "Rebirth ladder",
-        "Daily planets",
-        "Codes on updates"
+        "Weekly giant asteroid event",
+        "Richest-miner leaderboard",
+        "Daily rare-core spawn"
       ],
-      "why_now": "Space is rising at 2.56 (up 0.68 this week) with [🛸] Sweep The Moon 🌕 (25,339 CCU), Disaster / weather at 2.40, and Hit / swing / launch leads all mechanics at 2.69 with Bloody Ragdoll Physics 🩸 (41,791). The \"Be a ___\" formula is at 1.39 with ⚽ Be a Soccer Legend.",
+      "why_now": "Space is the fastest-rising theme at 2.86 momentum (up 1.20 this week) with [🛸] Sweep The Moon 🌕 (10,811 CCU). Shooter is at 1.64 (up 1.03) with Ragdoll Physics 🩸 (27,367), and Break / mine / dig is at 1.78 with Sandworm Playground (15,548).",
       "inspired_by": [
         "[🛸] Sweep The Moon 🌕",
-        "Hyper Realistic Ragdoll",
-        "Bloody Ragdoll Physics 🩸"
+        "Ragdoll Physics 🩸",
+        "Sandworm Playground"
       ],
-      "differentiator": "Destruction sandboxes give you tools; here you are the disaster, and growing between impacts gives it a progression loop.",
-      "art_style": "realistic",
+      "differentiator": "Mining games use pickaxes on the ground; this mines by shooting in open space, with other ships as rivals.",
+      "art_style": "stylized",
       "map_style": "open_world"
     }
   ]
