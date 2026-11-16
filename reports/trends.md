@@ -1,6 +1,6 @@
-# Uprising trends — 2026-11-15
+# Uprising trends — 2026-11-16
 
-5,696 games tracked · 711 are 60 days old or less and hold 27% of CCU.
+5,883 games tracked · 773 are 60 days old or less and hold 28% of CCU.
 
 Momentum = a category's share of young-game CCU divided by its share of all CCU. Above 1 means new games in it are outperforming its size: it's rising.
 
@@ -8,90 +8,90 @@ Momentum = a category's share of young-game CCU divided by its share of all CCU.
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Hit / swing / launch | 2.69x | medium (42 new games, top one 56% of their CCU) | 42 | 816,618 | 177 | Throw Food For Animals (459,635) |
-| Paint / create | 1.62x | high (28 new games, spread out) | 28 | 103,600 | 116 | Kukirin Life [Testing] (20,403) |
-| +1 stat per action | 1.77x | medium (momentum down 0.43 this week) | 37 | 183,215 | 236 | [⚔️UPD] +1 Venom Evolution (26,045) |
-| Break / mine / dig | 1.63x | medium (41 new games, top one 57% of their CCU; momentum up 0.65 this week) | 41 | 306,553 | 199 | Hyper Realistic Ragdoll (174,338) |
-| Grow / farm | 1.5x | high (45 new games, spread out) | 45 | 160,859 | 227 | [🐜] Ant Evolution (29,038) |
-| Shooter | 1.3x | high (momentum up 0.55 this week) | 32 | 391,197 | 286 | Hyper Realistic Ragdoll (174,338) |
-| Escape / run | 1.31x | high (34 new games, spread out) | 34 | 185,666 | 351 | Stop The Tsunami! (24,509) |
-| Sell / run a shop | 1.22x | high (35 new games, spread out) | 35 | 110,483 | 150 | [💎] Sell Fries! [Anomaly] 🍟 (29,386) |
-| Tycoon / base building | 1.18x | high (97 new games, spread out) | 97 | 348,287 | 702 | Voxel Wars (27,834) |
-| Race / drive | 1.15x | high (momentum up 0.26 this week) | 57 | 449,555 | 386 | Hyper Realistic Ragdoll (174,338) |
-| Party / minigames | 1.15x | medium (7 new games, top one 25% of their CCU; momentum up 0.34 this week) | 7 | 25,957 | 78 | [💡UPD] Rarest Answer Party! 🦐 (6,417) |
-| Dice / cards | 1.06x | medium (14 new games, top one 50% of their CCU) | 14 | 34,604 | 72 | [W3] Steal a Superpower! (17,475) |
+| Hit / swing / launch | 2.6x | medium (momentum down 0.30 this week) | 44 | 559,103 | 180 | Throw Food For Animals (211,784) |
+| +1 stat per action | 1.75x | medium (momentum down 0.45 this week) | 40 | 126,775 | 247 | [🌍UPD 5] +1 Venom Evolution (18,445) |
+| Paint / create | 1.59x | medium (momentum down 0.39 this week) | 32 | 83,086 | 120 | ⚽ Be a Soccer Legend (11,726) |
+| Break / mine / dig | 1.79x | low (one game holds 64% of new-game CCU) | 43 | 274,341 | 203 | Hyper Realistic Ragdoll (174,338) |
+| Shooter | 1.36x | medium (35 new games, top one 49% of their CCU; momentum up 0.75 this week) | 35 | 356,656 | 293 | Hyper Realistic Ragdoll (174,338) |
+| Grow / farm | 1.41x | high (49 new games, spread out) | 49 | 116,579 | 234 | [🐜] Ant Evolution (18,960) |
+| Escape / run | 1.28x | high (37 new games, spread out) | 37 | 144,926 | 369 | [UPDATE 2.1] 30 Floors Up (25,514) |
+| Race / drive | 1.21x | high (momentum up 0.23 this week) | 62 | 391,308 | 397 | Hyper Realistic Ragdoll (174,338) |
+| Tycoon / base building | 1.23x | high (106 new games, spread out) | 106 | 274,955 | 728 | [🛸] Sweep The Moon 🌕 (41,702) |
+| Party / minigames | 1.23x | medium (7 new games, top one 37% of their CCU; momentum up 0.38 this week) | 7 | 34,461 | 78 | The Ditch Hotel [STREAKS!] (12,695) |
+| Sell / run a shop | 1.1x | high (36 new games, spread out) | 36 | 79,291 | 158 | [💎] Sell Fries! [Anomaly] 🍟 (12,100) |
 
 ## Rising themes
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Space | 2.56x | low (one game holds 72% of new-game CCU) | 17 | 240,475 | 79 | Hyper Realistic Ragdoll (174,338) |
-| Disaster / weather | 2.4x | low (one game holds 72% of new-game CCU) | 10 | 241,116 | 79 | Hyper Realistic Ragdoll (174,338) |
-| Giant / huge | 2.21x | low (one game holds 66% of new-game CCU) | 23 | 262,982 | 107 | Hyper Realistic Ragdoll (174,338) |
-| Money / rich | 1.54x | high (58 new games, spread out) | 58 | 263,906 | 412 | [🐟] Net a Fish! (32,345) |
-| Robots / mechs | 1.74x | medium (10 new games, top one 48% of their CCU) | 10 | 52,353 | 21 | [🛸] Sweep The Moon 🌕 (25,339) |
-| Food / candy | 1.65x | low (one game holds 93% of new-game CCU) | 10 | 493,172 | 97 | Throw Food For Animals (459,635) |
-| Vehicles | 1.18x | high (momentum up 0.26 this week) | 54 | 399,502 | 305 | Hyper Realistic Ragdoll (174,338) |
-| Military / war | 1.16x | high (momentum up 0.26 this week) | 16 | 65,970 | 132 | Voxel Wars (27,834) |
-| Fantasy / medieval | 1.11x | high (15 new games, spread out) | 15 | 33,962 | 111 | Ragdoll Playground (13,283) |
-| Zombies | 1.2x | high (10 new games, spread out) | 10 | 48,392 | 83 | [UPDATE 2.1] 30 Floors Up (17,243) |
-| Sports | 1.12x | high (momentum up 0.33 this week) | 27 | 105,149 | 168 | Ragdoll Soccer (35,054) |
-| Ocean / pirates | 1.15x | high (18 new games, spread out) | 18 | 66,304 | 104 | [🏝️ISLAND] Criminal Simulator 💰 (27,755) |
+| Space | 2.63x | low (one game holds 68% of new-game CCU) | 18 | 255,868 | 83 | Hyper Realistic Ragdoll (174,338) |
+| Disaster / weather | 2.38x | low (one game holds 80% of new-game CCU) | 13 | 218,723 | 83 | Hyper Realistic Ragdoll (174,338) |
+| Giant / huge | 2.24x | low (one game holds 74% of new-game CCU) | 26 | 234,756 | 116 | Hyper Realistic Ragdoll (174,338) |
+| Money / rich | 1.57x | high (70 new games, spread out) | 70 | 197,229 | 433 | [🐟] Net a Fish! (24,358) |
+| Robots / mechs | 2.01x | low (one game holds 61% of new-game CCU) | 10 | 68,833 | 22 | [🛸] Sweep The Moon 🌕 (41,702) |
+| Ice / fire / elements | 1.23x | high (11 new games, spread out) | 11 | 47,774 | 110 | [PHYSICS] Ragdoll Playground (14,115) |
+| Military / war | 1.25x | high (momentum up 0.34 this week) | 19 | 54,098 | 136 | Voxel Wars (15,323) |
+| Vehicles | 1.28x | medium (58 new games, top one 51% of their CCU; momentum up 0.26 this week) | 58 | 343,244 | 315 | Hyper Realistic Ragdoll (174,338) |
+| Prison / police | 1.26x | medium (13 new games, top one 50% of their CCU) | 13 | 50,656 | 82 | 13 Days to Escape [ALPHA] (25,096) |
+| Zombies | 1.26x | medium (10 new games, top one 53% of their CCU) | 10 | 48,431 | 85 | [UPDATE 2.1] 30 Floors Up (25,514) |
+| Fantasy / medieval | 1.12x | medium (17 new games, top one 45% of their CCU) | 17 | 31,104 | 115 | [PHYSICS] Ragdoll Playground (14,115) |
+| Food / candy | 1.3x | low (one game holds 90% of new-game CCU; momentum down 0.53 this week) | 13 | 234,620 | 103 | Throw Food For Animals (211,784) |
 
 ## Rising title formulas
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| "+1 ___" | 1.8x | medium (momentum down 0.40 this week) | 32 | 157,228 | 192 | [⚔️UPD] +1 Venom Evolution (26,045) |
-| "Build a ___" | 1.31x | medium (10 new games, top one 48% of their CCU; momentum up 0.18 this week) | 10 | 49,750 | 63 | Build Your World! 🔨 (23,745) |
-| "Be a ___" | 1.39x | low (one game holds 81% of new-game CCU) | 5 | 24,662 | 26 | ⚽ Be a Soccer Legend (19,936) |
-| "___ for ___" (Swing for Eggs) | 1.06x | medium (momentum down 0.47 this week) | 6 | 28,035 | 53 | [😈] Jump for Cases🎲 (12,226) |
+| "+1 ___" | 1.82x | medium (momentum down 0.38 this week) | 35 | 110,672 | 201 | [🌍UPD 5] +1 Venom Evolution (18,445) |
+| "Build a ___" | 1.32x | high (momentum up 0.17 this week) | 11 | 34,155 | 65 | Build Your World! 🔨 (13,539) |
+| "Be a ___" | 1.31x | low (one game holds 76% of new-game CCU) | 6 | 15,418 | 27 | ⚽ Be a Soccer Legend (11,726) |
+| "___ for ___" (Swing for Eggs) | 1.07x | medium (momentum down 0.60 this week) | 5 | 15,409 | 53 | Jump for Cases🎲 (7,685) |
 
 ## Rising subgenres
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Physics Sim | 2.56x | medium (30 new games, top one 47% of their CCU; momentum up 0.26 this week) | 30 | 371,386 | 86 | Hyper Realistic Ragdoll (174,338) |
-| Sandbox | 1.96x | high (momentum up 0.76 this week) | 16 | 160,942 | 116 | Bloody Ragdoll Physics 🩸 (41,791) |
-| Escape | 1.47x | high (23 new games, spread out) | 23 | 195,254 | 186 | [🗺️MAPS] Survive Your Ideas (70,955) |
-| Vehicle Sim | 1.42x | high (35 new games, spread out) | 35 | 206,870 | 202 | Can You Pass A Driving Test? (25,800) |
-| Runner | 1.7x | low (only 3 new games; one game holds 93% of new-game CCU; momentum down 0.64 this week) | 3 | 57,815 | 28 | DONT SPLASH (53,879) |
-| Incremental Simulator | 1.41x | medium (momentum down 0.33 this week) | 117 | 433,824 | 654 | [🐟] Net a Fish! (32,345) |
-| Sports | 1.15x | high (momentum up 0.38 this week) | 23 | 101,481 | 151 | Ragdoll Soccer (35,054) |
-| Idle | 1.22x | medium (15 new games, top one 57% of their CCU) | 15 | 13,106 | 30 | Don’t Miss Your Flight! ✈️ (7,433) |
-| Racing | 1.12x | high (11 new games, spread out) | 11 | 10,316 | 36 | [80+ CARS🔥] Simple Drift (4,207) |
-| Quiz | 1.22x | medium (6 new games, top one 53% of their CCU) | 6 | 12,195 | 25 | [💡UPD] Rarest Answer Party! 🦐 (6,417) |
-| Story | 1.07x | medium (7 new games, top one 52% of their CCU) | 7 | 26,446 | 116 | PINKIE PROMISE [HORROR] (13,765) |
-| Tycoon | 1.13x | medium (124 new games, top one 54% of their CCU) | 124 | 858,787 | 768 | Throw Food For Animals (459,635) |
+| Physics Sim | 2.66x | medium (31 new games, top one 52% of their CCU; momentum up 0.42 this week) | 31 | 335,009 | 87 | Hyper Realistic Ragdoll (174,338) |
+| Sandbox | 1.96x | high (momentum up 0.64 this week) | 20 | 128,679 | 122 | Bloody Ragdoll Physics 🩸 (38,287) |
+| Escape | 1.55x | high (27 new games, spread out) | 27 | 198,949 | 193 | [🗺️MAPS] Survive Your Ideas (56,355) |
+| Runner | 1.75x | low (only 3 new games; one game holds 93% of new-game CCU; momentum down 0.49 this week) | 3 | 52,003 | 28 | DONT SPLASH (48,419) |
+| Vehicle Sim | 1.36x | high (36 new games, spread out) | 36 | 141,435 | 207 | BloxNG [CRASH PHYSICS] 💥 (18,736) |
+| Incremental Simulator | 1.38x | high (128 new games, spread out) | 128 | 350,926 | 683 | [🛸] Sweep The Moon 🌕 (41,702) |
+| Dress Up | 1.07x | high (18 new games, spread out) | 18 | 45,017 | 47 | Evermore High 🦢 (17,186) |
+| Tycoon | 1.16x | high (135 new games, spread out) | 135 | 484,502 | 800 | Throw Food For Animals (211,784) |
+| Racing | 1.13x | high (11 new games, spread out) | 11 | 9,521 | 37 | Raycity RB (2,814) |
+| Idle | 1.22x | medium (17 new games, top one 46% of their CCU) | 17 | 10,897 | 32 | Don’t Miss Your Flight! ✈️ (4,960) |
+| Story | 1.23x | low (one game holds 69% of new-game CCU) | 9 | 29,021 | 122 | PINKIE PROMISE [HORROR] (20,162) |
+| Coloring & Drawing | 1.06x | medium (5 new games, top one 49% of their CCU) | 5 | 9,578 | 34 | 🎨 Draw the Other Half! (4,666) |
 
 ## Rising art styles
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Realistic | 1.52x | high (50 new games, spread out) | 50 | 447,606 | 119 | Voxel Wars (27,834) |
-| Voxel / blocky | 1.57x | medium (14 new games, top one 49% of their CCU) | 14 | 95,199 | 37 | Unstable SMP FFA [JAVA PVP!] (46,755) |
-| Meme / chaotic | 1.28x | medium (5 new games, top one 54% of their CCU) | 5 | 23,268 | 9 | [EXTINCT] Fake an Egg (12,606) |
-| Stylized / cartoon | 1.12x | high (79 new games, spread out) | 79 | 925,977 | 184 | Hyper Realistic Ragdoll (174,338) |
-| Bright simulator | 1.22x | medium (74 new games, top one 45% of their CCU) | 74 | 1,012,320 | 172 | Throw Food For Animals (459,635) |
-| Low poly | 1.28x | high (10 new games, spread out) | 10 | 30,614 | 13 | [Update] Tiny Skies ✈️ Fighter Jet & Helicopters (7,773) |
+| Realistic | 1.53x | high (50 new games, spread out) | 50 | 354,370 | 119 | [🏝️ISLAND] Criminal Simulator 💰 (25,653) |
+| Voxel / blocky | 1.44x | high (14 new games, spread out) | 14 | 63,744 | 38 | Unstable SMP FFA [JAVA PVP!] (27,572) |
+| Meme / chaotic | 1.22x | medium (5 new games, top one 44% of their CCU) | 5 | 15,813 | 9 | [EXTINCT] Fake an Egg (6,916) |
+| Stylized / cartoon | 1.13x | high (80 new games, spread out) | 80 | 813,939 | 185 | Hyper Realistic Ragdoll (174,338) |
+| Bright simulator | 1.21x | high (71 new games, spread out) | 71 | 581,190 | 171 | Throw Food For Animals (211,784) |
+| Low poly | 1.19x | high (10 new games, spread out) | 10 | 20,688 | 13 | ABOVE [⚡ARCANE] (4,697) |
 
 ## Rising map styles
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Interiors / corridors | 1.58x | high (55 new games, spread out) | 55 | 396,183 | 156 | DONT SPLASH (53,879) |
-| Linear course / stages | 1.76x | low (one game holds 65% of new-game CCU) | 80 | 705,821 | 914 | Throw Food For Animals (459,635) |
-| Arena / battleground | 1.31x | high (86 new games, spread out) | 86 | 603,123 | 590 | Hyper Realistic Ragdoll (174,338) |
+| Linear course / stages | 1.53x | medium (87 new games, top one 49% of their CCU) | 87 | 431,320 | 946 | Throw Food For Animals (211,784) |
+| Interiors / corridors | 1.46x | high (56 new games, spread out) | 56 | 332,464 | 159 | DONT SPLASH (48,419) |
+| Arena / battleground | 1.24x | high (93 new games, spread out) | 93 | 578,032 | 610 | Hyper Realistic Ragdoll (174,338) |
 
 ## Untapped combinations (rising mechanic x strong theme, no tracked game)
 
 | Mechanic | Theme | Score |
 |---|---|---|
-| Sell / run a shop | Disaster / weather | 4.17 |
-| +1 stat per action | Robots / mechs | 3.66 |
-| Paint / create | Robots / mechs | 3.65 |
-| Break / mine / dig | Zombies | 3.07 |
-| Escape / run | Military / war | 2.84 |
-| Sell / run a shop | Military / war | 2.65 |
-| Sell / run a shop | Zombies | 2.5 |
-| Sell / run a shop | Fantasy / medieval | 2.28 |
+| Party / minigames | Giant / huge | 4.09 |
+| +1 stat per action | Robots / mechs | 3.7 |
+| Paint / create | Robots / mechs | 3.37 |
+| Paint / create | Ice / fire / elements | 3.14 |
+| Break / mine / dig | Zombies | 2.87 |
+| Escape / run | Military / war | 2.85 |
+| Party / minigames | Robots / mechs | 2.6 |
+| Party / minigames | Prison / police | 2.29 |
+| Party / minigames | Zombies | 2.26 |
