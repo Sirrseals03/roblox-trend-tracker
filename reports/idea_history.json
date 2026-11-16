@@ -2604,5 +2604,83 @@
       "theme": "Space",
       "title": "Be a Meteor \u2604\ufe0f"
     }
+  ],
+  "2026-11-16": [
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Paint / create"
+      ],
+      "theme": "Sports",
+      "title": "Build a Ski Jump \u26f7\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "title": "Be a Wrecking Ball \ud83c\udfd7\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Sell / run a shop"
+      ],
+      "theme": "Food / candy",
+      "title": "Dig Cake for Candy \ud83c\udf70"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "title": "Be a Tank Racer \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Escape / run"
+      ],
+      "theme": "Military / war",
+      "title": "Escape the Drill Sergeant \ud83c\udf96\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Sell / run a shop"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Rent Horses for Gold \ud83d\udc34"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "title": "Doodle Soldiers for Medals \u270f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Grow / farm"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Grow a Giant Pearl \ud83e\uddaa"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "+1 Anchor Weight \u2693"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "Break / mine / dig"
+      ],
+      "theme": "Space",
+      "title": "Blast Asteroids for Ore \u2604\ufe0f"
+    }
   ]
 }
