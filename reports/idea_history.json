@@ -2682,5 +2682,87 @@
       "theme": "Space",
       "title": "Blast Asteroids for Ore \u2604\ufe0f"
     }
+  ],
+  "2026-11-17": [
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Fight / battle"
+      ],
+      "theme": "Robots / mechs",
+      "title": "+1 Drone Per Jump \ud83d\udef8"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Tycoon / base building"
+      ],
+      "theme": "Dinosaurs",
+      "title": "Tattoo Dinos for Cash \ud83e\udd96"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Hit / swing / launch"
+      ],
+      "theme": "Dinosaurs",
+      "title": "Raptor Rally \ud83e\udd96"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "+1 stat per action"
+      ],
+      "theme": "Space",
+      "title": "Uppercut to Space \ud83e\udd4a"
+    },
+    {
+      "mechanics": [
+        "Grow / farm"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Grow a Storm Cloud \u26c8\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Break / mine / dig"
+      ],
+      "theme": "Robots / mechs",
+      "title": "Escape the Robot Factory \ud83c\udfed"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Hit / swing / launch"
+      ],
+      "theme": "Food / candy",
+      "title": "Crack Vending Machines \ud83e\udd64"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Shooter",
+        "Paint / create"
+      ],
+      "theme": "Vehicles",
+      "title": "Splat Racers \ud83c\udfa8"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Job / shift"
+      ],
+      "theme": "Vehicles",
+      "title": "Be a Tow Truck Driver \ud83d\ude9b"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Escape / run"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Fly Into the Hurricane \ud83c\udf00"
+    }
   ]
 }

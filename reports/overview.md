@@ -44,7 +44,7 @@
 - Unstable SMP FFA [JAVA PVP!]: 7,178 → 30,714 CCU
 - Do Not Stop.: 0 → 18,570 CCU
 - Voxel Wars: 0 → 15,419 CCU
-- [UPD] Build a REAL House: 0 → 14,076 CCU
+- [🏰 NEW MAPS] Build a REAL House: 0 → 14,076 CCU
 
 ## Last 30 days
 
