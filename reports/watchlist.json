@@ -1,354 +1,298 @@
 {
-  "as_of": "2026-11-15",
+  "as_of": "2026-11-16",
   "days_of_data": 28,
   "games": [
     {
-      "age_days": 58,
-      "avg_ccu_7d": 277106.3,
-      "flags": "young_breakout",
-      "growth_7d": 0.8355,
-      "name": "Throw Food For Animals",
-      "universe_id": "10766972131"
-    },
-    {
-      "age_days": 40,
-      "avg_ccu_7d": 57290.2,
-      "flags": "young_breakout",
-      "growth_7d": 1.0834,
-      "name": "[\ud83d\uddfa\ufe0fMAPS] Survive Your Ideas",
-      "universe_id": "10769671316"
-    },
-    {
-      "age_days": 17,
-      "avg_ccu_7d": 51535.2,
+      "age_days": 18,
+      "avg_ccu_7d": 61059.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Hyper Realistic Ragdoll",
       "universe_id": "10773618503"
     },
     {
-      "age_days": 33,
-      "avg_ccu_7d": 32376.8,
+      "age_days": 41,
+      "avg_ccu_7d": 57888.2,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Ragdoll Soccer",
-      "universe_id": "10770730129"
+      "growth_7d": 0.9522,
+      "name": "[\ud83d\uddfa\ufe0fMAPS] Survive Your Ideas",
+      "universe_id": "10769671316"
     },
     {
-      "age_days": 15,
-      "avg_ccu_7d": 30804.7,
+      "age_days": 16,
+      "avg_ccu_7d": 34171.1,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Bloody Ragdoll Physics \ud83e\ude78",
       "universe_id": "10773926254"
     },
     {
-      "age_days": 25,
-      "avg_ccu_7d": 29077.8,
+      "age_days": 34,
+      "avg_ccu_7d": 34056.2,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "Unstable SMP FFA [JAVA PVP!]",
-      "universe_id": "10772281976"
+      "name": "Ragdoll Soccer",
+      "universe_id": "10770730129"
     },
     {
-      "age_days": 31,
-      "avg_ccu_7d": 23549.0,
+      "age_days": 32,
+      "avg_ccu_7d": 24529.3,
       "flags": "young_breakout",
-      "growth_7d": 1.8393,
+      "growth_7d": 1.3816,
       "name": "[\ud83d\udc1f] Net a Fish!",
       "universe_id": "10771053183"
     },
     {
-      "age_days": 38,
-      "avg_ccu_7d": 22025.0,
+      "age_days": 39,
+      "avg_ccu_7d": 22342.9,
       "flags": "young_breakout|coverage_spike",
-      "growth_7d": 0.0327,
+      "growth_7d": 0.0394,
       "name": "[\ud83c\udfdd\ufe0fISLAND] Criminal Simulator \ud83d\udcb0",
       "universe_id": "10769851460"
     },
     {
-      "age_days": 37,
-      "avg_ccu_7d": 21298.8,
+      "age_days": 38,
+      "avg_ccu_7d": 22295.0,
       "flags": "young_breakout",
-      "growth_7d": 0.4585,
+      "growth_7d": 0.5407,
       "name": "13 Days to Escape [ALPHA]",
       "universe_id": "10769941703"
     },
     {
-      "age_days": 57,
-      "avg_ccu_7d": 17330.0,
-      "flags": "young_breakout",
-      "growth_7d": 0.0631,
-      "name": "Turbo Soccer \ud83d\udea8NEW GAMEMODE\ud83d\udea8 [BETA]",
-      "universe_id": "10767012496"
-    },
-    {
-      "age_days": 21,
-      "avg_ccu_7d": 17040.2,
+      "age_days": 22,
+      "avg_ccu_7d": 18570.0,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Do Not Stop.",
       "universe_id": "10772946647"
     },
     {
-      "age_days": 28,
-      "avg_ccu_7d": 16945.0,
+      "age_days": 58,
+      "avg_ccu_7d": 18315.6,
       "flags": "young_breakout",
-      "growth_7d": 0.1772,
+      "growth_7d": 0.1495,
+      "name": "Turbo Soccer [BETA]",
+      "universe_id": "10767012496"
+    },
+    {
+      "age_days": 29,
+      "avg_ccu_7d": 17475.6,
+      "flags": "young_breakout|coverage_spike",
+      "growth_7d": 0.1642,
       "name": "Can You Pass A Driving Test?",
       "universe_id": "10771680162"
     },
     {
-      "age_days": 42,
-      "avg_ccu_7d": 16455.5,
-      "flags": "young_breakout",
-      "growth_7d": 0.4888,
-      "name": "MOUSE \ud83d\udc2d",
-      "universe_id": "10769420234"
-    },
-    {
-      "age_days": 40,
-      "avg_ccu_7d": 16229.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.1072,
-      "name": "PINKIE PROMISE [HORROR]",
-      "universe_id": "10769634720"
-    },
-    {
-      "age_days": 33,
-      "avg_ccu_7d": 15987.2,
-      "flags": "young_breakout|coverage_spike",
-      "growth_7d": 0.0288,
+      "age_days": 34,
+      "avg_ccu_7d": 15961.2,
+      "flags": "coverage_spike",
+      "growth_7d": 0.0632,
       "name": "[\ud83d\udc36PETS] Raise The Biggest Family",
       "universe_id": "10770699460"
     },
     {
-      "age_days": 18,
-      "avg_ccu_7d": 14926.5,
+      "age_days": 19,
+      "avg_ccu_7d": 15715.1,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[\ud83c\udf65W3] +1 Sukuna Evolution",
+      "universe_id": "10773574214"
+    },
+    {
+      "age_days": 19,
+      "avg_ccu_7d": 15418.8,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Voxel Wars",
       "universe_id": "10773416193"
     },
     {
-      "age_days": 25,
-      "avg_ccu_7d": 14790.6,
+      "age_days": 34,
+      "avg_ccu_7d": 14516.0,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "BloxNG [CRASH PHYSICS] \ud83d\udca5",
+      "universe_id": "10770604649"
+    },
+    {
+      "age_days": 28,
+      "avg_ccu_7d": 14250.4,
+      "flags": "young_breakout",
+      "growth_7d": 0.3011,
+      "name": "[COBRA\ud83d\udc0d] FERAL \ud83d\udc3a Animal Survival",
+      "universe_id": "10771881861"
+    },
+    {
+      "age_days": 26,
+      "avg_ccu_7d": 14076.1,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[UPD] Build a REAL House",
       "universe_id": "10772266488"
     },
     {
-      "age_days": 47,
-      "avg_ccu_7d": 14595.1,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[CURSED] GloryBound ",
-      "universe_id": "10768652372"
-    },
-    {
-      "age_days": 21,
-      "avg_ccu_7d": 14209.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.6153,
-      "name": "[UPDATE 2.1] 30 Floors Up",
-      "universe_id": "10772879271"
-    },
-    {
-      "age_days": 27,
-      "avg_ccu_7d": 13599.9,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[COBRA\ud83d\udc0d] FERAL \ud83d\udc3a Animal Survival",
-      "universe_id": "10771881861"
-    },
-    {
-      "age_days": 27,
-      "avg_ccu_7d": 13260.0,
-      "flags": "young_breakout",
-      "growth_7d": 0.3808,
-      "name": "\ud83c\udf66Cozy Lucky Scoop Order",
-      "universe_id": "10771928551"
-    },
-    {
-      "age_days": 37,
-      "avg_ccu_7d": 12926.2,
-      "flags": "young_breakout",
-      "growth_7d": 0.9317,
-      "name": "Low Range: Offroad 4x4 [EARLY ACCESS]",
-      "universe_id": "10769969117"
-    },
-    {
-      "age_days": 33,
-      "avg_ccu_7d": 12829.6,
+      "age_days": 34,
+      "avg_ccu_7d": 13478.5,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "\ud83c\udf83 KRN: Crosshair",
       "universe_id": "10770703729"
     },
     {
-      "age_days": 54,
-      "avg_ccu_7d": 11232.0,
+      "age_days": 38,
+      "avg_ccu_7d": 12929.1,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Jump for Cases\ud83c\udfb2",
-      "universe_id": "10767621216"
+      "growth_7d": 0.8124,
+      "name": "Low Range: Offroad 4x4 [EARLY ACCESS]",
+      "universe_id": "10769969117"
     },
     {
-      "age_days": 14,
-      "avg_ccu_7d": 10963.0,
+      "age_days": 35,
+      "avg_ccu_7d": 12000.3,
+      "flags": "young_breakout",
+      "growth_7d": 151.7529,
+      "name": "Stop The Tsunami!",
+      "universe_id": "10770463307"
+    },
+    {
+      "age_days": 15,
+      "avg_ccu_7d": 11649.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Volley Bomb",
       "universe_id": "10774204862"
     },
     {
-      "age_days": 30,
-      "avg_ccu_7d": 10675.1,
+      "age_days": 31,
+      "avg_ccu_7d": 11121.1,
       "flags": "young_breakout",
-      "growth_7d": 1.4778,
+      "growth_7d": 1.2266,
       "name": "[2x WEEKEND] Farm Evolution",
       "universe_id": "10771290199"
     },
     {
-      "age_days": 47,
-      "avg_ccu_7d": 10590.9,
+      "age_days": 48,
+      "avg_ccu_7d": 10669.3,
       "flags": "young_breakout",
-      "growth_7d": 0.2161,
+      "growth_7d": 0.2074,
       "name": "[\ud83d\udc23UPD] Run A Farm!",
       "universe_id": "10768558548"
     },
     {
-      "age_days": 32,
-      "avg_ccu_7d": 10519.7,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[UPD 2] Barber Simulator",
-      "universe_id": "10770932189"
-    },
-    {
-      "age_days": 34,
-      "avg_ccu_7d": 10249.0,
-      "flags": "young_breakout",
-      "growth_7d": 135.1539,
-      "name": "Stop The Tsunami!",
-      "universe_id": "10770463307"
-    },
-    {
-      "age_days": 29,
-      "avg_ccu_7d": 9854.2,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "+1 Boxing Battle Evolution",
-      "universe_id": "10771586944"
-    },
-    {
-      "age_days": 11,
-      "avg_ccu_7d": 9545.9,
+      "age_days": 12,
+      "avg_ccu_7d": 10334.9,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Run a Christmas Tree Lot",
       "universe_id": "10774646539"
     },
     {
-      "age_days": 40,
-      "avg_ccu_7d": 9356.5,
+      "age_days": 33,
+      "avg_ccu_7d": 10106.5,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[UPD 2] Barber Simulator",
+      "universe_id": "10770932189"
+    },
+    {
+      "age_days": 41,
+      "avg_ccu_7d": 9649.8,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\ud83d\udc7d] Steal a PC ",
       "universe_id": "10769563057"
     },
     {
-      "age_days": 45,
-      "avg_ccu_7d": 9113.6,
+      "age_days": 46,
+      "avg_ccu_7d": 9336.0,
       "flags": "coverage_spike",
-      "growth_7d": -0.0478,
+      "growth_7d": -0.0318,
       "name": "Make The Logo!",
       "universe_id": "10768891670"
     },
     {
-      "age_days": 26,
-      "avg_ccu_7d": 9088.0,
+      "age_days": 22,
+      "avg_ccu_7d": 8863.3,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Build a Bridge",
-      "universe_id": "10772114384"
-    },
-    {
-      "age_days": 21,
-      "avg_ccu_7d": 8443.7,
-      "flags": "young_breakout",
-      "growth_7d": null,
+      "growth_7d": 0.3589,
       "name": "DONT SWIM \ud83d\udeab\ud83c\udfca",
       "universe_id": "10773014494"
     },
     {
-      "age_days": 34,
-      "avg_ccu_7d": 8186.2,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": " SF BIKE [UPD Dragster] ",
-      "universe_id": "10770548748"
+      "age_days": 28,
+      "avg_ccu_7d": 8460.6,
+      "flags": "coverage_spike",
+      "growth_7d": 0.0139,
+      "name": "MAHANAKHON RACING",
+      "universe_id": "10771935715"
     },
     {
-      "age_days": 23,
-      "avg_ccu_7d": 8185.2,
+      "age_days": 26,
+      "avg_ccu_7d": 8431.9,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "+1 Glow Up Evolution",
+      "universe_id": "10772200970"
+    },
+    {
+      "age_days": 40,
+      "avg_ccu_7d": 8300.9,
+      "flags": "coverage_spike",
+      "growth_7d": 0.0559,
+      "name": "\u2692\ufe0f LICENSE PLATE GENERATOR",
+      "universe_id": "10769793590"
+    },
+    {
+      "age_days": 24,
+      "avg_ccu_7d": 7893.9,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Cook Pizzas [Anomaly]",
       "universe_id": "10772627574"
     },
     {
-      "age_days": 20,
-      "avg_ccu_7d": 8129.7,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Clean The Bugs \ud83d\udc1c",
-      "universe_id": "10773059991"
-    },
-    {
-      "age_days": 21,
-      "avg_ccu_7d": 7730.8,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Impossible Hill Climb",
-      "universe_id": "10772968523"
-    },
-    {
-      "age_days": 56,
-      "avg_ccu_7d": 7186.5,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\ud83d\ude92\ud83d\udc68\u200d\ud83d\ude92] You and Me in Cali \ud83c\udfe1 RP",
-      "universe_id": "10767218742"
-    },
-    {
-      "age_days": 44,
-      "avg_ccu_7d": 7038.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.4116,
-      "name": "[FPS] Pixel Arena",
-      "universe_id": "10769024512"
-    },
-    {
-      "age_days": 59,
-      "avg_ccu_7d": 6668.6,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[UPD\u2728] Climb and Steal an Egg",
-      "universe_id": "10766777819"
-    },
-    {
-      "age_days": 15,
-      "avg_ccu_7d": 6562.0,
+      "age_days": 16,
+      "avg_ccu_7d": 7122.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "The Ditch Hotel [STREAKS!]",
       "universe_id": "10773912080"
     },
     {
+      "age_days": 45,
+      "avg_ccu_7d": 7102.5,
+      "flags": "young_breakout",
+      "growth_7d": 0.3212,
+      "name": "[FPS] Pixel Arena",
+      "universe_id": "10769024512"
+    },
+    {
+      "age_days": 27,
+      "avg_ccu_7d": 6331.7,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[W4] +1 Drain Water for Treasure",
+      "universe_id": "10772048283"
+    },
+    {
+      "age_days": 44,
+      "avg_ccu_7d": 6325.6,
+      "flags": "young_breakout",
+      "growth_7d": 0.2176,
+      "name": "Skate Tree",
+      "universe_id": "10769083726"
+    },
+    {
       "age_days": 22,
-      "avg_ccu_7d": 6510.7,
+      "avg_ccu_7d": 6237.0,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[\ud83c\udf40] Towers of Fortune",
+      "universe_id": "10773001670"
+    },
+    {
+      "age_days": 23,
+      "avg_ccu_7d": 6179.0,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "My Cookie Store \ud83c\udf6a[BETA]",
@@ -356,399 +300,343 @@
     },
     {
       "age_days": 29,
-      "avg_ccu_7d": 6477.7,
-      "flags": "young_breakout",
-      "growth_7d": 0.1349,
-      "name": "Flying Tesla Roadster [Open World]",
-      "universe_id": "10771406194"
-    },
-    {
-      "age_days": 26,
-      "avg_ccu_7d": 6417.9,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[W4] +1 Drain Water for Treasure",
-      "universe_id": "10772048283"
-    },
-    {
-      "age_days": 43,
-      "avg_ccu_7d": 6389.1,
-      "flags": "young_breakout",
-      "growth_7d": 0.2864,
-      "name": "Skate Tree",
-      "universe_id": "10769083726"
-    },
-    {
-      "age_days": 34,
-      "avg_ccu_7d": 6292.3,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Sleepover (Story) \ud83e\udd2b",
-      "universe_id": "10770483911"
-    },
-    {
-      "age_days": 28,
-      "avg_ccu_7d": 5976.3,
+      "avg_ccu_7d": 6068.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Run a Motel ! [EXPAND]",
       "universe_id": "10771805737"
     },
     {
-      "age_days": 33,
-      "avg_ccu_7d": 5903.1,
+      "age_days": 23,
+      "avg_ccu_7d": 6044.7,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[NEW] Jujutsu Farm",
-      "universe_id": "10770609435"
-    },
-    {
-      "age_days": 22,
-      "avg_ccu_7d": 5897.6,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\ud83d\udca1UPD] Rarest Answer Party! \ud83e\udd90",
+      "name": "Rarest Answer Party! \ud83e\udd90",
       "universe_id": "10772648808"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 5824.0,
+      "age_days": 35,
+      "avg_ccu_7d": 6040.8,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[CHAPTER 2] BOBBY'S DAYCARE [HORROR]",
-      "universe_id": "10771514327"
+      "name": "Sleepover (Story) \ud83e\udd2b",
+      "universe_id": "10770483911"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 5643.6,
+      "age_days": 57,
+      "avg_ccu_7d": 5955.4,
+      "flags": "young_breakout",
+      "growth_7d": 0.2111,
+      "name": "[ABILITIES] CRAZY 8 Ball",
+      "universe_id": "10767330648"
+    },
+    {
+      "age_days": 30,
+      "avg_ccu_7d": 5806.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[Update] Tiny Skies \u2708\ufe0f Fighter Jet & Helicopters",
       "universe_id": "10771368987"
     },
     {
-      "age_days": 41,
-      "avg_ccu_7d": 5590.7,
+      "age_days": 42,
+      "avg_ccu_7d": 5744.4,
       "flags": "young_breakout",
-      "growth_7d": 0.5189,
+      "growth_7d": 0.4105,
       "name": "[UPD\u2728] Makeup Salon\ud83d\udc84",
       "universe_id": "10769514597"
     },
     {
-      "age_days": 56,
-      "avg_ccu_7d": 5566.6,
+      "age_days": 30,
+      "avg_ccu_7d": 5715.7,
       "flags": "young_breakout",
-      "growth_7d": 0.1128,
-      "name": "[ABILITIES] CRAZY 8 Ball",
-      "universe_id": "10767330648"
+      "growth_7d": null,
+      "name": "[CHAPTER 2] BOBBY'S DAYCARE [HORROR]",
+      "universe_id": "10771514327"
     },
     {
-      "age_days": 31,
-      "avg_ccu_7d": 5314.6,
+      "age_days": 39,
+      "avg_ccu_7d": 5223.3,
       "flags": "young_breakout",
-      "growth_7d": 0.9517,
-      "name": "Button Battles",
-      "universe_id": "10771111717"
+      "growth_7d": 1.0471,
+      "name": "Don\u2019t Miss Your Flight! \u2708\ufe0f",
+      "universe_id": "10769869378"
     },
     {
-      "age_days": 36,
-      "avg_ccu_7d": 5215.9,
+      "age_days": 37,
+      "avg_ccu_7d": 5173.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Steal A Dumpling",
       "universe_id": "10770229689"
     },
     {
-      "age_days": 38,
-      "avg_ccu_7d": 5028.4,
+      "age_days": 37,
+      "avg_ccu_7d": 4997.1,
       "flags": "young_breakout",
-      "growth_7d": 0.9743,
-      "name": "Don\u2019t Miss Your Flight! \u2708\ufe0f",
-      "universe_id": "10769869378"
+      "growth_7d": 0.1786,
+      "name": "[\ud83e\udd2a] Wacky Games",
+      "universe_id": "10770198813"
     },
     {
-      "age_days": 47,
-      "avg_ccu_7d": 4873.7,
+      "age_days": 48,
+      "avg_ccu_7d": 4697.3,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "(\ud83d\udd27) RNG RollAttacks",
       "universe_id": "10768634654"
     },
     {
-      "age_days": 36,
-      "avg_ccu_7d": 4758.8,
-      "flags": "young_breakout",
-      "growth_7d": 0.108,
-      "name": "[\ud83e\udd2a] Wacky Games",
-      "universe_id": "10770198813"
-    },
-    {
-      "age_days": 42,
-      "avg_ccu_7d": 4757.7,
+      "age_days": 43,
+      "avg_ccu_7d": 4528.1,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Detect and Steal an Egg",
       "universe_id": "10769407594"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 4391.8,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Build and Sell Houses!",
-      "universe_id": "10771362432"
-    },
-    {
-      "age_days": 39,
-      "avg_ccu_7d": 4158.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.6422,
-      "name": "ABOVE [\u26a1ARCANE]",
-      "universe_id": "10769787444"
-    },
-    {
-      "age_days": 37,
-      "avg_ccu_7d": 4020.0,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Decorate Me!",
-      "universe_id": "10770062977"
-    },
-    {
-      "age_days": 15,
-      "avg_ccu_7d": 3955.7,
-      "flags": "young_breakout",
-      "growth_7d": 2.0399,
-      "name": "RoChess!",
-      "universe_id": "10773907070"
-    },
-    {
-      "age_days": 34,
-      "avg_ccu_7d": 3922.9,
+      "age_days": 35,
+      "avg_ccu_7d": 4459.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\u2694\ufe0fRANKED] Revolver Arena",
       "universe_id": "10770504297"
     },
     {
+      "age_days": 30,
+      "avg_ccu_7d": 4429.5,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "Build and Sell Houses!",
+      "universe_id": "10771362432"
+    },
+    {
+      "age_days": 16,
+      "avg_ccu_7d": 4365.2,
+      "flags": "young_breakout",
+      "growth_7d": 2.2961,
+      "name": "RoChess!",
+      "universe_id": "10773907070"
+    },
+    {
+      "age_days": 13,
+      "avg_ccu_7d": 4293.3,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "Ragdoll Frenzy",
+      "universe_id": "10774452423"
+    },
+    {
+      "age_days": 40,
+      "avg_ccu_7d": 4267.8,
+      "flags": "young_breakout",
+      "growth_7d": 0.4849,
+      "name": "ABOVE [\u26a1ARCANE]",
+      "universe_id": "10769787444"
+    },
+    {
+      "age_days": 38,
+      "avg_ccu_7d": 3968.2,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "Decorate Me!",
+      "universe_id": "10770062977"
+    },
+    {
       "age_days": 33,
-      "avg_ccu_7d": 3889.8,
+      "avg_ccu_7d": 3843.2,
+      "flags": "young_breakout",
+      "growth_7d": 0.4851,
+      "name": "[\ud83e\udde0] Ball Knowledge",
+      "universe_id": "10770915307"
+    },
+    {
+      "age_days": 34,
+      "avg_ccu_7d": 3706.8,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Escape The Matrix",
       "universe_id": "10770608130"
     },
     {
-      "age_days": 32,
-      "avg_ccu_7d": 3671.0,
+      "age_days": 39,
+      "avg_ccu_7d": 3491.7,
+      "flags": "young_breakout",
+      "growth_7d": 0.032,
+      "name": "[UPDATE] REALISTIC HOME DEFENSE",
+      "universe_id": "10769857262"
+    },
+    {
+      "age_days": 26,
+      "avg_ccu_7d": 3365.4,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[\ud83e\udde0] Ball Knowledge",
-      "universe_id": "10770915307"
+      "name": "Into The Hive",
+      "universe_id": "10772210273"
     },
     {
-      "age_days": 43,
-      "avg_ccu_7d": 3659.5,
+      "age_days": 24,
+      "avg_ccu_7d": 3292.2,
       "flags": "young_breakout",
-      "growth_7d": 0.5823,
-      "name": "Bibi & Didi Obby \ud83d\udc3c\ud83d\udc3b [1-2 Player]",
-      "universe_id": "10769075057"
+      "growth_7d": 1.8561,
+      "name": "AURA X",
+      "universe_id": "10772611738"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 3288.1,
+      "age_days": 30,
+      "avg_ccu_7d": 3119.0,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[80+ CARS\ud83d\udd25] Simple Drift",
       "universe_id": "10771508240"
     },
     {
-      "age_days": 23,
-      "avg_ccu_7d": 3232.4,
-      "flags": "young_breakout",
-      "growth_7d": 2.6492,
-      "name": "AURA X",
-      "universe_id": "10772611738"
-    },
-    {
-      "age_days": 17,
-      "avg_ccu_7d": 3073.8,
+      "age_days": 18,
+      "avg_ccu_7d": 3111.5,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "(CO-OP) CUPHEAD Fight!",
       "universe_id": "10773582045"
     },
     {
-      "age_days": 21,
-      "avg_ccu_7d": 3069.5,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[CHP 4] That's NOT My Mom \ud83d\udc69\ud83c\udffc\u200d\ud83e\uddb0",
-      "universe_id": "10773031983"
-    },
-    {
-      "age_days": 47,
-      "avg_ccu_7d": 2885.7,
+      "age_days": 48,
+      "avg_ccu_7d": 2999.4,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Project Soul's [Undertale RPG]",
       "universe_id": "10768613071"
     },
     {
-      "age_days": 47,
-      "avg_ccu_7d": 2859.2,
+      "age_days": 48,
+      "avg_ccu_7d": 2957.6,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "\ud83c\udf0c[SPACE] Newton's Sandbox",
+      "name": "\ud83c\udf10[FRUTIGER] Newton's Sandbox",
       "universe_id": "10768661782"
     },
     {
       "age_days": 23,
-      "avg_ccu_7d": 2803.9,
+      "avg_ccu_7d": 2892.7,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[PARIS] Explore the World \u2708\ufe0f",
-      "universe_id": "10772616540"
+      "name": "Ant Wars [UPD]",
+      "universe_id": "10772716677"
     },
     {
-      "age_days": 37,
-      "avg_ccu_7d": 2774.7,
+      "age_days": 60,
+      "avg_ccu_7d": 2824.1,
+      "flags": "young_breakout",
+      "growth_7d": 0.1545,
+      "name": "Prison Bus [ANOMALY]",
+      "universe_id": "10766764802"
+    },
+    {
+      "age_days": 38,
+      "avg_ccu_7d": 2788.3,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\u26e9\ufe0fCLANS] Anime Auto Battle",
       "universe_id": "10770014246"
     },
     {
-      "age_days": 19,
-      "avg_ccu_7d": 2755.1,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "\ud83c\udfa8 Draw the Other Half!",
-      "universe_id": "10773244575"
-    },
-    {
-      "age_days": 30,
-      "avg_ccu_7d": 2737.6,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Tavern Town",
-      "universe_id": "10771350522"
-    },
-    {
-      "age_days": 18,
-      "avg_ccu_7d": 2728.9,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Growblox",
-      "universe_id": "10773501077"
-    },
-    {
-      "age_days": 59,
-      "avg_ccu_7d": 2706.9,
-      "flags": "young_breakout",
-      "growth_7d": 0.0724,
-      "name": "Prison Bus [ANOMALY]",
-      "universe_id": "10766764802"
-    },
-    {
-      "age_days": 50,
-      "avg_ccu_7d": 2706.8,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[TRADE PLAZA\ud83c\udccf] My Trading Card Shop! [BETA]",
-      "universe_id": "10768197635"
-    },
-    {
-      "age_days": 60,
-      "avg_ccu_7d": 2637.3,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[UPD] My Zombie Zoo",
-      "universe_id": "10766671102"
-    },
-    {
-      "age_days": 43,
-      "avg_ccu_7d": 2498.7,
-      "flags": "young_breakout",
-      "growth_7d": 0.0851,
-      "name": "[\ud83e\udd83] Build a Tower Defense \ud83c\udff0 ",
-      "universe_id": "10769160756"
-    },
-    {
-      "age_days": 27,
-      "avg_ccu_7d": 2465.3,
+      "age_days": 28,
+      "avg_ccu_7d": 2763.4,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Dragon Tower Defense",
       "universe_id": "10771908014"
     },
     {
-      "age_days": 19,
-      "avg_ccu_7d": 2441.0,
+      "age_days": 20,
+      "avg_ccu_7d": 2760.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[KINGSLEY] Survive a Psycho",
       "universe_id": "10773259496"
     },
     {
-      "age_days": 40,
-      "avg_ccu_7d": 2422.1,
+      "age_days": 20,
+      "avg_ccu_7d": 2747.1,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[68] Find The Clown",
-      "universe_id": "10769578834"
+      "name": "\ud83c\udfa8 Draw the Other Half!",
+      "universe_id": "10773244575"
     },
     {
-      "age_days": 50,
-      "avg_ccu_7d": 2417.9,
+      "age_days": 19,
+      "avg_ccu_7d": 2725.6,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "Growblox",
+      "universe_id": "10773501077"
+    },
+    {
+      "age_days": 31,
+      "avg_ccu_7d": 2700.8,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "Tavern Town",
+      "universe_id": "10771350522"
+    },
+    {
+      "age_days": 45,
+      "avg_ccu_7d": 2620.8,
+      "flags": "young_breakout",
+      "growth_7d": 0.7418,
+      "name": "Superstellar: Next Generation",
+      "universe_id": "10769043472"
+    },
+    {
+      "age_days": 51,
+      "avg_ccu_7d": 2533.5,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "SAURUS [HORROR]",
       "universe_id": "10768158677"
     },
     {
-      "age_days": 52,
-      "avg_ccu_7d": 2398.1,
+      "age_days": 53,
+      "avg_ccu_7d": 2485.6,
       "flags": "young_breakout",
-      "growth_7d": 0.5935,
+      "growth_7d": 0.5705,
       "name": "Ride a Dragon",
       "universe_id": "10767814136"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 2352.2,
+      "age_days": 30,
+      "avg_ccu_7d": 2361.5,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "WarFront [AIRPORT]",
       "universe_id": "10771450807"
     },
     {
-      "age_days": 44,
-      "avg_ccu_7d": 2313.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.4875,
-      "name": "Superstellar: Next Generation",
-      "universe_id": "10769043472"
-    },
-    {
-      "age_days": 19,
-      "avg_ccu_7d": 2307.7,
+      "age_days": 21,
+      "avg_ccu_7d": 2358.0,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "Chess Duels",
-      "universe_id": "10773277140"
+      "name": "Thai Letters Battle",
+      "universe_id": "10773082965"
     },
     {
-      "age_days": 45,
-      "avg_ccu_7d": 2219.0,
+      "age_days": 21,
+      "avg_ccu_7d": 2345.1,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[NOW!] World War Sandbox",
+      "universe_id": "10773086391"
+    },
+    {
+      "age_days": 46,
+      "avg_ccu_7d": 2310.7,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\u26a1SPIRIT DRIVE] Clover Adventure",
       "universe_id": "10768835968"
     },
     {
-      "age_days": 40,
-      "avg_ccu_7d": 2197.5,
+      "age_days": 41,
+      "avg_ccu_7d": 2272.3,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Okishima:1336 [Update 1]",
@@ -756,71 +644,55 @@
     },
     {
       "age_days": 25,
-      "avg_ccu_7d": 2080.1,
+      "avg_ccu_7d": 2239.0,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "\ud83e\udd64Make a Drink",
-      "universe_id": "10772169253"
+      "name": "Bikelife Poland",
+      "universe_id": "10772419907"
+    },
+    {
+      "age_days": 33,
+      "avg_ccu_7d": 1944.4,
+      "flags": "young_breakout",
+      "growth_7d": 1.4988,
+      "name": "ESCAPE CLUB | Escape Rooms",
+      "universe_id": "10770847747"
+    },
+    {
+      "age_days": 23,
+      "avg_ccu_7d": 1924.1,
+      "flags": "young_breakout",
+      "growth_7d": 0.3296,
+      "name": "Raycity RB",
+      "universe_id": "10772794231"
+    },
+    {
+      "age_days": 14,
+      "avg_ccu_7d": 1793.3,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[\ud83c\udf00UPD] Anime Nexus RNG : GURREN LAGANN",
+      "universe_id": "10774333764"
     },
     {
       "age_days": 25,
-      "avg_ccu_7d": 2005.7,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Build A Steal An Egg",
-      "universe_id": "10772159183"
-    },
-    {
-      "age_days": 60,
-      "avg_ccu_7d": 1935.7,
-      "flags": "young_breakout",
-      "growth_7d": 0.2693,
-      "name": "[UPD 4] Shoot That Fish",
-      "universe_id": "10766667627"
-    },
-    {
-      "age_days": 43,
-      "avg_ccu_7d": 1908.5,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\ud83d\ude80 UPD!] Cities at War",
-      "universe_id": "10769204603"
-    },
-    {
-      "age_days": 24,
-      "avg_ccu_7d": 1858.6,
+      "avg_ccu_7d": 1720.4,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Steal An Card",
       "universe_id": "10772433107"
     },
     {
-      "age_days": 22,
-      "avg_ccu_7d": 1807.3,
+      "age_days": 54,
+      "avg_ccu_7d": 1715.1,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Raycity RB",
-      "universe_id": "10772794231"
+      "growth_7d": 0.5535,
+      "name": "One A Day \ud83e\udde9 100+ Daily Puzzles & Word Games",
+      "universe_id": "10767704852"
     },
     {
-      "age_days": 41,
-      "avg_ccu_7d": 1778.4,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Steal A Mukbang!",
-      "universe_id": "10769552792"
-    },
-    {
-      "age_days": 32,
-      "avg_ccu_7d": 1748.6,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "ESCAPE CLUB | Escape Rooms",
-      "universe_id": "10770847747"
-    },
-    {
-      "age_days": 26,
-      "avg_ccu_7d": 1735.0,
+      "age_days": 27,
+      "avg_ccu_7d": 1670.5,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\ud83c\udf41] 8-Bit Tower Defense ",
@@ -828,415 +700,183 @@
     },
     {
       "age_days": 13,
-      "avg_ccu_7d": 1711.9,
+      "avg_ccu_7d": 1576.5,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "[\ud83c\udf00UPD] Anime Nexus RNG : GURREN LAGANN",
-      "universe_id": "10774333764"
+      "name": "[UPD] Control a Ragdoll Together! [1-5 Players]",
+      "universe_id": "10774557211"
     },
     {
-      "age_days": 29,
-      "avg_ccu_7d": 1648.5,
+      "age_days": 54,
+      "avg_ccu_7d": 1565.4,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[UNDYING HERO + COSMIC] Universal Showdown",
-      "universe_id": "10771548455"
-    },
-    {
-      "age_days": 53,
-      "avg_ccu_7d": 1629.1,
-      "flags": "young_breakout",
-      "growth_7d": 0.6066,
-      "name": "One A Day \ud83e\udde9 100+ Daily Puzzles & Word Games",
-      "universe_id": "10767704852"
-    },
-    {
-      "age_days": 53,
-      "avg_ccu_7d": 1593.6,
-      "flags": "young_breakout",
-      "growth_7d": 0.2236,
+      "growth_7d": 0.1219,
       "name": "[\ud83c\udf38] Wish For Anime",
       "universe_id": "10767778145"
     },
     {
-      "age_days": 39,
-      "avg_ccu_7d": 1482.8,
+      "age_days": 29,
+      "avg_ccu_7d": 1499.6,
       "flags": "young_breakout",
       "growth_7d": null,
-      "name": "+1 Hamster Smash",
-      "universe_id": "10769755186"
+      "name": "[PvP] Barber & Salon Empire ( Simulation )",
+      "universe_id": "10771607144"
     },
     {
-      "age_days": 31,
-      "avg_ccu_7d": 1424.4,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[EVENT\ud83d\udd25] Doodle Basketball\ud83c\udfc0",
-      "universe_id": "10771081056"
-    },
-    {
-      "age_days": 44,
-      "avg_ccu_7d": 1363.1,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "HEISTBLOX",
-      "universe_id": "10768934595"
-    },
-    {
-      "age_days": 24,
-      "avg_ccu_7d": 1357.9,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\ud83c\udfae] Fix PCs! \ud83d\udd27",
-      "universe_id": "10772400342"
-    },
-    {
-      "age_days": 35,
-      "avg_ccu_7d": 1345.0,
+      "age_days": 36,
+      "avg_ccu_7d": 1486.1,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\ud83d\udea8] Run a Police Station",
       "universe_id": "10770322252"
     },
     {
-      "age_days": 31,
-      "avg_ccu_7d": 1246.2,
+      "age_days": 25,
+      "avg_ccu_7d": 1396.1,
+      "flags": "young_breakout",
+      "growth_7d": null,
+      "name": "[\ud83c\udfae] Fix PCs! \ud83d\udd27",
+      "universe_id": "10772400342"
+    },
+    {
+      "age_days": 32,
+      "avg_ccu_7d": 1209.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[UPDATE 1.0\ud83d\udee0\ufe0f] BlockUp",
       "universe_id": "10770964381"
     },
     {
-      "age_days": 39,
-      "avg_ccu_7d": 1230.6,
+      "age_days": 16,
+      "avg_ccu_7d": 947.2,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Fishing Slayer \ud83d\udc1f",
-      "universe_id": "10769699637"
+      "growth_7d": 1.5477,
+      "name": "[Dogs & Mud] Pine Ridge County",
+      "universe_id": "10773918255"
     },
     {
       "age_days": 33,
-      "avg_ccu_7d": 1156.0,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Roll Pets to Fight",
-      "universe_id": "10770739222"
-    },
-    {
-      "age_days": 44,
-      "avg_ccu_7d": 1154.2,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "(Update 1) Anime Worlds Simulator",
-      "universe_id": "10768935418"
-    },
-    {
-      "age_days": 60,
-      "avg_ccu_7d": 1138.4,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Raise a Champion",
-      "universe_id": "10766732531"
-    },
-    {
-      "age_days": 47,
-      "avg_ccu_7d": 1131.5,
-      "flags": "young_breakout",
-      "growth_7d": 0.2153,
-      "name": "[\ud83c\udf84UPD] Run an Airline\u2708\ufe0f",
-      "universe_id": "10768550253"
-    },
-    {
-      "age_days": 47,
-      "avg_ccu_7d": 967.9,
-      "flags": "young_breakout",
-      "growth_7d": 0.3355,
-      "name": "Build & Survive",
-      "universe_id": "10768563198"
-    },
-    {
-      "age_days": 32,
-      "avg_ccu_7d": 938.9,
+      "avg_ccu_7d": 919.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "\u26f8\ufe0f Run a Figure Skating Club!",
       "universe_id": "10770789039"
     },
     {
-      "age_days": 41,
-      "avg_ccu_7d": 896.2,
+      "age_days": 42,
+      "avg_ccu_7d": 911.7,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\u2694\ufe0fR3TR0 PT2] Random Tower Defense",
       "universe_id": "10769533720"
     },
     {
-      "age_days": 37,
-      "avg_ccu_7d": 876.8,
+      "age_days": 39,
+      "avg_ccu_7d": 896.3,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "BRO FISHING",
-      "universe_id": "10769973437"
+      "growth_7d": 0.0078,
+      "name": "[\ud83c\udfc6RANK] DROPZONE",
+      "universe_id": "10769850944"
     },
     {
-      "age_days": 36,
-      "avg_ccu_7d": 873.8,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Grow Your Army [CO-OP!]",
-      "universe_id": "10770192373"
-    },
-    {
-      "age_days": 30,
-      "avg_ccu_7d": 854.5,
+      "age_days": 31,
+      "avg_ccu_7d": 822.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Everveil",
       "universe_id": "10771340918"
     },
     {
-      "age_days": 31,
-      "avg_ccu_7d": 828.0,
+      "age_days": 32,
+      "avg_ccu_7d": 793.0,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Would You Rather: Christmas Outfit Tower \ud83c\udf84",
       "universe_id": "10771096738"
     },
     {
-      "age_days": 15,
-      "avg_ccu_7d": 821.2,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[Dogs & Mud] Pine Ridge County",
-      "universe_id": "10773918255"
-    },
-    {
-      "age_days": 29,
-      "avg_ccu_7d": 793.2,
+      "age_days": 30,
+      "avg_ccu_7d": 759.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "First Person Basketball",
       "universe_id": "10771576288"
     },
     {
-      "age_days": 20,
-      "avg_ccu_7d": 770.9,
+      "age_days": 21,
+      "avg_ccu_7d": 728.8,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "Steal a Ninja Egg",
       "universe_id": "10773158335"
     },
     {
-      "age_days": 27,
-      "avg_ccu_7d": 739.2,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\ud83d\udebdEVENT] Toilet Masters Tower Defense",
-      "universe_id": "10771877027"
-    },
-    {
-      "age_days": 19,
-      "avg_ccu_7d": 705.5,
+      "age_days": 20,
+      "avg_ccu_7d": 724.3,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\ud83c\udf34] Catch Big Bass",
       "universe_id": "10773353519"
     },
     {
-      "age_days": 43,
-      "avg_ccu_7d": 631.2,
+      "age_days": 44,
+      "avg_ccu_7d": 715.2,
       "flags": "young_breakout",
-      "growth_7d": 7.1635,
+      "growth_7d": 7.8384,
       "name": "Catch a FISH! [\ud83d\udef8]",
       "universe_id": "10769217053"
     },
     {
-      "age_days": 38,
-      "avg_ccu_7d": 624.4,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[\u2728UPD] Sew Off!",
-      "universe_id": "10769821637"
-    },
-    {
-      "age_days": 42,
-      "avg_ccu_7d": 610.8,
-      "flags": "young_breakout",
-      "growth_7d": 0.0484,
-      "name": "Makeup Frenzy! \ud83d\udc84",
-      "universe_id": "10769396182"
-    },
-    {
-      "age_days": 31,
-      "avg_ccu_7d": 575.4,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Cube Mix Up",
-      "universe_id": "10771126583"
-    },
-    {
-      "age_days": 46,
-      "avg_ccu_7d": 567.8,
+      "age_days": 47,
+      "avg_ccu_7d": 550.6,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[RANKED!] RHL HOCKEY",
       "universe_id": "10768781283"
     },
     {
-      "age_days": 44,
-      "avg_ccu_7d": 517.8,
+      "age_days": 45,
+      "avg_ccu_7d": 465.7,
       "flags": "coverage_spike",
-      "growth_7d": -0.5581,
+      "growth_7d": -0.5392,
       "name": "Steal A DNA[\u27282X BOOST]",
       "universe_id": "10768941204"
     },
     {
-      "age_days": 22,
-      "avg_ccu_7d": 494.2,
+      "age_days": 44,
+      "avg_ccu_7d": 310.7,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[UPD] Clear the Avalanche: Dig & Rescue \u2744\ufe0f",
-      "universe_id": "10772837025"
+      "growth_7d": 0.8284,
+      "name": "[NEW VEHICLES + DOT] Central Kansas",
+      "universe_id": "10769100437"
     },
     {
-      "age_days": 43,
-      "avg_ccu_7d": 397.2,
+      "age_days": 42,
+      "avg_ccu_7d": 289.5,
       "flags": "young_breakout",
-      "growth_7d": 0.3628,
-      "name": "My Gym RNG",
-      "universe_id": "10769156471"
+      "growth_7d": 0.3244,
+      "name": "[ENGINES] Build and Burn",
+      "universe_id": "10769542070"
     },
     {
-      "age_days": 27,
-      "avg_ccu_7d": 392.2,
+      "age_days": 46,
+      "avg_ccu_7d": 283.7,
       "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Steal An Egg MORPHS",
-      "universe_id": "10771952885"
+      "growth_7d": 0.2178,
+      "name": "[BETA] StyleVerse",
+      "universe_id": "10768908662"
     },
     {
-      "age_days": 45,
-      "avg_ccu_7d": 387.0,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Toilet Tycoon",
-      "universe_id": "10768841750"
-    },
-    {
-      "age_days": 56,
-      "avg_ccu_7d": 355.5,
-      "flags": "young_breakout",
-      "growth_7d": 0.078,
-      "name": "[\ud83c\udf42] Open Cases!",
-      "universe_id": "10767337363"
-    },
-    {
-      "age_days": 21,
-      "avg_ccu_7d": 273.5,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Mother [HORROR]",
-      "universe_id": "10772870550"
-    },
-    {
-      "age_days": 31,
-      "avg_ccu_7d": 271.3,
+      "age_days": 32,
+      "avg_ccu_7d": 262.3,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "TDM",
       "universe_id": "10771118255"
     },
     {
-      "age_days": 45,
-      "avg_ccu_7d": 271.2,
-      "flags": "young_breakout",
-      "growth_7d": 0.109,
-      "name": "[BETA] StyleVerse",
-      "universe_id": "10768908662"
-    },
-    {
-      "age_days": 43,
-      "avg_ccu_7d": 269.6,
-      "flags": "young_breakout",
-      "growth_7d": 0.5334,
-      "name": "[NEW VEHICLES + DOT] Central Kansas",
-      "universe_id": "10769100437"
-    },
-    {
-      "age_days": 41,
-      "avg_ccu_7d": 264.2,
-      "flags": "young_breakout",
-      "growth_7d": 0.0141,
-      "name": "[ENGINES] Build and Burn",
-      "universe_id": "10769542070"
-    },
-    {
-      "age_days": 37,
-      "avg_ccu_7d": 215.5,
-      "flags": "young_breakout",
-      "growth_7d": 0.0368,
-      "name": "Lucky World!\ud83d\udc7e(ERROR LUCKY BLOCKS!)",
-      "universe_id": "10770031425"
-    },
-    {
-      "age_days": 25,
-      "avg_ccu_7d": 157.3,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Fishing Trip",
-      "universe_id": "10772177382"
-    },
-    {
-      "age_days": 59,
-      "avg_ccu_7d": 152.5,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "[BETA] Rescue City Roleplay",
-      "universe_id": "10766831939"
-    },
-    {
-      "age_days": 39,
-      "avg_ccu_7d": 136.0,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Your New Look",
-      "universe_id": "10769712810"
-    },
-    {
-      "age_days": 50,
-      "avg_ccu_7d": 124.3,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Grow a Pet Racer",
-      "universe_id": "10768058308"
-    },
-    {
-      "age_days": 51,
-      "avg_ccu_7d": 110.6,
-      "flags": "young_breakout",
-      "growth_7d": 1.9773,
-      "name": "Christmas Outfit Towers! [Would you Rather] \ud83c\udf84",
-      "universe_id": "10768012250"
-    },
-    {
-      "age_days": 28,
-      "avg_ccu_7d": 109.9,
-      "flags": "young_breakout",
-      "growth_7d": null,
-      "name": "Steal A Chiikawa Egg",
-      "universe_id": "10771753688"
-    },
-    {
-      "age_days": 44,
-      "avg_ccu_7d": 100.4,
-      "flags": "young_breakout",
-      "growth_7d": 0.1456,
-      "name": "\u26a1 [\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435!] MOTOFLOW \ud83c\udfcd\ufe0f",
-      "universe_id": "10768961084"
-    },
-    {
-      "age_days": 16,
-      "avg_ccu_7d": 55.6,
+      "age_days": 17,
+      "avg_ccu_7d": 63.2,
       "flags": "young_breakout",
       "growth_7d": null,
       "name": "[\ud83d\ude92\ud83d\ude91] FIRE & EMS: Berkshire",
@@ -1246,194 +886,182 @@
   "niches": [
     {
       "flags": "niche_rising",
-      "games": 325,
-      "growth": -0.0044,
+      "games": 326,
+      "growth": -0.0274,
       "niche": "roleplay_city",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 768176,
-      "top3_share": 0.577,
-      "top_share": 0.483,
-      "total_avg_ccu": 764778,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 776892,
+      "top3_share": 0.576,
+      "top_share": 0.481,
+      "total_avg_ccu": 755570,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 363,
-      "growth": -0.0241,
+      "growth": -0.0296,
       "niche": "survival",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 634377,
-      "top3_share": 0.4,
-      "top_share": 0.225,
-      "total_avg_ccu": 619107,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 629595,
+      "top3_share": 0.404,
+      "top_share": 0.226,
+      "total_avg_ccu": 610947,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 181,
-      "growth": 0.1343,
+      "growth": 0.1046,
       "niche": "shooter",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 469313,
-      "top3_share": 0.446,
-      "top_share": 0.277,
-      "total_avg_ccu": 532338,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 471634,
+      "top3_share": 0.45,
+      "top_share": 0.279,
+      "total_avg_ccu": 520968,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
-      "games": 270,
-      "growth": -0.022,
+      "games": 275,
+      "growth": 0.0077,
       "niche": "anime_fighting",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 454631,
-      "top3_share": 0.39,
-      "top_share": 0.192,
-      "total_avg_ccu": 444628,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 461274,
+      "top3_share": 0.361,
+      "top_share": 0.182,
+      "total_avg_ccu": 464846,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 293,
-      "growth": 0.0955,
+      "growth": 0.073,
       "niche": "simulator",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 338131,
-      "top3_share": 0.316,
-      "top_share": 0.13,
-      "total_avg_ccu": 370422,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 340378,
+      "top3_share": 0.32,
+      "top_share": 0.129,
+      "total_avg_ccu": 365210,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
-      "games": 135,
-      "growth": 0.0192,
+      "games": 136,
+      "growth": -0.0028,
       "niche": "sports",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 350135,
-      "top3_share": 0.373,
-      "top_share": 0.14,
-      "total_avg_ccu": 356855,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 350187,
+      "top3_share": 0.369,
+      "top_share": 0.137,
+      "total_avg_ccu": 349199,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 401,
-      "growth": 0.0483,
+      "growth": 0.0204,
       "niche": "obby",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 249100,
-      "top3_share": 0.185,
-      "top_share": 0.089,
-      "total_avg_ccu": 261129,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 249593,
+      "top3_share": 0.186,
+      "top_share": 0.09,
+      "total_avg_ccu": 254696,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 250,
-      "growth": 0.0113,
+      "growth": -0.0259,
       "niche": "tycoon",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 197011,
-      "top3_share": 0.326,
-      "top_share": 0.241,
-      "total_avg_ccu": 199246,
-      "window_days": 14
-    },
-    {
-      "flags": "niche_rising",
-      "games": 241,
-      "growth": -0.0148,
-      "niche": "horror",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 162958,
-      "top3_share": 0.245,
-      "top_share": 0.106,
-      "total_avg_ccu": 160550,
-      "window_days": 14
-    },
-    {
-      "flags": "niche_rising",
-      "games": 99,
-      "growth": 0.1011,
-      "niche": "incremental",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 141634,
-      "top3_share": 0.46,
-      "top_share": 0.24,
-      "total_avg_ccu": 155949,
-      "window_days": 14
-    },
-    {
-      "flags": "niche_rising",
-      "games": 154,
-      "growth": -0.0099,
-      "niche": "racing_driving",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 145851,
-      "top3_share": 0.289,
-      "top_share": 0.171,
-      "total_avg_ccu": 144410,
-      "window_days": 14
-    },
-    {
-      "flags": "niche_rising",
-      "games": 91,
-      "growth": 0.2306,
-      "niche": "tower_defense",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 99204,
-      "top3_share": 0.579,
-      "top_share": 0.296,
-      "total_avg_ccu": 122083,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 197283,
+      "top3_share": 0.327,
+      "top_share": 0.245,
+      "total_avg_ccu": 192174,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 100,
-      "growth": 0.2756,
+      "growth": 0.1764,
+      "niche": "incremental",
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 141793,
+      "top3_share": 0.433,
+      "top_share": 0.226,
+      "total_avg_ccu": 166802,
+      "window_days": 14
+    },
+    {
+      "flags": "niche_rising",
+      "games": 92,
+      "growth": 0.47,
+      "niche": "tower_defense",
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 99955,
+      "top3_share": 0.559,
+      "top_share": 0.25,
+      "total_avg_ccu": 146934,
+      "window_days": 14
+    },
+    {
+      "flags": "niche_rising",
+      "games": 154,
+      "growth": -0.0139,
+      "niche": "racing_driving",
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 144739,
+      "top3_share": 0.291,
+      "top_share": 0.172,
+      "total_avg_ccu": 142727,
+      "window_days": 14
+    },
+    {
+      "flags": "niche_rising",
+      "games": 99,
+      "growth": 0.1552,
       "niche": "gardening_farming",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 94800,
-      "top3_share": 0.325,
-      "top_share": 0.133,
-      "total_avg_ccu": 120922,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 95423,
+      "top3_share": 0.345,
+      "top_share": 0.145,
+      "total_avg_ccu": 110236,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 108,
-      "growth": 0.0379,
+      "growth": 0.01,
       "niche": "story",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 102849,
-      "top3_share": 0.306,
-      "top_share": 0.145,
-      "total_avg_ccu": 106745,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 102890,
+      "top3_share": 0.305,
+      "top_share": 0.148,
+      "total_avg_ccu": 103918,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 74,
-      "growth": 0.5012,
+      "growth": 0.4468,
       "niche": "disaster",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 40967,
-      "top3_share": 0.468,
-      "top_share": 0.183,
-      "total_avg_ccu": 61498,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 41699,
+      "top3_share": 0.47,
+      "top_share": 0.177,
+      "total_avg_ccu": 60330,
       "window_days": 14
     },
     {
       "flags": "niche_rising",
       "games": 75,
-      "growth": 0.255,
+      "growth": 0.206,
       "niche": "lucky_block",
-      "platform_growth": -0.0383,
-      "prev_total_avg_ccu": 42612,
-      "top3_share": 0.525,
-      "top_share": 0.221,
-      "total_avg_ccu": 53479,
+      "platform_growth": -0.0507,
+      "prev_total_avg_ccu": 42468,
+      "top3_share": 0.529,
+      "top_share": 0.226,
+      "total_avg_ccu": 51216,
       "window_days": 14
     }
   ]
