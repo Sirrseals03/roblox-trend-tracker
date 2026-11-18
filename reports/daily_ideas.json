@@ -1,387 +1,407 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "ideas": [
     {
-      "title": "+1 Drone Per Jump 🛸",
-      "scope": "small",
-      "genre": "Incremental Simulator · +1 stat",
-      "mechanics": [
-        "+1 stat per action",
-        "Fight / battle"
-      ],
-      "theme": "Robots / mechs",
-      "hook": "Every jump adds one more drone to the swarm circling you. Send the swarm at robot bosses and watch it chew through them.",
-      "core_loop": [
-        "Jump to add +1 drone to your swarm",
-        "Send the swarm at robot enemies for scrap",
-        "Spend scrap on drone upgrades and jump boosts",
-        "Unlock the next robot zone",
-        "Rebirth to keep a permanent drone multiplier"
-      ],
-      "twist": "Drones circle you in a visible ring, so the biggest swarm on the server is easy to spot and challenge.",
-      "monetization": [
-        "2x drones per jump multiplier",
-        "Auto-jump pass",
-        "Extra drone storage",
-        "VIP neon drone skin"
-      ],
-      "retention": [
-        "Biggest-swarm leaderboard",
-        "Rebirth tiers",
-        "Codes on updates",
-        "Pet drones that add bonus jumps"
-      ],
-      "why_now": "+1 stat per action is rising at 1.65 momentum (40 new games) and the \"+1 ___\" title formula at 1.70, led by [🌍UPD 5] +1 Venom Evolution (14,249 CCU) and +1 Boxing Battle Evolution (8,374). +1 stat × Robots / mechs is the top gap (score 3.19), and Robots / mechs is rising at 1.62 with [🛸] Sweep The Moon 🌕 (11,934).",
-      "inspired_by": [
-        "[🌍UPD 5] +1 Venom Evolution",
-        "+1 Boxing Battle Evolution",
-        "[🛸] Sweep The Moon 🌕"
-      ],
-      "differentiator": "+1 games grow a number on your avatar; here the stat is a swarm you can see and aim.",
-      "art_style": "simulator_bright",
-      "map_style": "zone_progression"
-    },
-    {
-      "title": "Tattoo Dinos for Cash 🦖",
+      "title": "Build a Flood Farm 🌊",
       "scope": "medium",
-      "genre": "Tycoon · Paint and serve",
+      "genre": "Tycoon · Grow / farm",
       "mechanics": [
-        "Paint / create",
+        "Grow / farm",
         "Tycoon / base building"
       ],
-      "theme": "Dinosaurs",
-      "hook": "Run a tattoo parlor for dinosaurs. Paint designs right onto a T-Rex's hide, get rated, and grow your shop into a giant dino studio.",
+      "theme": "Disaster / weather",
+      "hook": "Your farm sits on a beach where the tide rises every few minutes. Build terraces higher, plant smarter, and harvest before the wave hits.",
       "core_loop": [
-        "A dino customer walks in with a request",
-        "Paint the design on its scales with brushes and stencils",
-        "Get a star rating and cash tip",
-        "Buy bigger chairs, new inks and rarer dino customers",
-        "Expand the shop to fit giant dinos"
+        "Plant crops on your terraced plot",
+        "Harvest and sell before the flood timer runs out",
+        "Spend cash on higher terraces, walls and pumps",
+        "Flood-soaked crops can mutate into rare water strains",
+        "Unlock bigger waves that pay more"
       ],
-      "twist": "Finished dinos roam your plot showing off your art, and other players can tip the ones they like.",
+      "twist": "The flood is the mutation engine: crops that survive a wave on a low terrace come back as rare 'tide' variants, so you gamble low ground for rarer harvests.",
       "monetization": [
-        "2x tip multiplier",
-        "VIP glowing inks",
-        "Extra stencil packs"
+        "Luck pass for tide mutations",
+        "2x harvest multiplier",
+        "VIP gold pump skin",
+        "Flood skip (Developer Product)"
       ],
       "retention": [
-        "Daily featured dino request",
-        "Best-tattoo of the day vote",
-        "Weekly new dino species"
+        "Mutation index to complete",
+        "Codes on updates",
+        "Bigger wave tiers each update",
+        "Daily weather event (storm surge)"
       ],
-      "why_now": "Paint / create is rising at 1.61 momentum (32 new games) with Ragdoll Sandbox (6,579 CCU) and Paint to Get Rich 🎨 in the niche. Paint / create × Dinosaurs is an open gap (1.91), and Tycoon / base building keeps rising at 1.14 with Build Your World! 🔨 (14,098).",
+      "why_now": "Grow × Disaster is the top gap in the data (score 7.45, still thin). Grow / farm is rising at 1.72 momentum (49 new games, 116,857 CCU) led by [🐜] Ant Evolution (23,577) and Throw a Seed (15,547), and Disaster / weather is at 2.93 with Stop The Tsunami! (15,489). The \"Build a ___\" title formula is at 1.27 (Build Your World! 🔨, 16,033).",
       "inspired_by": [
-        "Paint to Get Rich 🎨",
-        "Ragdoll Sandbox",
+        "Stop The Tsunami!",
+        "Throw a Seed",
         "Build Your World! 🔨"
       ],
-      "differentiator": "Paint games hand you a canvas; here the canvas is a moving dinosaur that becomes a walking showcase on your plot.",
-      "art_style": "stylized",
+      "differentiator": "Farming games protect crops from nothing; here the disaster is both the timer and the source of rare mutations.",
+      "art_style": "simulator_bright",
       "map_style": "plot_base"
     },
     {
-      "title": "Raptor Rally 🦖",
+      "title": "Draw Arms for Mechs 🦾",
+      "scope": "large",
+      "genre": "Physics Sim · Paint / create",
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Robots / mechs",
+      "hook": "Sketch your mech's arms on a canvas: long and thin, huge and clubby, spiky. The drawing becomes a physics limb and you punch other mechs off the platform.",
+      "core_loop": [
+        "Draw two arms in 20 seconds",
+        "Your mech spawns with those exact shapes as physics limbs",
+        "Swing and smash rivals in a ragdoll arena",
+        "Win scrap to unlock new materials (steel, rubber, magnet)",
+        "Climb the ranked ladder"
+      ],
+      "twist": "Shape is the stat: weight, reach and spin come from what you drew, so a funny scribble can beat a careful one.",
+      "monetization": [
+        "VIP extra canvas time",
+        "Material packs (cosmetic + feel)",
+        "2x scrap multiplier",
+        "Private arena servers"
+      ],
+      "retention": [
+        "Ranked ladder and seasons",
+        "Arm gallery with likes",
+        "Weekly draw challenge (only circles, only lines)",
+        "Codes on updates"
+      ],
+      "why_now": "Paint / create is rising at 1.76 (32 new games) and Paint × Robots / mechs is the second-biggest gap (score 4.45). Robots / mechs is at 1.82 (Mechs vs Kaiju's Ragdoll | [DRILL UPDATE], 5,907) and Hit / swing / launch at 1.77, while the Fight × Hit pair has 9 new games with 207,018 CCU (Realistic Ragdoll MMA 🥊, 23,859).",
+      "inspired_by": [
+        "Mechs vs Kaiju's Ragdoll | [DRILL UPDATE]",
+        "[🦖T-REX] BoneBox Engine 🩸",
+        "Realistic Ragdoll MMA 🥊"
+      ],
+      "differentiator": "Mech games give you preset parts; here every arm is drawn by the player and behaves like it looks.",
+      "art_style": "voxel_blocky",
+      "map_style": "arena"
+    },
+    {
+      "title": "Escape the Convoy 🪖",
+      "scope": "large",
+      "genre": "Escape · Race + Shooter",
+      "mechanics": [
+        "Escape / run",
+        "Race / drive",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "hook": "Two players steal a jeep from an army base. One drives, one shoots. Get through the checkpoints before the convoy boxes you in.",
+      "core_loop": [
+        "Pair up: driver and gunner",
+        "Break out of the base and pick a road",
+        "Shoot tyres and dodge roadblocks while the convoy chases",
+        "Reach the border to bank cash",
+        "Upgrade the jeep and unlock longer routes"
+      ],
+      "twist": "Roles swap at every checkpoint, so both players have to be able to drive and shoot.",
+      "monetization": [
+        "Speed pass (faster jeep)",
+        "2x cash multiplier",
+        "VIP camo skins",
+        "Revive token (Developer Product)"
+      ],
+      "retention": [
+        "Fastest-escape leaderboard per route",
+        "Rebirth for permanent jeep perks",
+        "Codes on updates",
+        "New route each update"
+      ],
+      "why_now": "Escape × Military is a top gap (score 3.84). Race × Shooter is the second-hottest pair (6 new games, 227,589 CCU). Military is rising at 1.58 (Voxel Wars, 20,258), Escape / run at 1.38 (13 Days to Escape [ALPHA], 12,470) and Realistic art at 1.71 (BloxNG [CRASH PHYSICS] 💥, 30,948).",
+      "inspired_by": [
+        "Voxel Wars",
+        "13 Days to Escape [ALPHA]",
+        "BloxNG [CRASH PHYSICS] 💥"
+      ],
+      "differentiator": "Escape games are on foot and solo; this is a two-seat car chase where the passenger fights back.",
+      "art_style": "realistic",
+      "map_style": "linear_course"
+    },
+    {
+      "title": "Plow Zombies for Scrap 🧟",
       "scope": "medium",
-      "genre": "Racing · Creature race",
+      "genre": "Vehicle Sim · Break / mine",
+      "mechanics": [
+        "Break / mine / dig",
+        "Race / drive"
+      ],
+      "theme": "Zombies",
+      "hook": "Bolt a plow to your truck and drive straight through the horde. Every zombie and wreck you smash drops scrap for a bigger plow.",
+      "core_loop": [
+        "Drive into a zombie-filled road",
+        "Smash zombies, barricades and wrecks for scrap",
+        "Bank scrap at the safehouse",
+        "Upgrade plow, armour and engine",
+        "Push into the next, thicker zone"
+      ],
+      "twist": "Zombies pile up on the plow blade, so you have to shake or ram them off before the weight stalls you.",
+      "monetization": [
+        "2x scrap multiplier",
+        "Luck pass for rare parts",
+        "VIP fire-plow skin",
+        "Storage pass for more scrap"
+      ],
+      "retention": [
+        "Base upgrades at the safehouse",
+        "Daily horde events",
+        "Distance leaderboard",
+        "Codes on updates"
+      ],
+      "why_now": "Break / mine / dig has the highest mechanic momentum at 1.94 (46 new games, Sandworm Playground 17,466), and Break × Zombies is an open, thin gap (score 2.66). The Break × Race pair has 5 new games with 182,978 CCU, and Race / drive is rising at 1.57 (BloxNG [CRASH PHYSICS] 💥, 30,948).",
+      "inspired_by": [
+        "Sandworm Playground",
+        "BloxNG [CRASH PHYSICS] 💥",
+        "Realistic Car Destruction"
+      ],
+      "differentiator": "Zombie games are about surviving the horde; here the horde is the ore you mine with a truck.",
+      "art_style": "stylized",
+      "map_style": "zone_progression"
+    },
+    {
+      "title": "Be a Kart Polo Pro 🏑",
+      "scope": "small",
+      "genre": "Sports · Race + Hit",
       "mechanics": [
         "Race / drive",
         "Hit / swing / launch"
       ],
-      "theme": "Dinosaurs",
-      "hook": "Saddle up a raptor and race through jungle tracks. Tail-whip rivals off the course and launch off ramps for shortcuts.",
+      "theme": "Sports",
+      "hook": "Drive a go-kart, swing a giant mallet, smack the ball into the goal. Short 3v3 matches with ragdoll crashes.",
       "core_loop": [
-        "Pick a raptor and enter a race lobby",
-        "Sprint, jump and tail-whip rivals",
-        "Earn coins by placing and knocking others out",
-        "Hatch and train faster dino breeds",
-        "Unlock longer tracks with volcano and river sections"
+        "Queue into a 3v3 match",
+        "Drive and swing to hit the ball",
+        "Score goals and knock rivals off their karts",
+        "Earn coins to unlock karts and mallets",
+        "Climb the season ladder"
       ],
-      "twist": "Knocked-off riders ragdoll into the jungle and can grab a wild dino to rejoin, so no one is out for good.",
+      "twist": "Hitting another kart with the mallet ragdolls the driver out for 3 seconds, so defence is a valid play.",
       "monetization": [
-        "VIP gold saddle",
-        "2x race coins",
-        "Exclusive dino skins (limited events)"
+        "VIP pass",
+        "2x coin multiplier",
+        "Luck pass for rare mallet crates"
       ],
       "retention": [
-        "Limited weekend race events",
-        "Codes on new tracks",
-        "Daily fastest-lap board"
+        "Season ranks",
+        "Daily match quests",
+        "Kart and mallet collection",
+        "Codes on updates"
       ],
-      "why_now": "Race / drive is rising at 1.39 momentum (63 new games) and the Hit / swing / launch + Race / drive pair has the most new CCU (239,114 across 7 games), with BloxNG [CRASH PHYSICS] 💥 (23,107) and Hyper Realistic Ragdoll (174,338). Race / drive × Dinosaurs is an open gap (1.79).",
+      "why_now": "Hit × Race is the strongest pair in the data (7 new games, 238,321 CCU). Hit / swing / launch is rising at 1.77 and Race / drive at 1.57; Sports is at 1.18 with Ragdoll Soccer (25,022). The \"Be a ___\" formula is at 1.38 (⚽ Be a Soccer Legend, 10,565).",
       "inspired_by": [
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Hyper Realistic Ragdoll",
-        "[W3🌸] Steal A Pet And Ride It!"
+        "Ragdoll Soccer",
+        "⚽ Be a Soccer Legend",
+        "Can You Pass A Driving Test?"
       ],
-      "differentiator": "Racing games use cars; here the vehicle is a creature that can attack, so races turn into brawls.",
+      "differentiator": "Ragdoll sports games are on foot; adding karts and a swing gives speed and a second skill.",
       "art_style": "stylized",
-      "map_style": "linear_course"
+      "map_style": "arena"
     },
     {
-      "title": "Uppercut to Space 🥊",
+      "title": "Be a Bouncer 🚪",
       "scope": "small",
-      "genre": "Physics Sim · Launch for distance",
+      "genre": "Physics Sim · Fight + Job",
       "mechanics": [
+        "Fight / battle",
         "Hit / swing / launch",
-        "+1 stat per action"
+        "Job / shift"
       ],
-      "theme": "Space",
-      "hook": "Uppercut a dummy so hard it flies through the sky, the clouds, and into orbit. Every punch makes your arm stronger.",
+      "theme": "Money / rich",
+      "hook": "Work the door of a packed club. Check who gets in and physically throw troublemakers out into the street.",
       "core_loop": [
-        "Wind up and uppercut the dummy",
-        "Earn cash for every layer it passes (sky, clouds, orbit, moon)",
-        "Train punch power with +1 per swing",
-        "Buy gloves with bigger launch boosts",
-        "Reach new planets for bigger payouts"
+        "Check guests in the line (dress code, list, fake names)",
+        "Throw out the ones who cause trouble with ragdoll grabs",
+        "Get paid per shift and tips for clean nights",
+        "Unlock bigger venues and harder crowds",
+        "Buy outfits and throw moves"
       ],
-      "twist": "Dummies that land on a planet stay there as markers, so the server's map of space fills up with everyone's best hits.",
+      "twist": "Other players can join as guests and try to sneak in or start trouble, so every shift has real people to deal with.",
       "monetization": [
-        "2x launch cash",
-        "VIP rocket gloves"
+        "VIP pass",
+        "2x shift pay",
+        "Storage for outfits",
+        "Throw-move packs"
       ],
       "retention": [
-        "Farthest-launch leaderboard",
-        "Daily new planet bonus",
-        "Rebirth for stronger base punch"
+        "Venue upgrades",
+        "Daily VIP guest list",
+        "Longest-throw leaderboard",
+        "Codes on updates"
       ],
-      "why_now": "Hit / swing / launch is the top rising mechanic at 2.76 momentum (47 new games), led by Throw Food For Animals (304,504 CCU) and Realistic Ragdoll MMA 🥊 (22,138). Space is the top rising theme at 2.64 and Physics Sim at 2.63.",
+      "why_now": "Fight × Hit is a top pair (9 new games, 207,018 CCU) led by Realistic Ragdoll MMA 🥊 (23,859, 13 days old). Hit / swing / launch is at 1.77, Fight / battle jumped 0.48 this week to 1.21, and Interior maps are rising at 1.73 (DONT SPLASH, 24,900). \"Be a ___\" is at 1.38.",
       "inspired_by": [
-        "Throw Food For Animals",
         "Realistic Ragdoll MMA 🥊",
-        "Hyper Realistic Ragdoll"
+        "DONT SPLASH",
+        "13 Days to Escape [ALPHA]"
       ],
-      "differentiator": "Launch games throw items; here you punch, and the payoff is a trip through visible sky layers into space.",
-      "art_style": "simulator_bright",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Grow a Storm Cloud ⛈️",
-      "scope": "small",
-      "genre": "Incremental Simulator · Grow",
-      "mechanics": [
-        "Grow / farm"
-      ],
-      "theme": "Disaster / weather",
-      "hook": "Plant a tiny cloud on your plot and feed it water until it becomes a monster thunderstorm. Harvest rain, hail and lightning for cash.",
-      "core_loop": [
-        "Feed your cloud water and wind",
-        "Harvest rain, hail and lightning bolts",
-        "Sell the weather for cash",
-        "Buy rarer cloud seeds and storm mutations",
-        "Grow a cloud big enough to unlock tornado seeds"
-      ],
-      "twist": "Fully grown storms drift over neighbours' plots and soak them, so you can share or steal the rain.",
-      "monetization": [
-        "Luck boost for rare storm mutations",
-        "2x harvest multiplier",
-        "VIP rainbow cloud"
-      ],
-      "retention": [
-        "Mutation index",
-        "Codes on updates",
-        "Daily weather event"
-      ],
-      "why_now": "Grow / farm is rising at 1.61 momentum (49 new games) with [🐜] Ant Evolution (33,628 CCU) and Throw a Seed (14,786). Disaster / weather is the second-hottest theme at 2.54 with Stop The Tsunami! (14,599), and Giant / huge is at 2.34.",
-      "inspired_by": [
-        "Throw a Seed",
-        "[2x WEEKEND] Farm Evolution",
-        "Stop The Tsunami!"
-      ],
-      "differentiator": "Garden games grow plants; here you grow weather, and your crop can roll over the whole server.",
-      "art_style": "simulator_bright",
-      "map_style": "plot_base"
-    },
-    {
-      "title": "Escape the Robot Factory 🏭",
-      "scope": "medium",
-      "genre": "Escape · Interior chase",
-      "mechanics": [
-        "Escape / run",
-        "Break / mine / dig"
-      ],
-      "theme": "Robots / mechs",
-      "hook": "You woke up on a robot assembly line. Run through the factory floors, smash panels to find shortcuts, and get out before the line turns you into a robot.",
-      "core_loop": [
-        "Run through conveyor rooms and dodge robot arms",
-        "Smash weak panels for shortcuts and parts",
-        "Bank parts at safe rooms",
-        "Buy speed and smash upgrades",
-        "Reach a deeper floor next run"
-      ],
-      "twist": "Players caught by the line respawn as robots and can chase the humans for the rest of the round.",
-      "monetization": [
-        "Speed boost pass",
-        "2x parts multiplier",
-        "VIP escape-pod skin"
-      ],
-      "retention": [
-        "Rebirth for permanent speed",
-        "Codes on updates",
-        "New factory floor each update"
-      ],
-      "why_now": "Escape / run is rising at 1.27 momentum (38 new games) with Stop The Tsunami! (14,599 CCU) and 13 Days to Escape [ALPHA] (12,148). Interior maps are rising at 1.51, Break / mine / dig at 1.68 and Robots / mechs at 1.62.",
-      "inspired_by": [
-        "13 Days to Escape [ALPHA]",
-        "Stop The Tsunami!",
-        "[🛸] Sweep The Moon 🌕"
-      ],
-      "differentiator": "Escape games run from water or monsters; here getting caught flips you to the other team.",
+      "differentiator": "Ragdoll games are free-for-all; here the throwing is a job with rules, a line, and players on both sides of the door.",
       "art_style": "realistic",
       "map_style": "interior"
     },
     {
-      "title": "Crack Vending Machines 🥤",
-      "scope": "small",
-      "genre": "Incremental Simulator · Break for loot",
+      "title": "Shrink Giants for Gems 🔫",
+      "scope": "medium",
+      "genre": "Shooter · Fight",
       "mechanics": [
-        "Break / mine / dig",
-        "Hit / swing / launch"
+        "Shooter",
+        "Fight / battle"
       ],
-      "theme": "Food / candy",
-      "hook": "Smash open vending machines full of snacks and coins. Rarer machines drop golden sodas and mystery candy.",
+      "theme": "Giant / huge",
+      "hook": "Huge giants stomp into the arena. Shoot them with shrink rays until they're tiny, then punt them for gems.",
       "core_loop": [
-        "Whack a vending machine with your tool",
-        "Collect snacks and coins that spill out",
-        "Sell snacks for cash",
-        "Upgrade your hammer and bag",
-        "Unlock rarer machines in new arcades"
+        "Join a round as a giant walks in",
+        "Shoot shrink rays to cut its size",
+        "Finish it off when it's small enough to kick",
+        "Collect gems by size tier",
+        "Upgrade rays and unlock bigger giants"
       ],
-      "twist": "Some machines fight back and spit cans at you, so you have to time your hits.",
+      "twist": "Shots can hit other players too, so you can shrink a rival and steal the final kick.",
       "monetization": [
-        "2x coin multiplier",
-        "Luck boost for golden machines",
-        "VIP gold hammer"
+        "VIP pass",
+        "2x gem multiplier",
+        "Ray skins",
+        "Storage pass for gems"
       ],
       "retention": [
-        "Snack index to complete",
-        "Codes on updates",
-        "Hourly golden-machine spawn"
+        "Giant index (every giant type)",
+        "Weekly boss giant",
+        "Damage leaderboard",
+        "Codes on updates"
       ],
-      "why_now": "Break / mine / dig is rising at 1.68 momentum (44 new games) with Sandworm Playground (21,768 CCU) and Hit / swing / launch at 2.76. Food / candy is rising at 1.64 with Throw Food For Animals (304,504) and Money / rich at 1.55 with Steal A Balut (13,695).",
+      "why_now": "Giant / huge is rising at 2.70 (29 new games, 250,370 CCU) with [⚡ UPD 2] Be The Biggest Streamer (11,486), and Shooter at 1.68 (Ragdoll Physics 🩸, 27,367). Fight × Shooter is a top pair (7 new games, 202,575 CCU). Arena maps are at 1.64 and the \"___ for ___\" formula at 1.13 (Jump for Cases🎲, 8,819).",
       "inspired_by": [
-        "Sandworm Playground",
-        "Throw Food For Animals",
-        "Steal A Balut"
+        "Ragdoll Physics 🩸",
+        "[⚡ UPD 2] Be The Biggest Streamer",
+        "[✨ NEW ZONES] Summon a Pet Army 🐲"
       ],
-      "differentiator": "Mining games break rocks; here the 'ore' is a vending machine, which gives an instantly clear prize and a funny smash.",
+      "differentiator": "Giant games make you big; here the giants are the targets and shrinking them is the reward loop.",
+      "art_style": "stylized",
+      "map_style": "arena"
+    },
+    {
+      "title": "+1 Barrel Per Shot 🔫",
+      "scope": "small",
+      "genre": "Incremental Simulator · +1 stat",
+      "mechanics": [
+        "+1 stat per action",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "hook": "Every shot you fire adds one more barrel to your gun. Start with a pistol, end with a 500-barrel monster that fills the screen.",
+      "core_loop": [
+        "Fire at targets to get +1 barrel",
+        "Bigger guns clear tougher target zones",
+        "Earn cash to buy fire-rate and spread upgrades",
+        "Unlock the next zone",
+        "Rebirth to keep a barrel multiplier"
+      ],
+      "twist": "Barrels are visible and physical: a huge gun is slow to turn, so players have to balance size against aim.",
+      "monetization": [
+        "2x barrels per shot",
+        "Auto-fire pass",
+        "Speed pass",
+        "VIP gold barrels"
+      ],
+      "retention": [
+        "Biggest-gun leaderboard",
+        "Rebirth tiers",
+        "Pets that add bonus shots",
+        "Codes on updates"
+      ],
+      "why_now": "The \"+1 ___\" title formula is the strongest formula at 1.79 (35 new games, 91,044 CCU) and +1 stat per action is at 1.75, led by [🌍UPD 5] +1 Venom Evolution (12,837) and +1 Boxing Battle Evolution (11,811). Shooter is rising at 1.68 ([FPS] Pixel Arena, 10,090) and Military at 1.58 (Voxel Wars, 20,258).",
+      "inspired_by": [
+        "[🌍UPD 5] +1 Venom Evolution",
+        "+1 Boxing Battle Evolution",
+        "[FPS] Pixel Arena"
+      ],
+      "differentiator": "+1 games grow your body or a number; here the stat is the gun itself, and its size changes how you play.",
       "art_style": "simulator_bright",
       "map_style": "zone_progression"
     },
     {
-      "title": "Splat Racers 🎨",
+      "title": "Wreck Tanks for Medals 🪖",
       "scope": "medium",
-      "genre": "Racing · Combat race",
+      "genre": "Physics Sim · Break + Hit",
       "mechanics": [
-        "Race / drive",
-        "Shooter",
-        "Paint / create"
+        "Break / mine / dig",
+        "Hit / swing / launch"
       ],
-      "theme": "Vehicles",
-      "hook": "Race karts that shoot paint. Splat rivals to slow them down and paint the track your colour to earn speed boosts.",
+      "theme": "Military / war",
+      "hook": "Grab a sledgehammer and take apart army tanks piece by piece. Tracks, turrets and armour plates all fly off with real physics.",
       "core_loop": [
-        "Join a race lobby and pick a kart",
-        "Shoot paint at rivals and the track",
-        "Drive over your colour for boosts",
-        "Earn coins for place and coverage",
-        "Buy new karts and paint guns"
+        "Pick a tank on the scrapyard field",
+        "Smash it apart with hammers, wrecking balls and rams",
+        "Each part broken pays medals",
+        "Buy heavier tools",
+        "Unlock jets, bunkers and battleships to wreck"
       ],
-      "twist": "The track stays painted between laps, so later laps are a fight over whose colour owns each turn.",
+      "twist": "Parts you knock off can be swung as weapons, so a torn-off turret barrel becomes your next bat.",
       "monetization": [
-        "VIP rainbow paint",
-        "2x race coins",
-        "Limited-event kart skins"
+        "2x medal multiplier",
+        "Luck pass for rare tank drops",
+        "VIP golden hammer",
+        "Tool packs"
       ],
       "retention": [
-        "Limited weekend tracks",
-        "Codes on new karts",
-        "Season coverage leaderboard"
-      ],
-      "why_now": "The Race / drive + Shooter pair has 220,964 new CCU across 5 games. Race / drive is rising at 1.39, Shooter at 1.53 (Ragdoll Physics 🩸, 27,367 CCU) and Paint / create at 1.61. Vehicles is rising at 1.40 with BloxNG [CRASH PHYSICS] 💥 (23,107).",
-      "inspired_by": [
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Ragdoll Physics 🩸",
-        "Paint and Hide! 🎨"
-      ],
-      "differentiator": "Kart shooters just hit players; here your shots also reshape the track for every lap after.",
-      "art_style": "stylized",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Be a Tow Truck Driver 🚛",
-      "scope": "large",
-      "genre": "Vehicle Sim · Job",
-      "mechanics": [
-        "Race / drive",
-        "Job / shift"
-      ],
-      "theme": "Vehicles",
-      "hook": "Crashes happen all over a realistic city. Race to the scene, hook up the wreck and haul it to your yard before rival tow drivers do.",
-      "core_loop": [
-        "Get a crash call on your radio",
-        "Drive to the scene and hook the wreck",
-        "Tow it back without crashing yourself",
-        "Sell or repair wrecks in your yard",
-        "Upgrade to heavy trucks that can tow buses and planes"
-      ],
-      "twist": "Other players' real crashes show up as calls, so reckless drivers create work for tow drivers.",
-      "monetization": [
-        "VIP flatbed truck",
-        "2x payout multiplier",
-        "Limited-event truck skins"
-      ],
-      "retention": [
-        "Daily rare-wreck calls",
-        "Limited events",
-        "Codes on updates",
-        "Yard expansions"
-      ],
-      "why_now": "Realistic art is rising at 1.53 momentum (50 new games) with BloxNG [CRASH PHYSICS] 💥 (23,107 CCU). Vehicle Sim is at 1.32 with Can You Pass A Driving Test? (12,347), Race / drive at 1.39 and Vehicles at 1.40. The \"Be a ___\" formula is up to 1.30 with ⚽ Be a Soccer Legend (9,755).",
-      "inspired_by": [
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Can You Pass A Driving Test?",
-        "Low Range: Offroad 4x4 [EARLY ACCESS]"
-      ],
-      "differentiator": "Crash games stop at the wreck; this one makes the cleanup the game and pays you for other players' crashes.",
-      "art_style": "realistic",
-      "map_style": "open_world"
-    },
-    {
-      "title": "Fly Into the Hurricane 🌀",
-      "scope": "large",
-      "genre": "Vehicle Sim · Storm chase",
-      "mechanics": [
-        "Race / drive",
-        "Escape / run"
-      ],
-      "theme": "Disaster / weather",
-      "hook": "Pilot a storm plane straight into a giant hurricane. Drop sensors in the eye wall, dodge debris and lightning, and get out alive.",
-      "core_loop": [
-        "Take off and chase the storm",
-        "Fly through wind bands to drop sensors",
-        "Dodge debris, hail and lightning",
-        "Land safely to cash in data",
-        "Buy tougher planes to reach the eye"
-      ],
-      "twist": "The hurricane grows each round and spawns tornadoes on the ground map, so ground players and pilots work together.",
-      "monetization": [
-        "VIP storm jet",
-        "2x data payout",
-        "Limited-event plane skins"
-      ],
-      "retention": [
-        "Weekly new storm",
-        "Deepest-eye leaderboard",
+        "Vehicle index",
+        "Base display of trophies",
+        "Daily boss vehicle",
         "Codes on updates"
       ],
-      "why_now": "Disaster / weather is rising at 2.54 momentum and Giant / huge at 2.34, led by Hyper Realistic Ragdoll (174,338 CCU) and Stop The Tsunami! (14,599). Race / drive is at 1.39, Escape / run at 1.27 and realistic art at 1.53, with [Update] Tiny Skies ✈️ Fighter Jet & Helicopters (5,353) showing flight is landing.",
+      "why_now": "Break / mine / dig leads all mechanics at 1.94 and Hit / swing / launch is at 1.77; the Break × Hit pair has 6 new games with 181,408 CCU. Military is rising at 1.58 (Voxel Wars, 20,258), Realistic art at 1.71, and the Physics Sim sub-genre at 2.96 (Hyper Realistic Ragdoll, 174,338).",
       "inspired_by": [
-        "Stop The Tsunami!",
-        "[Update] Tiny Skies ✈️ Fighter Jet & Helicopters",
+        "Realistic Car Destruction",
+        "Hyper Realistic Ragdoll",
+        "Voxel Wars"
+      ],
+      "differentiator": "Destruction games break cars; this breaks military vehicles and turns their parts into new tools.",
+      "art_style": "realistic",
+      "map_style": "zone_progression"
+    },
+    {
+      "title": "Brawl for Oxygen 🚀",
+      "scope": "medium",
+      "genre": "Physics Sim · Fight",
+      "mechanics": [
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Space",
+      "hook": "A space station is losing air. Everyone floats in zero gravity, punching and shoving each other to grab the last oxygen tanks.",
+      "core_loop": [
+        "Spawn on a leaking station with an oxygen meter",
+        "Fight in zero-g to grab tanks",
+        "Push rivals out of the airlock",
+        "Last one breathing wins the round",
+        "Spend stars on suits and thrusters"
+      ],
+      "twist": "Every punch sends both players flying the opposite way, so fights double as movement.",
+      "monetization": [
+        "VIP pass",
+        "2x star multiplier",
+        "Suit skins",
+        "Storage pass"
+      ],
+      "retention": [
+        "Round wins leaderboard",
+        "New station maps each update",
+        "Daily challenges",
+        "Codes on updates"
+      ],
+      "why_now": "Space is rising at 2.92 ([🛸] Sweep The Moon 🌕, 10,800; [PHYSICS] Ragdoll Playground, 8,178) and Physics Sim at 2.96 (Hyper Realistic Ragdoll, 174,338). Fight / battle is up 0.48 this week to 1.21, Hit / swing / launch is at 1.77, and Interior maps are at 1.73. \"___ for ___\" is at 1.13 (Hike For Eggs, 7,955).",
+      "inspired_by": [
+        "[🛸] Sweep The Moon 🌕",
+        "[PHYSICS] Ragdoll Playground",
         "Hyper Realistic Ragdoll"
       ],
-      "differentiator": "Disaster games make you hide from the storm; here you fly into it on purpose.",
-      "art_style": "realistic",
-      "map_style": "open_world"
+      "differentiator": "Ragdoll brawlers use gravity; zero-g makes every hit a launch and the air supply a round timer.",
+      "art_style": "stylized",
+      "map_style": "interior"
     }
   ]
 }
