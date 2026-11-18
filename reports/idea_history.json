@@ -2764,5 +2764,90 @@
       "theme": "Disaster / weather",
       "title": "Fly Into the Hurricane \ud83c\udf00"
     }
+  ],
+  "2026-11-18": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Tycoon / base building"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Build a Flood Farm \ud83c\udf0a"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Robots / mechs",
+      "title": "Draw Arms for Mechs \ud83e\uddbe"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Race / drive",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "title": "Escape the Convoy \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Race / drive"
+      ],
+      "theme": "Zombies",
+      "title": "Plow Zombies for Scrap \ud83e\udddf"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Hit / swing / launch"
+      ],
+      "theme": "Sports",
+      "title": "Be a Kart Polo Pro \ud83c\udfd1"
+    },
+    {
+      "mechanics": [
+        "Fight / battle",
+        "Hit / swing / launch",
+        "Job / shift"
+      ],
+      "theme": "Money / rich",
+      "title": "Be a Bouncer \ud83d\udeaa"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "Fight / battle"
+      ],
+      "theme": "Giant / huge",
+      "title": "Shrink Giants for Gems \ud83d\udd2b"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "title": "+1 Barrel Per Shot \ud83d\udd2b"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Hit / swing / launch"
+      ],
+      "theme": "Military / war",
+      "title": "Wreck Tanks for Medals \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Space",
+      "title": "Brawl for Oxygen \ud83d\ude80"
+    }
   ]
 }

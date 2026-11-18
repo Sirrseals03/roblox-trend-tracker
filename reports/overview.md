@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | RPG | +6% | | Simulation | -14% |
 | Roleplay & Avatar Sim | +3% | | Obby & Platformer | -11% |
-| Shopping | +1% | | Survival | -10% |
+| Shopping | +1% | | Survival | -11% |
 | Strategy | +1% | |  |  |
 | Social | -0% | |  |  |
 | Entertainment | -2% | |  |  |
