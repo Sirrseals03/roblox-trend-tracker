@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "ideas": [
     {
-      "title": "Build a Flood Farm 🌊",
+      "title": "Farm the Fault Line 🌋",
       "scope": "medium",
       "genre": "Tycoon · Grow / farm",
       "mechanics": [
@@ -10,398 +10,396 @@
         "Tycoon / base building"
       ],
       "theme": "Disaster / weather",
-      "hook": "Your farm sits on a beach where the tide rises every few minutes. Build terraces higher, plant smarter, and harvest before the wave hits.",
+      "hook": "Your farm sits right on a fault line. Every few minutes an earthquake splits the ground, and the cracks are where the best crops grow.",
       "core_loop": [
-        "Plant crops on your terraced plot",
-        "Harvest and sell before the flood timer runs out",
-        "Spend cash on higher terraces, walls and pumps",
-        "Flood-soaked crops can mutate into rare water strains",
-        "Unlock bigger waves that pay more"
+        "Plant seeds on your plot",
+        "Survive the quake as cracks open across the farm",
+        "Replant in the fresh cracks for rare 'quake' crops",
+        "Harvest and sell for cash",
+        "Buy braces, deeper soil and bigger plots"
       ],
-      "twist": "The flood is the mutation engine: crops that survive a wave on a low terrace come back as rare 'tide' variants, so you gamble low ground for rarer harvests.",
+      "twist": "Quakes reshape your plot each round: cracks are rich soil but can swallow buildings, so you choose between protecting your barn and planting in the danger zone.",
       "monetization": [
-        "Luck pass for tide mutations",
+        "Luck pass for quake mutations",
         "2x harvest multiplier",
-        "VIP gold pump skin",
-        "Flood skip (Developer Product)"
+        "VIP golden tractor",
+        "Instant quake (Developer Product)"
       ],
       "retention": [
-        "Mutation index to complete",
+        "Quake crop index",
+        "Bigger quake tiers to unlock",
         "Codes on updates",
-        "Bigger wave tiers each update",
-        "Daily weather event (storm surge)"
+        "Daily aftershock event"
       ],
-      "why_now": "Grow × Disaster is the top gap in the data (score 7.45, still thin). Grow / farm is rising at 1.72 momentum (49 new games, 116,857 CCU) led by [🐜] Ant Evolution (23,577) and Throw a Seed (15,547), and Disaster / weather is at 2.93 with Stop The Tsunami! (15,489). The \"Build a ___\" title formula is at 1.27 (Build Your World! 🔨, 16,033).",
+      "why_now": "Grow × Disaster is the top gap in the data (score 6.79). Grow / farm is the fastest rising mechanic at 1.92 (up 0.49 this week, 52 new games, 100,897 CCU) led by [🐜] Ant Evolution (25,123) and Throw a Seed (13,378), and Disaster / weather is the top rising theme at 2.47 with Stop The Tsunami! (11,923).",
       "inspired_by": [
-        "Stop The Tsunami!",
+        "[🐜] Ant Evolution",
         "Throw a Seed",
-        "Build Your World! 🔨"
+        "Stop The Tsunami!"
       ],
-      "differentiator": "Farming games protect crops from nothing; here the disaster is both the timer and the source of rare mutations.",
+      "differentiator": "Disaster games make you flee; here the disaster plows your field and decides where rare crops can grow.",
       "art_style": "simulator_bright",
       "map_style": "plot_base"
     },
     {
-      "title": "Draw Arms for Mechs 🦾",
-      "scope": "large",
-      "genre": "Physics Sim · Paint / create",
+      "title": "+1 Crane Height 🏗️",
+      "scope": "small",
+      "genre": "Simulator · +1 stat per action",
       "mechanics": [
-        "Paint / create",
-        "Fight / battle",
+        "+1 stat per action",
         "Hit / swing / launch"
       ],
       "theme": "Robots / mechs",
-      "hook": "Sketch your mech's arms on a canvas: long and thin, huge and clubby, spiky. The drawing becomes a physics limb and you punch other mechs off the platform.",
+      "hook": "You are a robot crane. Every lift gives +1 height, and a taller arm can grab and fling bigger things across the map.",
       "core_loop": [
-        "Draw two arms in 20 seconds",
-        "Your mech spawns with those exact shapes as physics limbs",
-        "Swing and smash rivals in a ragdoll arena",
-        "Win scrap to unlock new materials (steel, rubber, magnet)",
-        "Climb the ranked ladder"
+        "Grab a crate, car or ragdoll with your claw",
+        "Each lift gives +1 crane height",
+        "Fling what you grabbed for distance cash",
+        "Rebirth for a stronger motor",
+        "Unlock heavier zones (cars, buses, tanks)"
       ],
-      "twist": "Shape is the stat: weight, reach and spin come from what you drew, so a funny scribble can beat a careful one.",
+      "twist": "Height changes what you can reach: tall cranes can pluck other players off rooftops and toss them into the next zone.",
       "monetization": [
-        "VIP extra canvas time",
-        "Material packs (cosmetic + feel)",
-        "2x scrap multiplier",
-        "Private arena servers"
+        "2x height multiplier",
+        "Extra storage for grabbed items",
+        "Speed pass for faster swings",
+        "VIP neon crane skin"
       ],
       "retention": [
-        "Ranked ladder and seasons",
-        "Arm gallery with likes",
-        "Weekly draw challenge (only circles, only lines)",
-        "Codes on updates"
-      ],
-      "why_now": "Paint / create is rising at 1.76 (32 new games) and Paint × Robots / mechs is the second-biggest gap (score 4.45). Robots / mechs is at 1.82 (Mechs vs Kaiju's Ragdoll | [DRILL UPDATE], 5,907) and Hit / swing / launch at 1.77, while the Fight × Hit pair has 9 new games with 207,018 CCU (Realistic Ragdoll MMA 🥊, 23,859).",
-      "inspired_by": [
-        "Mechs vs Kaiju's Ragdoll | [DRILL UPDATE]",
-        "[🦖T-REX] BoneBox Engine 🩸",
-        "Realistic Ragdoll MMA 🥊"
-      ],
-      "differentiator": "Mech games give you preset parts; here every arm is drawn by the player and behaves like it looks.",
-      "art_style": "voxel_blocky",
-      "map_style": "arena"
-    },
-    {
-      "title": "Escape the Convoy 🪖",
-      "scope": "large",
-      "genre": "Escape · Race + Shooter",
-      "mechanics": [
-        "Escape / run",
-        "Race / drive",
-        "Shooter"
-      ],
-      "theme": "Military / war",
-      "hook": "Two players steal a jeep from an army base. One drives, one shoots. Get through the checkpoints before the convoy boxes you in.",
-      "core_loop": [
-        "Pair up: driver and gunner",
-        "Break out of the base and pick a road",
-        "Shoot tyres and dodge roadblocks while the convoy chases",
-        "Reach the border to bank cash",
-        "Upgrade the jeep and unlock longer routes"
-      ],
-      "twist": "Roles swap at every checkpoint, so both players have to be able to drive and shoot.",
-      "monetization": [
-        "Speed pass (faster jeep)",
-        "2x cash multiplier",
-        "VIP camo skins",
-        "Revive token (Developer Product)"
-      ],
-      "retention": [
-        "Fastest-escape leaderboard per route",
-        "Rebirth for permanent jeep perks",
-        "Codes on updates",
-        "New route each update"
-      ],
-      "why_now": "Escape × Military is a top gap (score 3.84). Race × Shooter is the second-hottest pair (6 new games, 227,589 CCU). Military is rising at 1.58 (Voxel Wars, 20,258), Escape / run at 1.38 (13 Days to Escape [ALPHA], 12,470) and Realistic art at 1.71 (BloxNG [CRASH PHYSICS] 💥, 30,948).",
-      "inspired_by": [
-        "Voxel Wars",
-        "13 Days to Escape [ALPHA]",
-        "BloxNG [CRASH PHYSICS] 💥"
-      ],
-      "differentiator": "Escape games are on foot and solo; this is a two-seat car chase where the passenger fights back.",
-      "art_style": "realistic",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Plow Zombies for Scrap 🧟",
-      "scope": "medium",
-      "genre": "Vehicle Sim · Break / mine",
-      "mechanics": [
-        "Break / mine / dig",
-        "Race / drive"
-      ],
-      "theme": "Zombies",
-      "hook": "Bolt a plow to your truck and drive straight through the horde. Every zombie and wreck you smash drops scrap for a bigger plow.",
-      "core_loop": [
-        "Drive into a zombie-filled road",
-        "Smash zombies, barricades and wrecks for scrap",
-        "Bank scrap at the safehouse",
-        "Upgrade plow, armour and engine",
-        "Push into the next, thicker zone"
-      ],
-      "twist": "Zombies pile up on the plow blade, so you have to shake or ram them off before the weight stalls you.",
-      "monetization": [
-        "2x scrap multiplier",
-        "Luck pass for rare parts",
-        "VIP fire-plow skin",
-        "Storage pass for more scrap"
-      ],
-      "retention": [
-        "Base upgrades at the safehouse",
-        "Daily horde events",
-        "Distance leaderboard",
-        "Codes on updates"
-      ],
-      "why_now": "Break / mine / dig has the highest mechanic momentum at 1.94 (46 new games, Sandworm Playground 17,466), and Break × Zombies is an open, thin gap (score 2.66). The Break × Race pair has 5 new games with 182,978 CCU, and Race / drive is rising at 1.57 (BloxNG [CRASH PHYSICS] 💥, 30,948).",
-      "inspired_by": [
-        "Sandworm Playground",
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Realistic Car Destruction"
-      ],
-      "differentiator": "Zombie games are about surviving the horde; here the horde is the ore you mine with a truck.",
-      "art_style": "stylized",
-      "map_style": "zone_progression"
-    },
-    {
-      "title": "Be a Kart Polo Pro 🏑",
-      "scope": "small",
-      "genre": "Sports · Race + Hit",
-      "mechanics": [
-        "Race / drive",
-        "Hit / swing / launch"
-      ],
-      "theme": "Sports",
-      "hook": "Drive a go-kart, swing a giant mallet, smack the ball into the goal. Short 3v3 matches with ragdoll crashes.",
-      "core_loop": [
-        "Queue into a 3v3 match",
-        "Drive and swing to hit the ball",
-        "Score goals and knock rivals off their karts",
-        "Earn coins to unlock karts and mallets",
-        "Climb the season ladder"
-      ],
-      "twist": "Hitting another kart with the mallet ragdolls the driver out for 3 seconds, so defence is a valid play.",
-      "monetization": [
-        "VIP pass",
-        "2x coin multiplier",
-        "Luck pass for rare mallet crates"
-      ],
-      "retention": [
-        "Season ranks",
-        "Daily match quests",
-        "Kart and mallet collection",
-        "Codes on updates"
-      ],
-      "why_now": "Hit × Race is the strongest pair in the data (7 new games, 238,321 CCU). Hit / swing / launch is rising at 1.77 and Race / drive at 1.57; Sports is at 1.18 with Ragdoll Soccer (25,022). The \"Be a ___\" formula is at 1.38 (⚽ Be a Soccer Legend, 10,565).",
-      "inspired_by": [
-        "Ragdoll Soccer",
-        "⚽ Be a Soccer Legend",
-        "Can You Pass A Driving Test?"
-      ],
-      "differentiator": "Ragdoll sports games are on foot; adding karts and a swing gives speed and a second skill.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "Be a Bouncer 🚪",
-      "scope": "small",
-      "genre": "Physics Sim · Fight + Job",
-      "mechanics": [
-        "Fight / battle",
-        "Hit / swing / launch",
-        "Job / shift"
-      ],
-      "theme": "Money / rich",
-      "hook": "Work the door of a packed club. Check who gets in and physically throw troublemakers out into the street.",
-      "core_loop": [
-        "Check guests in the line (dress code, list, fake names)",
-        "Throw out the ones who cause trouble with ragdoll grabs",
-        "Get paid per shift and tips for clean nights",
-        "Unlock bigger venues and harder crowds",
-        "Buy outfits and throw moves"
-      ],
-      "twist": "Other players can join as guests and try to sneak in or start trouble, so every shift has real people to deal with.",
-      "monetization": [
-        "VIP pass",
-        "2x shift pay",
-        "Storage for outfits",
-        "Throw-move packs"
-      ],
-      "retention": [
-        "Venue upgrades",
-        "Daily VIP guest list",
-        "Longest-throw leaderboard",
-        "Codes on updates"
-      ],
-      "why_now": "Fight × Hit is a top pair (9 new games, 207,018 CCU) led by Realistic Ragdoll MMA 🥊 (23,859, 13 days old). Hit / swing / launch is at 1.77, Fight / battle jumped 0.48 this week to 1.21, and Interior maps are rising at 1.73 (DONT SPLASH, 24,900). \"Be a ___\" is at 1.38.",
-      "inspired_by": [
-        "Realistic Ragdoll MMA 🥊",
-        "DONT SPLASH",
-        "13 Days to Escape [ALPHA]"
-      ],
-      "differentiator": "Ragdoll games are free-for-all; here the throwing is a job with rules, a line, and players on both sides of the door.",
-      "art_style": "realistic",
-      "map_style": "interior"
-    },
-    {
-      "title": "Shrink Giants for Gems 🔫",
-      "scope": "medium",
-      "genre": "Shooter · Fight",
-      "mechanics": [
-        "Shooter",
-        "Fight / battle"
-      ],
-      "theme": "Giant / huge",
-      "hook": "Huge giants stomp into the arena. Shoot them with shrink rays until they're tiny, then punt them for gems.",
-      "core_loop": [
-        "Join a round as a giant walks in",
-        "Shoot shrink rays to cut its size",
-        "Finish it off when it's small enough to kick",
-        "Collect gems by size tier",
-        "Upgrade rays and unlock bigger giants"
-      ],
-      "twist": "Shots can hit other players too, so you can shrink a rival and steal the final kick.",
-      "monetization": [
-        "VIP pass",
-        "2x gem multiplier",
-        "Ray skins",
-        "Storage pass for gems"
-      ],
-      "retention": [
-        "Giant index (every giant type)",
-        "Weekly boss giant",
-        "Damage leaderboard",
-        "Codes on updates"
-      ],
-      "why_now": "Giant / huge is rising at 2.70 (29 new games, 250,370 CCU) with [⚡ UPD 2] Be The Biggest Streamer (11,486), and Shooter at 1.68 (Ragdoll Physics 🩸, 27,367). Fight × Shooter is a top pair (7 new games, 202,575 CCU). Arena maps are at 1.64 and the \"___ for ___\" formula at 1.13 (Jump for Cases🎲, 8,819).",
-      "inspired_by": [
-        "Ragdoll Physics 🩸",
-        "[⚡ UPD 2] Be The Biggest Streamer",
-        "[✨ NEW ZONES] Summon a Pet Army 🐲"
-      ],
-      "differentiator": "Giant games make you big; here the giants are the targets and shrinking them is the reward loop.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "+1 Barrel Per Shot 🔫",
-      "scope": "small",
-      "genre": "Incremental Simulator · +1 stat",
-      "mechanics": [
-        "+1 stat per action",
-        "Shooter"
-      ],
-      "theme": "Military / war",
-      "hook": "Every shot you fire adds one more barrel to your gun. Start with a pistol, end with a 500-barrel monster that fills the screen.",
-      "core_loop": [
-        "Fire at targets to get +1 barrel",
-        "Bigger guns clear tougher target zones",
-        "Earn cash to buy fire-rate and spread upgrades",
-        "Unlock the next zone",
-        "Rebirth to keep a barrel multiplier"
-      ],
-      "twist": "Barrels are visible and physical: a huge gun is slow to turn, so players have to balance size against aim.",
-      "monetization": [
-        "2x barrels per shot",
-        "Auto-fire pass",
-        "Speed pass",
-        "VIP gold barrels"
-      ],
-      "retention": [
-        "Biggest-gun leaderboard",
+        "Leaderboard for tallest crane",
         "Rebirth tiers",
-        "Pets that add bonus shots",
+        "Pets that boost lift",
         "Codes on updates"
       ],
-      "why_now": "The \"+1 ___\" title formula is the strongest formula at 1.79 (35 new games, 91,044 CCU) and +1 stat per action is at 1.75, led by [🌍UPD 5] +1 Venom Evolution (12,837) and +1 Boxing Battle Evolution (11,811). Shooter is rising at 1.68 ([FPS] Pixel Arena, 10,090) and Military at 1.58 (Voxel Wars, 20,258).",
+      "why_now": "+1 × Robots / mechs is the second biggest gap (4.86). The \"+1 ___\" formula sits at 1.9 momentum (37 new games) with [🌍UPD 5] +1 Venom Evolution (9,066) and +1 Boxing Battle Evolution (6,951). Robots / mechs is rising at 1.92 (up 0.32) with untitled ragdoll game (9,011), and Hit / swing / launch is at 1.44.",
       "inspired_by": [
         "[🌍UPD 5] +1 Venom Evolution",
         "+1 Boxing Battle Evolution",
-        "[FPS] Pixel Arena"
+        "untitled ragdoll game"
       ],
-      "differentiator": "+1 games grow your body or a number; here the stat is the gun itself, and its size changes how you play.",
+      "differentiator": "+1 games stack a number on the player; here the number is a visible crane arm that changes what you can grab and fling.",
       "art_style": "simulator_bright",
       "map_style": "zone_progression"
     },
     {
-      "title": "Wreck Tanks for Medals 🪖",
+      "title": "Be a Quake Fixer 🔨",
       "scope": "medium",
-      "genre": "Physics Sim · Break + Hit",
+      "genre": "Simulation · Sell / run a shop",
       "mechanics": [
-        "Break / mine / dig",
-        "Hit / swing / launch"
+        "Sell / run a shop",
+        "Tycoon / base building"
       ],
-      "theme": "Military / war",
-      "hook": "Grab a sledgehammer and take apart army tanks piece by piece. Tracks, turrets and armour plates all fly off with real physics.",
+      "theme": "Disaster / weather",
+      "hook": "Run the repair shop in a town that shakes every night. Patch walls, sell supplies, and hope your own shop survives the next quake.",
       "core_loop": [
-        "Pick a tank on the scrapyard field",
-        "Smash it apart with hammers, wrecking balls and rams",
-        "Each part broken pays medals",
-        "Buy heavier tools",
-        "Unlock jets, bunkers and battleships to wreck"
+        "Take repair jobs on cracked houses",
+        "Sell planks, glass and braces from your shop",
+        "Upgrade tools and hire helper NPCs",
+        "Survive the nightly quake inside your shop",
+        "Expand to bigger buildings with bigger payouts"
       ],
-      "twist": "Parts you knock off can be swung as weapons, so a torn-off turret barrel becomes your next bat.",
+      "twist": "The bigger the quake, the more you earn the next morning, but quakes also damage your shop shelves, so you brace your stock before night falls.",
       "monetization": [
-        "2x medal multiplier",
-        "Luck pass for rare tank drops",
-        "VIP golden hammer",
-        "Tool packs"
+        "2x job payout",
+        "Bigger stock storage",
+        "Speed tools pass",
+        "VIP gold hard hat"
       ],
       "retention": [
-        "Vehicle index",
-        "Base display of trophies",
-        "Daily boss vehicle",
+        "Daily quake forecast with bonus jobs",
+        "Shop upgrade tree",
+        "Codes on updates",
+        "Town rebuild milestones"
+      ],
+      "why_now": "Sell / run a shop × Disaster is a top gap (4.35). Sell / run a shop is rising at 1.23 (35 new games) with Sell Fries! [Anomaly] 🍟 (9,553) and Sell a Million Sushi (4,505), Disaster / weather is at 2.47 with Stop The Tsunami! (11,923), and the \"Be a ___\" formula is at 1.37 (⚽ Be a Soccer Legend, 6,861).",
+      "inspired_by": [
+        "Sell Fries! [Anomaly] 🍟",
+        "Stop The Tsunami!",
+        "⚽ Be a Soccer Legend"
+      ],
+      "differentiator": "Shop games are calm; here a disaster creates the demand and threatens the shop that sells to it.",
+      "art_style": "stylized",
+      "map_style": "town_roleplay"
+    },
+    {
+      "title": "Build a Crash Ramp 💥",
+      "scope": "large",
+      "genre": "Sandbox · Paint / create",
+      "mechanics": [
+        "Paint / create",
+        "Race / drive"
+      ],
+      "theme": "Vehicles",
+      "hook": "Draw and build your own stunt ramp, then send cars down it and watch them smash with real crash physics.",
+      "core_loop": [
+        "Build a ramp from pieces on your lot",
+        "Pick a car and launch it",
+        "Score cash for distance, flips and damage",
+        "Unlock new ramp parts and heavier cars",
+        "Share your ramp for other players to try"
+      ],
+      "twist": "Other players' cars can be launched onto your ramp, and every crash on your build pays you a cut, so the best ramps become busy tourist spots.",
+      "monetization": [
+        "2x crash cash",
+        "VIP rocket car",
+        "Extra build slots",
+        "Car unlock bundle (Developer Product)"
+      ],
+      "retention": [
+        "Daily featured ramp",
+        "Leaderboard for biggest crash",
+        "New car packs each update",
         "Codes on updates"
       ],
-      "why_now": "Break / mine / dig leads all mechanics at 1.94 and Hit / swing / launch is at 1.77; the Break × Hit pair has 6 new games with 181,408 CCU. Military is rising at 1.58 (Voxel Wars, 20,258), Realistic art at 1.71, and the Physics Sim sub-genre at 2.96 (Hyper Realistic Ragdoll, 174,338).",
+      "why_now": "Physics Sim is the fastest rising subgenre at 2.83 (up 0.67, 32 new games, 151,198 CCU) led by Hyper Realistic Ragdoll (45,310). Vehicle Sim is at 1.44 with BloxNG [CRASH PHYSICS] 💥 (22,059), Paint / create is rising at 1.65, and the \"Build a ___\" formula is at 1.3 (Build Your World! 🔨, 12,350).",
       "inspired_by": [
-        "Realistic Car Destruction",
+        "BloxNG [CRASH PHYSICS] 💥",
         "Hyper Realistic Ragdoll",
-        "Voxel Wars"
+        "Build Your World! 🔨"
       ],
-      "differentiator": "Destruction games break cars; this breaks military vehicles and turns their parts into new tools.",
+      "differentiator": "Crash games give you fixed maps; here players build the stunt tracks and earn from other players' wrecks.",
       "art_style": "realistic",
+      "map_style": "open_world"
+    },
+    {
+      "title": "Escape the Airstrike ✈️",
+      "scope": "small",
+      "genre": "Survival · Escape / run",
+      "mechanics": [
+        "Escape / run",
+        "Survive"
+      ],
+      "theme": "Military / war",
+      "hook": "Planes fly over and drop bombs in waves. Run, dive and ragdoll to the shelter before the last strike hits.",
+      "core_loop": [
+        "Spawn on the far side of a war map",
+        "Run as bombing waves sweep the field",
+        "Dive into trenches or bunkers to survive",
+        "Reach the shelter to win the round",
+        "Spend medals on speed and dive upgrades"
+      ],
+      "twist": "Explosions launch you with ragdoll physics, so a near miss can fling you ahead or back to the start.",
+      "monetization": [
+        "Speed pass",
+        "2x medal multiplier",
+        "VIP parachute skin",
+        "Revive (Developer Product)"
+      ],
+      "retention": [
+        "Rebirth for harder maps",
+        "Codes on updates",
+        "Daily map rotation",
+        "Medal leaderboard"
+      ],
+      "why_now": "Escape / run × Military / war is a top gap (4.12). Escape / run is rising at 1.46 (39 new games, 85,654 CCU) with Stop The Tsunami! (11,923) and 13 Days to Escape [ALPHA] (9,352), Military / war is at 1.63 with Voxel Wars (15,506) and Ragdoll Wars! (6,798), and the \"Escape ___\" formula is at 1.09.",
+      "inspired_by": [
+        "13 Days to Escape [ALPHA]",
+        "Voxel Wars",
+        "Ragdoll Wars!"
+      ],
+      "differentiator": "War games are about shooting; here you have no gun and the whole map is the hazard.",
+      "art_style": "stylized",
+      "map_style": "lobby_rounds"
+    },
+    {
+      "title": "Build a Scarecrow Army 🧟",
+      "scope": "medium",
+      "genre": "Tycoon · Grow / farm",
+      "mechanics": [
+        "Grow / farm",
+        "Fight / battle"
+      ],
+      "theme": "Zombies",
+      "hook": "Grow scarecrows from seeds in your field. By night they wake up and fight off the zombies coming for your crops.",
+      "core_loop": [
+        "Plant scarecrow seeds and water them",
+        "Harvest grown scarecrows with random weapons",
+        "Place them around your farm",
+        "Defend against the nightly zombie wave",
+        "Sell zombie loot for better seeds"
+      ],
+      "twist": "Scarecrows grow with mutations: a pumpkin-head can explode, a corn-cob can shoot, so planting is your army builder.",
+      "monetization": [
+        "Luck pass for rare scarecrow mutations",
+        "2x growth speed",
+        "VIP golden scarecrow",
+        "Extra plot rows"
+      ],
+      "retention": [
+        "Scarecrow index",
+        "Harder night tiers",
+        "Codes on updates",
+        "Weekend blood-moon event"
+      ],
+      "why_now": "Grow / farm × Zombies is a top gap (3.89). Grow / farm is rising at 1.92 (up 0.49) with [🐜] Ant Evolution (25,123) and [2x WEEKEND] Farm Evolution (9,857), Fight / battle is at 1.1 (up 0.31), Zombies is at 1.17 with Build to Fight Zombies (3,951), and the \"Build a ___\" formula is at 1.3.",
+      "inspired_by": [
+        "[🐜] Ant Evolution",
+        "[2x WEEKEND] Farm Evolution",
+        "Build to Fight Zombies"
+      ],
+      "differentiator": "You grow your defenders instead of buying them, so the farm and the army are the same thing.",
+      "art_style": "stylized",
+      "map_style": "plot_base"
+    },
+    {
+      "title": "Punt the Giant for Cash 🦶",
+      "scope": "small",
+      "genre": "Simulator · Hit / swing / launch",
+      "mechanics": [
+        "Hit / swing / launch",
+        "+1 stat per action"
+      ],
+      "theme": "Giant / huge",
+      "hook": "A giant ragdoll is asleep in your yard. Kick it as far as you can, earn cash per stud, and grow strong enough to punt bigger giants.",
+      "core_loop": [
+        "Charge up and kick the giant",
+        "Earn cash for distance and bounces",
+        "Each kick gives +1 leg power",
+        "Unlock bigger giants worth more",
+        "Rebirth for kick multipliers"
+      ],
+      "twist": "The giant lands across colored zones that pay different amounts, and sometimes wakes up and kicks you back.",
+      "monetization": [
+        "2x kick power",
+        "Luck pass for gold zones",
+        "VIP rocket boots",
+        "Instant rebirth (Developer Product)"
+      ],
+      "retention": [
+        "Giant index",
+        "Distance leaderboard",
+        "Codes on updates",
+        "Daily boss giant"
+      ],
+      "why_now": "Hit / swing / launch is rising at 1.44 (52 new games, 161,400 CCU) led by Realistic Ragdoll MMA 🥊 (16,008) and Throw a Seed (13,378). Giant / huge is at 1.72 (28 new games) with Pull a Dino 🦖 (5,434), Physics Sim is at 2.83, and the \"___ for ___\" formula is at 1.11.",
+      "inspired_by": [
+        "Throw a Seed",
+        "Pull a Dino 🦖",
+        "Hyper Realistic Ragdoll"
+      ],
+      "differentiator": "Launch games throw small objects; here the projectile is a huge ragdoll with physics that makes every kick look different.",
+      "art_style": "simulator_bright",
       "map_style": "zone_progression"
     },
     {
-      "title": "Brawl for Oxygen 🚀",
+      "title": "+1 Gravity Gun 🪐",
       "scope": "medium",
-      "genre": "Physics Sim · Fight",
+      "genre": "Shooter · +1 stat per action",
       "mechanics": [
-        "Fight / battle",
-        "Hit / swing / launch"
+        "Shooter",
+        "+1 stat per action"
       ],
       "theme": "Space",
-      "hook": "A space station is losing air. Everyone floats in zero gravity, punching and shoving each other to grab the last oxygen tanks.",
+      "hook": "Fight on a tiny moon with a gravity gun. Every hit gives +1 pull, until you can yank asteroids out of the sky and drop them on rivals.",
       "core_loop": [
-        "Spawn on a leaking station with an oxygen meter",
-        "Fight in zero-g to grab tanks",
-        "Push rivals out of the airlock",
-        "Last one breathing wins the round",
-        "Spend stars on suits and thrusters"
+        "Shoot rivals to push or pull them",
+        "Each hit gives +1 gravity power",
+        "Grab space junk and asteroids to throw",
+        "Knock players off the moon for points",
+        "Rebirth into bigger planets"
       ],
-      "twist": "Every punch sends both players flying the opposite way, so fights double as movement.",
+      "twist": "Low gravity means every shot sends players flying, and a strong enough gun can pull the whole crowd into one spot.",
       "monetization": [
-        "VIP pass",
-        "2x star multiplier",
-        "Suit skins",
-        "Storage pass"
+        "2x gravity multiplier",
+        "VIP comet skin",
+        "Speed pass",
+        "Extra power slots"
       ],
       "retention": [
-        "Round wins leaderboard",
-        "New station maps each update",
-        "Daily challenges",
-        "Codes on updates"
+        "Gravity leaderboard",
+        "New planets each update",
+        "Codes on updates",
+        "Daily meteor shower event"
       ],
-      "why_now": "Space is rising at 2.92 ([🛸] Sweep The Moon 🌕, 10,800; [PHYSICS] Ragdoll Playground, 8,178) and Physics Sim at 2.96 (Hyper Realistic Ragdoll, 174,338). Fight / battle is up 0.48 this week to 1.21, Hit / swing / launch is at 1.77, and Interior maps are at 1.73. \"___ for ___\" is at 1.13 (Hike For Eggs, 7,955).",
+      "why_now": "Shooter is up 0.58 this week to 1.4 (36 new games, 168,474 CCU) with Ragdoll Physics 🩸 (27,367) and Voxel Wars (15,506). Space is rising at 2.44 with [🛸] Sweep The Moon 🌕 (7,242), and the \"+1 ___\" formula is at 1.9 with +1 Boxing Battle Evolution (6,951).",
       "inspired_by": [
+        "Ragdoll Physics 🩸",
         "[🛸] Sweep The Moon 🌕",
-        "[PHYSICS] Ragdoll Playground",
-        "Hyper Realistic Ragdoll"
+        "+1 Boxing Battle Evolution"
       ],
-      "differentiator": "Ragdoll brawlers use gravity; zero-g makes every hit a launch and the air supply a round timer.",
+      "differentiator": "Shooters deal damage; this gun moves things, so the arena itself becomes the weapon.",
+      "art_style": "stylized",
+      "map_style": "arena"
+    },
+    {
+      "title": "Be a Dragon Banker 🐉",
+      "scope": "medium",
+      "genre": "Simulation · Sell / run a shop",
+      "mechanics": [
+        "Sell / run a shop",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "hook": "Run the bank inside a dragon's cave. Knights, wizards and goblins deposit treasure, and you keep the dragon happy so it doesn't eat the customers.",
+      "core_loop": [
+        "Serve customers at the counter",
+        "Store their gold in the vault",
+        "Feed the dragon from your earnings",
+        "Upgrade the vault and hire goblin tellers",
+        "Unlock rarer customers with rarer loot"
+      ],
+      "twist": "The dragon sleeps on the hoard: the more gold in the vault, the bigger it grows, and the higher the payout if you keep it calm.",
+      "monetization": [
+        "2x deposit fees",
+        "Bigger vault storage",
+        "VIP golden counter",
+        "Dragon snack (Developer Product)"
+      ],
+      "retention": [
+        "Treasure index",
+        "Dragon growth stages",
+        "Codes on updates",
+        "Weekend knight rush"
+      ],
+      "why_now": "Sell / run a shop × Fantasy / medieval is in the gaps (2.96). Sell / run a shop is at 1.23 with Sell Fries! [Anomaly] 🍟 (9,553) and [UPD 2] Barber Simulator (4,514), Money / rich is at 1.81 (76 new games) with [🐟] Net a Fish! (18,877), and Interiors / corridors is the rising map style at 1.72.",
+      "inspired_by": [
+        "Sell Fries! [Anomaly] 🍟",
+        "[UPD 2] Barber Simulator",
+        "Dragon Arena"
+      ],
+      "differentiator": "Shop games serve normal customers; here the business is built on a dragon that grows with your success.",
       "art_style": "stylized",
       "map_style": "interior"
+    },
+    {
+      "title": "Build a City Smasher 🏙️",
+      "scope": "large",
+      "genre": "Sandbox · Paint / create",
+      "mechanics": [
+        "Paint / create",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "hook": "Build your own giant monster out of blocks, then take control and stomp through a voxel city that breaks apart piece by piece.",
+      "core_loop": [
+        "Build a monster from blocks in your workshop",
+        "Take it into the city",
+        "Smash buildings for cash and blocks",
+        "Spend blocks on bigger limbs and powers",
+        "Unlock bigger cities with tougher buildings"
+      ],
+      "twist": "Your design decides how it moves: long legs step over buildings, heavy arms crush harder, and bad builds fall over.",
+      "monetization": [
+        "2x smash cash",
+        "VIP glowing blocks",
+        "Extra build slots",
+        "Instant city reset (Developer Product)"
+      ],
+      "retention": [
+        "Destruction leaderboard",
+        "New cities each update",
+        "Codes on updates",
+        "Weekly build contest"
+      ],
+      "why_now": "Sandbox is rising at 2.02 (up 0.37) with Build Your World! 🔨 (12,350) and Sandworm Playground (11,726), Voxel / blocky is the top rising art style at 2.21 with Unstable SMP FFA [JAVA PVP!] (16,881), Giant / huge is at 1.72, and Break / mine / dig is at 1.4.",
+      "inspired_by": [
+        "Build Your World! 🔨",
+        "Sandworm Playground",
+        "Unstable SMP FFA [JAVA PVP!]"
+      ],
+      "differentiator": "Destruction games give you a set monster; here you build it, and the build decides how it smashes.",
+      "art_style": "voxel_blocky",
+      "map_style": "open_world"
     }
   ]
 }
