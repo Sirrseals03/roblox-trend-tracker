@@ -2849,5 +2849,87 @@
       "theme": "Space",
       "title": "Brawl for Oxygen \ud83d\ude80"
     }
+  ],
+  "2026-11-19": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Tycoon / base building"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Farm the Fault Line \ud83c\udf0b"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Hit / swing / launch"
+      ],
+      "theme": "Robots / mechs",
+      "title": "+1 Crane Height \ud83c\udfd7\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Sell / run a shop",
+        "Tycoon / base building"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Be a Quake Fixer \ud83d\udd28"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Race / drive"
+      ],
+      "theme": "Vehicles",
+      "title": "Build a Crash Ramp \ud83d\udca5"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Survive"
+      ],
+      "theme": "Military / war",
+      "title": "Escape the Airstrike \u2708\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Fight / battle"
+      ],
+      "theme": "Zombies",
+      "title": "Build a Scarecrow Army \ud83e\udddf"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "+1 stat per action"
+      ],
+      "theme": "Giant / huge",
+      "title": "Punt the Giant for Cash \ud83e\uddb6"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "+1 stat per action"
+      ],
+      "theme": "Space",
+      "title": "+1 Gravity Gun \ud83e\ude90"
+    },
+    {
+      "mechanics": [
+        "Sell / run a shop",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Be a Dragon Banker \ud83d\udc09"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "title": "Build a City Smasher \ud83c\udfd9\ufe0f"
+    }
   ]
 }
