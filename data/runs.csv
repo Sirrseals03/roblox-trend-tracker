@@ -1080,3 +1080,7 @@ ts,task,ok,count,requests,detail
 2026-11-19T01:29:14Z,youtube,1,30,60,"{""games"": 30}"
 2026-11-19T01:29:15Z,archive,1,0,0,"{""archived"": 3}"
 2026-11-19T01:29:59Z,thumbs,1,808,77,"{""niches"": 144, ""games"": 808, ""urls_refreshed"": 808, ""downloaded"": 43, ""errors"": 0, ""pending"": 144, ""report_niches"": 144}"
+2026-11-19T08:48:16Z,discover,1,23,86,"{""listed"": 3805, ""unique"": 2543, ""added"": 23, ""maturity"": 2543, ""errors"": []}"
+2026-11-19T08:48:18Z,third_party,1,1,4,"{""listed"": 7935, ""above_floor"": 3117, ""resolved"": 0, ""added"": 1}"
+2026-11-19T08:56:10Z,snapshot,1,5536,310,"{""polled"": 5536, ""active"": 5406}"
+2026-11-19T08:57:33Z,thumbs,1,806,157,"{""niches"": 144, ""games"": 806, ""urls_refreshed"": 12, ""downloaded"": 155, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
