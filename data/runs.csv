@@ -1104,3 +1104,7 @@ ts,task,ok,count,requests,detail
 2026-11-20T07:27:58Z,youtube,1,30,60,"{""games"": 30}"
 2026-11-20T07:27:59Z,archive,1,0,0,"{""archived"": 3}"
 2026-11-20T07:28:36Z,thumbs,1,804,65,"{""niches"": 144, ""games"": 804, ""urls_refreshed"": 804, ""downloaded"": 31, ""errors"": 0, ""pending"": 144, ""report_niches"": 144}"
+2026-11-20T16:09:22Z,discover,1,4,56,"{""listed"": 1884, ""unique"": 1097, ""added"": 4, ""maturity"": 1097, ""errors"": [""search brainrot: HTTP 429 for https://apis.roblox.com/search-api/omni-search?searchQuery=brainrot&sessionId=9131982a-d339-44e5-b9d3-b2851601ad80&pageToken=eyJzdGFydCI6NDAsImNvdW50Ijo0MCwiZW5kT2ZQYWdlIjpmYWxzZX0%3D&pageType=all: {\""errors\"":[{\""code\"":0,\""message\"":\""\""}]}\n"", ""search lucky block: HTTP 429 for https://apis.roblox.com/search-api/omni-search?searchQuery=lucky+block&sessionId=9131982a-d339-44e5-b9d3-b2851601a"
+2026-11-20T16:09:25Z,third_party,1,49,6,"{""listed"": 7950, ""above_floor"": 3826, ""resolved"": 0, ""added"": 49}"
+2026-11-20T16:17:19Z,snapshot,1,5544,310,"{""polled"": 5544, ""active"": 5426}"
+2026-11-20T16:18:35Z,thumbs,1,806,138,"{""niches"": 144, ""games"": 806, ""urls_refreshed"": 5, ""downloaded"": 136, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
