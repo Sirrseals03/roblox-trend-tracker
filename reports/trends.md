@@ -68,20 +68,20 @@ Momentum = a category's share of young-game CCU divided by its share of all CCU.
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Voxel / blocky | 2.25x | high (20 new games, spread out) | 20 | 107,798 | 44 | 100 Miles Down the River (23,395) |
-| Realistic | 1.58x | high (53 new games, spread out) | 53 | 207,132 | 125 | BloxNG [CRASH PHYSICS] 💥 (23,182) |
-| Stylized / cartoon | 1.25x | high (81 new games, spread out) | 81 | 432,629 | 187 | Hyper Realistic Ragdoll (63,684) |
-| Low poly | 1.35x | high (11 new games, spread out) | 11 | 19,608 | 15 | Pumpkin Playground (6,146) |
+| Voxel / blocky | 2.32x | high (21 new games, spread out) | 21 | 110,896 | 44 | 100 Miles Down the River (23,395) |
+| Realistic | 1.7x | high (59 new games, spread out) | 59 | 235,627 | 131 | BloxNG [CRASH PHYSICS] 💥 (23,182) |
+| Stylized / cartoon | 1.26x | high (83 new games, spread out) | 83 | 437,731 | 190 | Hyper Realistic Ragdoll (63,684) |
+| Low poly | 1.38x | high (12 new games, spread out) | 12 | 22,410 | 17 | Pumpkin Playground (6,146) |
 | Meme / chaotic | 1.12x | low (only 4 new games) | 4 | 5,598 | 8 | Escape The Matrix (2,387) |
 
 ## Rising map styles
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Interiors / corridors | 1.76x | high (62 new games, spread out) | 62 | 230,367 | 164 | [KENDURI] MALAM SAMA OPAH (36,257) |
-| Arena / battleground | 1.38x | high (100 new games, spread out) | 100 | 313,143 | 573 | Hyper Realistic Ragdoll (63,684) |
-| Hub + zones / worlds | 1.23x | high (128 new games, spread out) | 128 | 214,922 | 864 | [🐟] Net a Fish! (19,546) |
-| Lobby + round maps | 1.09x | high (64 new games, spread out) | 64 | 122,657 | 380 | Survive Your Ideas (32,892) |
+| Interiors / corridors | 1.8x | high (65 new games, spread out) | 65 | 238,714 | 167 | [KENDURI] MALAM SAMA OPAH (36,257) |
+| Arena / battleground | 1.39x | high (102 new games, spread out) | 102 | 315,761 | 574 | Hyper Realistic Ragdoll (63,684) |
+| Hub + zones / worlds | 1.15x | high (122 new games, spread out) | 122 | 196,412 | 859 | [🐟] Net a Fish! (19,546) |
+| Lobby + round maps | 1.11x | high (64 new games, spread out) | 64 | 124,317 | 378 | Survive Your Ideas (32,892) |
 
 ## Untapped combinations (rising mechanic x strong theme, no tracked game)
 

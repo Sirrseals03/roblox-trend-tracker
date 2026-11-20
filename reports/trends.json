@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T07:27:26Z",
+  "as_of": "2026-11-20T12:57:46Z",
   "benchmarks": {
     "break_mine": {
       "common_features": [],
@@ -1893,19 +1893,19 @@
   "dimensions": {
     "art_style": [
       {
-        "ccu": 2062206,
+        "ccu": 2081990,
         "confidence": "high",
-        "confidence_note": "85 new games, spread out",
-        "games": 193,
-        "growth": -0.2185,
+        "confidence_note": "88 new games, spread out",
+        "games": 198,
+        "growth": -0.2144,
         "key": "simulator_bright",
         "label": "Bright simulator",
-        "momentum": 0.81,
-        "momentum_adj": 0.82,
+        "momentum": 0.83,
+        "momentum_adj": 0.84,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.279,
-        "top1_share": 0.085,
+        "share": 0.2817,
+        "top1_share": 0.083,
         "top_examples": [
           {
             "age": 118,
@@ -1929,7 +1929,7 @@
             "place": "120219252362013"
           }
         ],
-        "young_ccu": 385406,
+        "young_ccu": 396721,
         "young_examples": [
           {
             "age": 45,
@@ -1953,23 +1953,23 @@
             "place": "128749725449995"
           }
         ],
-        "young_games": 85,
-        "young_share": 0.2272
+        "young_games": 88,
+        "young_share": 0.2339
       },
       {
-        "ccu": 1495620,
+        "ccu": 1503809,
         "confidence": "high",
-        "confidence_note": "81 new games, spread out",
-        "games": 187,
-        "growth": -0.1335,
+        "confidence_note": "83 new games, spread out",
+        "games": 190,
+        "growth": -0.134,
         "key": "stylized",
         "label": "Stylized / cartoon",
-        "momentum": 1.26,
-        "momentum_adj": 1.25,
+        "momentum": 1.27,
+        "momentum_adj": 1.26,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.2024,
-        "top1_share": 0.147,
+        "share": 0.2035,
+        "top1_share": 0.145,
         "top_examples": [
           {
             "age": 2404,
@@ -1993,7 +1993,7 @@
             "place": "17625359962"
           }
         ],
-        "young_ccu": 432629,
+        "young_ccu": 437731,
         "young_examples": [
           {
             "age": 22,
@@ -2017,23 +2017,23 @@
             "place": "106931373443671"
           }
         ],
-        "young_games": 81,
-        "young_share": 0.255
+        "young_games": 83,
+        "young_share": 0.258
       },
       {
-        "ccu": 739771,
+        "ccu": 732790,
         "confidence": "high",
-        "confidence_note": "30 new games, spread out",
-        "games": 150,
-        "growth": -0.1347,
+        "confidence_note": "29 new games, spread out",
+        "games": 148,
+        "growth": -0.1348,
         "key": "anime",
         "label": "Anime / cel-shaded",
-        "momentum": 0.3,
-        "momentum_adj": 0.36,
+        "momentum": 0.28,
+        "momentum_adj": 0.35,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1001,
-        "top1_share": 0.121,
+        "share": 0.0992,
+        "top1_share": 0.129,
         "top_examples": [
           {
             "age": 2865,
@@ -2057,7 +2057,7 @@
             "place": "9391468976"
           }
         ],
-        "young_ccu": 51140,
+        "young_ccu": 47870,
         "young_examples": [
           {
             "age": 38,
@@ -2081,23 +2081,23 @@
             "place": "117316454635032"
           }
         ],
-        "young_games": 30,
-        "young_share": 0.0301
+        "young_games": 29,
+        "young_share": 0.0282
       },
       {
-        "ccu": 543123,
+        "ccu": 571618,
         "confidence": "high",
-        "confidence_note": "53 new games, spread out",
-        "games": 125,
-        "growth": -0.1237,
+        "confidence_note": "59 new games, spread out",
+        "games": 131,
+        "growth": -0.1232,
         "key": "realistic",
         "label": "Realistic",
-        "momentum": 1.66,
-        "momentum_adj": 1.58,
+        "momentum": 1.8,
+        "momentum_adj": 1.7,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0735,
-        "top1_share": 0.112,
+        "share": 0.0773,
+        "top1_share": 0.098,
         "top_examples": [
           {
             "age": 1571,
@@ -2121,7 +2121,7 @@
             "place": "83784149502814"
           }
         ],
-        "young_ccu": 207132,
+        "young_ccu": 235627,
         "young_examples": [
           {
             "age": 38,
@@ -2145,23 +2145,23 @@
             "place": "83048653078891"
           }
         ],
-        "young_games": 53,
-        "young_share": 0.1221
+        "young_games": 59,
+        "young_share": 0.1389
       },
       {
-        "ccu": 415734,
+        "ccu": 417528,
         "confidence": "high",
-        "confidence_note": "17 new games, spread out",
-        "games": 60,
+        "confidence_note": "19 new games, spread out",
+        "games": 63,
         "growth": -0.0927,
         "key": "dark_gritty",
         "label": "Dark / gritty",
-        "momentum": 1.03,
-        "momentum_adj": 1.03,
+        "momentum": 1.01,
+        "momentum_adj": 1.01,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0563,
-        "top1_share": 0.368,
+        "share": 0.0565,
+        "top1_share": 0.375,
         "top_examples": [
           {
             "age": 750,
@@ -2185,7 +2185,7 @@
             "place": "15532962292"
           }
         ],
-        "young_ccu": 98460,
+        "young_ccu": 96623,
         "young_examples": [
           {
             "age": 31,
@@ -2195,22 +2195,22 @@
             "place": "91246277860636"
           },
           {
-            "age": 42,
-            "ccu": 10941,
-            "id": "10769941703",
-            "name": "13 Days to Escape [ALPHA]",
-            "place": "134117451433332"
-          },
-          {
             "age": 28,
             "ccu": 9851,
             "id": "10772627574",
             "name": "Cook Pizzas [Anomaly]",
             "place": "99905511294377"
+          },
+          {
+            "age": 26,
+            "ccu": 8870,
+            "id": "10772946647",
+            "name": "Do Not Stop.",
+            "place": "116779912472448"
           }
         ],
-        "young_games": 17,
-        "young_share": 0.058
+        "young_games": 19,
+        "young_share": 0.057
       },
       {
         "ccu": 217401,
@@ -2277,19 +2277,19 @@
         "young_share": 0.0048
       },
       {
-        "ccu": 167421,
+        "ccu": 165761,
         "confidence": "high",
-        "confidence_note": "20 new games, spread out",
+        "confidence_note": "21 new games, spread out",
         "games": 44,
         "growth": -0.2471,
         "key": "voxel_blocky",
         "label": "Voxel / blocky",
-        "momentum": 2.81,
-        "momentum_adj": 2.25,
+        "momentum": 2.91,
+        "momentum_adj": 2.32,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0227,
-        "top1_share": 0.217,
+        "share": 0.0224,
+        "top1_share": 0.211,
         "top_examples": [
           {
             "age": 39,
@@ -2313,7 +2313,7 @@
             "place": "75260404327641"
           }
         ],
-        "young_ccu": 107798,
+        "young_ccu": 110896,
         "young_examples": [
           {
             "age": 39,
@@ -2337,23 +2337,23 @@
             "place": "75260404327641"
           }
         ],
-        "young_games": 20,
-        "young_share": 0.0635
+        "young_games": 21,
+        "young_share": 0.0654
       },
       {
-        "ccu": 44420,
+        "ccu": 50057,
         "confidence": "high",
-        "confidence_note": "11 new games, spread out",
-        "games": 15,
-        "growth": -0.3113,
+        "confidence_note": "12 new games, spread out",
+        "games": 17,
+        "growth": -0.2711,
         "key": "low_poly",
         "label": "Low poly",
-        "momentum": 1.92,
-        "momentum_adj": 1.35,
+        "momentum": 1.95,
+        "momentum_adj": 1.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.006,
-        "top1_share": 0.313,
+        "share": 0.0068,
+        "top1_share": 0.274,
         "top_examples": [
           {
             "age": 688,
@@ -2377,7 +2377,7 @@
             "place": "101770480176177"
           }
         ],
-        "young_ccu": 19608,
+        "young_ccu": 22410,
         "young_examples": [
           {
             "age": 20,
@@ -2401,8 +2401,8 @@
             "place": "111410533261470"
           }
         ],
-        "young_games": 11,
-        "young_share": 0.0116
+        "young_games": 12,
+        "young_share": 0.0132
       },
       {
         "ccu": 13682,
@@ -4445,18 +4445,18 @@
     ],
     "map_style": [
       {
-        "ccu": 1472221,
+        "ccu": 1467520,
         "confidence": "high",
         "confidence_note": "180 new games, spread out",
-        "games": 1010,
-        "growth": -0.1589,
+        "games": 1009,
+        "growth": -0.1591,
         "key": "plot_base",
         "label": "Personal plots / bases",
-        "momentum": 0.79,
-        "momentum_adj": 0.8,
+        "momentum": 0.8,
+        "momentum_adj": 0.81,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1992,
+        "share": 0.1986,
         "top1_share": 0.07,
         "top_examples": [
           {
@@ -4481,7 +4481,7 @@
             "place": "109983668079237"
           }
         ],
-        "young_ccu": 268186,
+        "young_ccu": 268243,
         "young_examples": [
           {
             "age": 15,
@@ -4509,19 +4509,19 @@
         "young_share": 0.1581
       },
       {
-        "ccu": 1116641,
+        "ccu": 1129801,
         "confidence": "high",
-        "confidence_note": "65 new games, spread out",
-        "games": 239,
+        "confidence_note": "68 new games, spread out",
+        "games": 242,
         "growth": -0.1132,
         "key": "open_world",
         "label": "Open world",
-        "momentum": 1.01,
-        "momentum_adj": 1.01,
+        "momentum": 1.05,
+        "momentum_adj": 1.04,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1511,
-        "top1_share": 0.122,
+        "share": 0.1529,
+        "top1_share": 0.116,
         "top_examples": [
           {
             "age": 2865,
@@ -4545,7 +4545,7 @@
             "place": "16732694052"
           }
         ],
-        "young_ccu": 258083,
+        "young_ccu": 271243,
         "young_examples": [
           {
             "age": 23,
@@ -4569,23 +4569,23 @@
             "place": "78884249003161"
           }
         ],
-        "young_games": 65,
-        "young_share": 0.1521
+        "young_games": 68,
+        "young_share": 0.1599
       },
       {
-        "ccu": 967000,
+        "ccu": 965987,
         "confidence": "high",
-        "confidence_note": "100 new games, spread out",
-        "games": 573,
-        "growth": -0.1127,
+        "confidence_note": "102 new games, spread out",
+        "games": 574,
+        "growth": -0.1128,
         "key": "arena",
         "label": "Arena / battleground",
-        "momentum": 1.41,
-        "momentum_adj": 1.38,
+        "momentum": 1.42,
+        "momentum_adj": 1.39,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1308,
-        "top1_share": 0.203,
+        "share": 0.1307,
+        "top1_share": 0.202,
         "top_examples": [
           {
             "age": 908,
@@ -4609,7 +4609,7 @@
             "place": "9391468976"
           }
         ],
-        "young_ccu": 313143,
+        "young_ccu": 315761,
         "young_examples": [
           {
             "age": 22,
@@ -4633,22 +4633,22 @@
             "place": "76870565041704"
           }
         ],
-        "young_games": 100,
-        "young_share": 0.1846
+        "young_games": 102,
+        "young_share": 0.1861
       },
       {
-        "ccu": 809073,
+        "ccu": 815356,
         "confidence": "high",
         "confidence_note": "92 new games, spread out",
-        "games": 858,
-        "growth": -0.0673,
+        "games": 860,
+        "growth": -0.0667,
         "key": "linear_course",
         "label": "Linear course / stages",
-        "momentum": 0.93,
+        "momentum": 0.92,
         "momentum_adj": 0.93,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1095,
+        "share": 0.1103,
         "top1_share": 0.136,
         "top_examples": [
           {
@@ -4673,7 +4673,7 @@
             "place": "1962086868"
           }
         ],
-        "young_ccu": 172164,
+        "young_ccu": 171981,
         "young_examples": [
           {
             "age": 39,
@@ -4698,22 +4698,22 @@
           }
         ],
         "young_games": 92,
-        "young_share": 0.1015
+        "young_share": 0.1014
       },
       {
-        "ccu": 749189,
+        "ccu": 735437,
         "confidence": "high",
-        "confidence_note": "128 new games, spread out",
-        "games": 864,
-        "growth": -0.1248,
+        "confidence_note": "122 new games, spread out",
+        "games": 859,
+        "growth": -0.1253,
         "key": "zone_progression",
         "label": "Hub + zones / worlds",
-        "momentum": 1.25,
-        "momentum_adj": 1.23,
+        "momentum": 1.16,
+        "momentum_adj": 1.15,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1014,
-        "top1_share": 0.091,
+        "share": 0.0995,
+        "top1_share": 0.1,
         "top_examples": [
           {
             "age": 760,
@@ -4737,7 +4737,7 @@
             "place": "8737899170"
           }
         ],
-        "young_ccu": 214922,
+        "young_ccu": 196412,
         "young_examples": [
           {
             "age": 36,
@@ -4761,22 +4761,22 @@
             "place": "107192230357786"
           }
         ],
-        "young_games": 128,
-        "young_share": 0.1267
+        "young_games": 122,
+        "young_share": 0.1158
       },
       {
-        "ccu": 706286,
+        "ccu": 709373,
         "confidence": "high",
         "confidence_note": "24 new games, spread out",
-        "games": 326,
+        "games": 327,
         "growth": -0.0677,
         "key": "town_roleplay",
         "label": "Town / city roleplay",
-        "momentum": 0.26,
-        "momentum_adj": 0.33,
+        "momentum": 0.25,
+        "momentum_adj": 0.32,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0956,
+        "share": 0.096,
         "top1_share": 0.301,
         "top_examples": [
           {
@@ -4829,19 +4829,19 @@
         "young_share": 0.0244
       },
       {
-        "ccu": 536902,
+        "ccu": 545249,
         "confidence": "high",
-        "confidence_note": "62 new games, spread out",
-        "games": 164,
+        "confidence_note": "65 new games, spread out",
+        "games": 167,
         "growth": -0.1255,
         "key": "interior",
         "label": "Interiors / corridors",
-        "momentum": 1.87,
-        "momentum_adj": 1.76,
+        "momentum": 1.91,
+        "momentum_adj": 1.8,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0726,
-        "top1_share": 0.157,
+        "share": 0.0738,
+        "top1_share": 0.152,
         "top_examples": [
           {
             "age": 1029,
@@ -4865,7 +4865,7 @@
             "place": "7041939546"
           }
         ],
-        "young_ccu": 230367,
+        "young_ccu": 238714,
         "young_examples": [
           {
             "age": 31,
@@ -4889,23 +4889,23 @@
             "place": "134117451433332"
           }
         ],
-        "young_games": 62,
-        "young_share": 0.1358
+        "young_games": 65,
+        "young_share": 0.1407
       },
       {
-        "ccu": 484025,
+        "ccu": 479763,
         "confidence": "high",
         "confidence_note": "64 new games, spread out",
-        "games": 380,
-        "growth": -0.0968,
+        "games": 378,
+        "growth": -0.0982,
         "key": "lobby_rounds",
         "label": "Lobby + round maps",
-        "momentum": 1.1,
-        "momentum_adj": 1.09,
+        "momentum": 1.13,
+        "momentum_adj": 1.11,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0655,
-        "top1_share": 0.268,
+        "share": 0.0649,
+        "top1_share": 0.265,
         "top_examples": [
           {
             "age": 4689,
@@ -4929,7 +4929,7 @@
             "place": "18687417158"
           }
         ],
-        "young_ccu": 122657,
+        "young_ccu": 124317,
         "young_examples": [
           {
             "age": 45,
@@ -4954,22 +4954,22 @@
           }
         ],
         "young_games": 64,
-        "young_share": 0.0723
+        "young_share": 0.0733
       },
       {
-        "ccu": 195913,
+        "ccu": 199011,
         "confidence": "low",
-        "confidence_note": "only 1 new game",
-        "games": 29,
-        "growth": -0.0847,
+        "confidence_note": "only 2 new games; one game holds 97% of new-game CCU",
+        "games": 30,
+        "growth": -0.0805,
         "key": "tower_defense_lanes",
         "label": "Lanes / paths",
-        "momentum": 0.0,
-        "momentum_adj": 0.28,
+        "momentum": 0.07,
+        "momentum_adj": 0.32,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0265,
-        "top1_share": 1.0,
+        "share": 0.0269,
+        "top1_share": 0.965,
         "top_examples": [
           {
             "age": 1795,
@@ -4993,8 +4993,15 @@
             "place": "132929771812494"
           }
         ],
-        "young_ccu": 112,
+        "young_ccu": 3210,
         "young_examples": [
+          {
+            "age": 32,
+            "ccu": 3098,
+            "id": "10771908014",
+            "name": "Dragon Tower Defense",
+            "place": "103076556916764"
+          },
           {
             "age": 52,
             "ccu": 112,
@@ -5003,8 +5010,8 @@
             "place": "111053011787075"
           }
         ],
-        "young_games": 1,
-        "young_share": 0.0001
+        "young_games": 2,
+        "young_share": 0.0019
       }
     ],
     "maturity": [
@@ -12274,19 +12281,19 @@
   "rising": {
     "art_style": [
       {
-        "ccu": 167421,
+        "ccu": 165761,
         "confidence": "high",
-        "confidence_note": "20 new games, spread out",
+        "confidence_note": "21 new games, spread out",
         "games": 44,
         "growth": -0.2471,
         "key": "voxel_blocky",
         "label": "Voxel / blocky",
-        "momentum": 2.81,
-        "momentum_adj": 2.25,
+        "momentum": 2.91,
+        "momentum_adj": 2.32,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0227,
-        "top1_share": 0.217,
+        "share": 0.0224,
+        "top1_share": 0.211,
         "top_examples": [
           {
             "age": 39,
@@ -12310,7 +12317,7 @@
             "place": "75260404327641"
           }
         ],
-        "young_ccu": 107798,
+        "young_ccu": 110896,
         "young_examples": [
           {
             "age": 39,
@@ -12334,23 +12341,23 @@
             "place": "75260404327641"
           }
         ],
-        "young_games": 20,
-        "young_share": 0.0635
+        "young_games": 21,
+        "young_share": 0.0654
       },
       {
-        "ccu": 543123,
+        "ccu": 571618,
         "confidence": "high",
-        "confidence_note": "53 new games, spread out",
-        "games": 125,
-        "growth": -0.1237,
+        "confidence_note": "59 new games, spread out",
+        "games": 131,
+        "growth": -0.1232,
         "key": "realistic",
         "label": "Realistic",
-        "momentum": 1.66,
-        "momentum_adj": 1.58,
+        "momentum": 1.8,
+        "momentum_adj": 1.7,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0735,
-        "top1_share": 0.112,
+        "share": 0.0773,
+        "top1_share": 0.098,
         "top_examples": [
           {
             "age": 1571,
@@ -12374,7 +12381,7 @@
             "place": "83784149502814"
           }
         ],
-        "young_ccu": 207132,
+        "young_ccu": 235627,
         "young_examples": [
           {
             "age": 38,
@@ -12398,23 +12405,23 @@
             "place": "83048653078891"
           }
         ],
-        "young_games": 53,
-        "young_share": 0.1221
+        "young_games": 59,
+        "young_share": 0.1389
       },
       {
-        "ccu": 1495620,
+        "ccu": 1503809,
         "confidence": "high",
-        "confidence_note": "81 new games, spread out",
-        "games": 187,
-        "growth": -0.1335,
+        "confidence_note": "83 new games, spread out",
+        "games": 190,
+        "growth": -0.134,
         "key": "stylized",
         "label": "Stylized / cartoon",
-        "momentum": 1.26,
-        "momentum_adj": 1.25,
+        "momentum": 1.27,
+        "momentum_adj": 1.26,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.2024,
-        "top1_share": 0.147,
+        "share": 0.2035,
+        "top1_share": 0.145,
         "top_examples": [
           {
             "age": 2404,
@@ -12438,7 +12445,7 @@
             "place": "17625359962"
           }
         ],
-        "young_ccu": 432629,
+        "young_ccu": 437731,
         "young_examples": [
           {
             "age": 22,
@@ -12462,23 +12469,23 @@
             "place": "106931373443671"
           }
         ],
-        "young_games": 81,
-        "young_share": 0.255
+        "young_games": 83,
+        "young_share": 0.258
       },
       {
-        "ccu": 44420,
+        "ccu": 50057,
         "confidence": "high",
-        "confidence_note": "11 new games, spread out",
-        "games": 15,
-        "growth": -0.3113,
+        "confidence_note": "12 new games, spread out",
+        "games": 17,
+        "growth": -0.2711,
         "key": "low_poly",
         "label": "Low poly",
-        "momentum": 1.92,
-        "momentum_adj": 1.35,
+        "momentum": 1.95,
+        "momentum_adj": 1.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.006,
-        "top1_share": 0.313,
+        "share": 0.0068,
+        "top1_share": 0.274,
         "top_examples": [
           {
             "age": 688,
@@ -12502,7 +12509,7 @@
             "place": "101770480176177"
           }
         ],
-        "young_ccu": 19608,
+        "young_ccu": 22410,
         "young_examples": [
           {
             "age": 20,
@@ -12526,8 +12533,8 @@
             "place": "111410533261470"
           }
         ],
-        "young_games": 11,
-        "young_share": 0.0116
+        "young_games": 12,
+        "young_share": 0.0132
       },
       {
         "ccu": 13682,
@@ -12854,19 +12861,19 @@
     ],
     "map_style": [
       {
-        "ccu": 536902,
+        "ccu": 545249,
         "confidence": "high",
-        "confidence_note": "62 new games, spread out",
-        "games": 164,
+        "confidence_note": "65 new games, spread out",
+        "games": 167,
         "growth": -0.1255,
         "key": "interior",
         "label": "Interiors / corridors",
-        "momentum": 1.87,
-        "momentum_adj": 1.76,
+        "momentum": 1.91,
+        "momentum_adj": 1.8,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0726,
-        "top1_share": 0.157,
+        "share": 0.0738,
+        "top1_share": 0.152,
         "top_examples": [
           {
             "age": 1029,
@@ -12890,7 +12897,7 @@
             "place": "7041939546"
           }
         ],
-        "young_ccu": 230367,
+        "young_ccu": 238714,
         "young_examples": [
           {
             "age": 31,
@@ -12914,23 +12921,23 @@
             "place": "134117451433332"
           }
         ],
-        "young_games": 62,
-        "young_share": 0.1358
+        "young_games": 65,
+        "young_share": 0.1407
       },
       {
-        "ccu": 967000,
+        "ccu": 965987,
         "confidence": "high",
-        "confidence_note": "100 new games, spread out",
-        "games": 573,
-        "growth": -0.1127,
+        "confidence_note": "102 new games, spread out",
+        "games": 574,
+        "growth": -0.1128,
         "key": "arena",
         "label": "Arena / battleground",
-        "momentum": 1.41,
-        "momentum_adj": 1.38,
+        "momentum": 1.42,
+        "momentum_adj": 1.39,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1308,
-        "top1_share": 0.203,
+        "share": 0.1307,
+        "top1_share": 0.202,
         "top_examples": [
           {
             "age": 908,
@@ -12954,7 +12961,7 @@
             "place": "9391468976"
           }
         ],
-        "young_ccu": 313143,
+        "young_ccu": 315761,
         "young_examples": [
           {
             "age": 22,
@@ -12978,23 +12985,23 @@
             "place": "76870565041704"
           }
         ],
-        "young_games": 100,
-        "young_share": 0.1846
+        "young_games": 102,
+        "young_share": 0.1861
       },
       {
-        "ccu": 749189,
+        "ccu": 735437,
         "confidence": "high",
-        "confidence_note": "128 new games, spread out",
-        "games": 864,
-        "growth": -0.1248,
+        "confidence_note": "122 new games, spread out",
+        "games": 859,
+        "growth": -0.1253,
         "key": "zone_progression",
         "label": "Hub + zones / worlds",
-        "momentum": 1.25,
-        "momentum_adj": 1.23,
+        "momentum": 1.16,
+        "momentum_adj": 1.15,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1014,
-        "top1_share": 0.091,
+        "share": 0.0995,
+        "top1_share": 0.1,
         "top_examples": [
           {
             "age": 760,
@@ -13018,7 +13025,7 @@
             "place": "8737899170"
           }
         ],
-        "young_ccu": 214922,
+        "young_ccu": 196412,
         "young_examples": [
           {
             "age": 36,
@@ -13042,23 +13049,23 @@
             "place": "107192230357786"
           }
         ],
-        "young_games": 128,
-        "young_share": 0.1267
+        "young_games": 122,
+        "young_share": 0.1158
       },
       {
-        "ccu": 484025,
+        "ccu": 479763,
         "confidence": "high",
         "confidence_note": "64 new games, spread out",
-        "games": 380,
-        "growth": -0.0968,
+        "games": 378,
+        "growth": -0.0982,
         "key": "lobby_rounds",
         "label": "Lobby + round maps",
-        "momentum": 1.1,
-        "momentum_adj": 1.09,
+        "momentum": 1.13,
+        "momentum_adj": 1.11,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0655,
-        "top1_share": 0.268,
+        "share": 0.0649,
+        "top1_share": 0.265,
         "top_examples": [
           {
             "age": 4689,
@@ -13082,7 +13089,7 @@
             "place": "18687417158"
           }
         ],
-        "young_ccu": 122657,
+        "young_ccu": 124317,
         "young_examples": [
           {
             "age": 45,
@@ -13107,7 +13114,7 @@
           }
         ],
         "young_games": 64,
-        "young_share": 0.0723
+        "young_share": 0.0733
       }
     ],
     "mechanic": [
@@ -15422,8 +15429,8 @@
     ]
   },
   "style_coverage": {
-    "art_style": 821,
-    "map_style": 4443
+    "art_style": 838,
+    "map_style": 4446
   },
   "total_ccu": 7390449,
   "young_ccu": 1696429,
