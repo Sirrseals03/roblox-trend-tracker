@@ -1,94 +1,94 @@
-# Market overview — through 2026-11-18
+# Market overview — through 2026-11-19
 
 ## Last 7 days
 
-7 days of data · whole market (same games) -10% · 6,965,278,538 visits · 4 new games launched, holding 0.2% of CCU
+7 days of data · whole market (same games) -10% · 6,908,820,162 visits · 5 new games launched, holding 0.1% of CCU
 
 ### Genres (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| RPG | +3% | | Survival | -17% |
-| Roleplay & Avatar Sim | +2% | | Simulation | -15% |
-| Shopping | +0% | | Sports & Racing | -13% |
-| Social | -2% | | Obby & Platformer | -13% |
-| Strategy | -2% | |  |  |
-| Entertainment | -2% | |  |  |
+| Roleplay & Avatar Sim | +3% | | Survival | -18% |
+| Shopping | +0% | | Simulation | -15% |
+| RPG | +0% | | Sports & Racing | -14% |
+| Entertainment | -2% | | Obby & Platformer | -12% |
+| Shooter | -2% | |  |  |
+| Social | -2% | |  |  |
 
 ### Mechanics (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| Raise / pet care | +16% | | Steal / raid | -27% |
-| Hit / swing / launch | +12% | | Shooter | -26% |
-| Job / shift | +4% | | Quiz / guess | -22% |
-| Tower defense | +3% | | +1 stat per action | -18% |
-| Party / minigames | +0% | | Hatch / gacha | -17% |
-| Roleplay / life sim | -2% | | Paint / create | -17% |
+| Raise / pet care | +22% | | Steal / raid | -26% |
+| Hit / swing / launch | +17% | | Shooter | -23% |
+| Job / shift | +4% | | +1 stat per action | -19% |
+| Break / mine / dig | +2% | | Paint / create | -19% |
+| Tower defense | +2% | | Survive | -19% |
+| Party / minigames | +1% | | Quiz / guess | -19% |
 
 ### Themes (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| Food / candy | +22% | | Brainrot | -39% |
-| Disaster / weather | +12% | | Eggs | -25% |
-| Jungle / nature | +7% | | Dinosaurs | -21% |
-| School | -1% | | Robots / mechs | -16% |
-| Fantasy / medieval | -2% | | Military / war | -16% |
-| Toys / plush | -2% | | Seasonal / holiday | -15% |
+| Disaster / weather | +78% | | Brainrot | -41% |
+| Space | +44% | | Eggs | -25% |
+| Food / candy | +17% | | Dinosaurs | -21% |
+| Jungle / nature | +7% | | Robots / mechs | -19% |
+| Vehicles | +1% | | Seasonal / holiday | -16% |
+| School | -3% | | Anime | -15% |
 
 ### New games gaining the most (30 days old or less)
 
-- Hyper Realistic Ragdoll: 0 → 49,716 CCU
-- Do Not Stop.: 0 → 19,599 CCU
-- Voxel Wars: 0 → 19,083 CCU
-- Sandworm Playground: 0 → 18,743 CCU
-- Bloody Ragdoll Physics 🩸: 9,866 → 27,357 CCU
-- Unstable SMP FFA [JAVA PVP!]: 14,180 → 30,302 CCU
+- Hyper Realistic Ragdoll: 9,259 → 56,030 CCU
+- Sandworm Playground: 0 → 20,925 CCU
+- Voxel Wars: 0 → 20,130 CCU
+- [🐜] Ant Evolution: 0 → 19,798 CCU
+- Realistic Ragdoll MMA 🥊: 0 → 17,034 CCU
+- Volley Bomb: 0 → 16,774 CCU
 
 ## Last 30 days
 
-30 days of data · whole market (same games) -27% · 32,643,045,345 visits · 157 new games launched, holding 7.0% of CCU
+30 days of data · whole market (same games) -30% · 32,644,228,296 visits · 113 new games launched, holding 5.6% of CCU
 
 ### Genres (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| RPG | +36% | | Survival | -52% |
-| Strategy | +10% | | Entertainment | -51% |
-| Social | -3% | | Simulation | -31% |
-| Shopping | -3% | | Puzzle | -30% |
-| Roleplay & Avatar Sim | -8% | | Party & Casual | -29% |
-| Obby & Platformer | -16% | | Action | -29% |
+| RPG | +30% | | Entertainment | -60% |
+| Strategy | +4% | | Survival | -52% |
+| Social | -5% | | Simulation | -34% |
+| Shopping | -7% | | Puzzle | -32% |
+| Roleplay & Avatar Sim | -10% | | Party & Casual | -31% |
+| Shooter | -19% | |  |  |
 
 ### Mechanics (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| Hit / swing / launch | +62% | | Shooter | -59% |
-| Raise / pet care | +4% | | Survive | -53% |
-| Tower defense | -4% | | Dice / cards | -51% |
-| Forge / craft | -7% | | Paint / create | -47% |
-| Break / mine / dig | -14% | | +1 stat per action | -46% |
-| Roleplay / life sim | -14% | | RNG roll | -39% |
+| Hit / swing / launch | +49% | | Shooter | -59% |
+| Raise / pet care | +2% | | Survive | -53% |
+| Tower defense | -6% | | Dice / cards | -52% |
+| Forge / craft | -7% | | +1 stat per action | -49% |
+| Break / mine / dig | -15% | | Paint / create | -48% |
+| Fishing | -15% | | Steal / raid | -41% |
 
 ### Themes (ranked against the market)
 
 | Beating the market | Change | | Lagging | Change |
 |---|---|---|---|---|
-| Food / candy | +123% | | Ancient / pyramids | -84% |
-| Superheroes / powers | +24% | | Robots / mechs | -82% |
-| Ocean / pirates | +19% | | Dinosaurs | -69% |
-| Ice / fire / elements | +12% | | Brainrot | -64% |
-| Toys / plush | -5% | | Space | -49% |
-| Giant / huge | -5% | | Money / rich | -43% |
+| Food / candy | +107% | | Robots / mechs | -84% |
+| Ocean / pirates | +10% | | Ancient / pyramids | -82% |
+| Ice / fire / elements | +9% | | Brainrot | -67% |
+| Superheroes / powers | +8% | | Dinosaurs | -67% |
+| Giant / huge | -6% | | Space | -51% |
+| Toys / plush | -10% | | Money / rich | -42% |
 
 ### New games gaining the most (30 days old or less)
 
-- Hyper Realistic Ragdoll: 0 → 53,360 CCU
-- Unstable SMP FFA [JAVA PVP!]: 0 → 30,760 CCU
-- Bloody Ragdoll Physics 🩸: 0 → 27,065 CCU
-- [🛸] Sweep The Moon 🌕: 0 → 23,107 CCU
-- Sandworm Playground: 0 → 21,867 CCU
-- Voxel Wars: 0 → 20,643 CCU
+- Hyper Realistic Ragdoll: 0 → 56,030 CCU
+- Unstable SMP FFA [JAVA PVP!]: 0 → 29,077 CCU
+- Bloody Ragdoll Physics 🩸: 0 → 25,055 CCU
+- [🛸] Sweep The Moon 🌕: 0 → 21,479 CCU
+- Sandworm Playground: 0 → 20,925 CCU
+- Voxel Wars: 0 → 20,130 CCU
 
