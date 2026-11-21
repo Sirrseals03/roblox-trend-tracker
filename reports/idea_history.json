@@ -3013,5 +3013,87 @@
       "theme": "Military / war",
       "title": "Grow a Tank \ud83e\ude96"
     }
+  ],
+  "2026-11-21": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Hit / swing / launch"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Farm Lightning for Fruit \u26a1"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Paint / create"
+      ],
+      "theme": "Ice / fire / elements",
+      "title": "+1 Brush Size \ud83d\udd8c\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Hit / swing / launch"
+      ],
+      "theme": "Giant / huge",
+      "title": "Draw a Glider \u270f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Dice / cards",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "title": "Roll for Reinforcements \ud83c\udfb2"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "title": "Topple Watchtowers \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Twister Brawl \ud83c\udf2a\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Break / mine / dig"
+      ],
+      "theme": "Space",
+      "title": "Crash-Land a Rocket \ud83d\ude80"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Escape / run"
+      ],
+      "theme": "Money / rich",
+      "title": "Grow Mushrooms in the Dark \ud83c\udf44"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Escape / run"
+      ],
+      "theme": "Stones / rocks / ores",
+      "title": "Dig 1000 Blocks Down \u26cf\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Shooter"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Cannon Ship Rally \ud83c\udff4\u200d\u2620\ufe0f"
+    }
   ]
 }
