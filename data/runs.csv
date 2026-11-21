@@ -1131,3 +1131,6 @@ ts,task,ok,count,requests,detail
 2026-11-21T18:17:31Z,third_party,1,84,11,"{""listed"": 7950, ""above_floor"": 4107, ""resolved"": 4, ""added"": 84}"
 2026-11-21T18:26:01Z,snapshot,1,5715,323,"{""polled"": 5715, ""active"": 5684}"
 2026-11-21T18:26:18Z,thumbs,1,816,22,"{""niches"": 144, ""games"": 816, ""urls_refreshed"": 5, ""downloaded"": 20, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
+2026-11-21T23:19:22Z,third_party,1,15,5,"{""listed"": 7950, ""above_floor"": 3851, ""resolved"": 0, ""added"": 15}"
+2026-11-21T23:27:23Z,snapshot,1,5783,321,"{""polled"": 5783, ""active"": 5700}"
+2026-11-21T23:27:34Z,thumbs,1,816,10,"{""niches"": 144, ""games"": 816, ""urls_refreshed"": 2, ""downloaded"": 8, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
