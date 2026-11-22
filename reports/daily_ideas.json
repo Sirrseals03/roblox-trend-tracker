@@ -1,405 +1,408 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "ideas": [
     {
-      "title": "Farm Lightning for Fruit ⚡",
+      "title": "Grow Crops for Inmates 🥕",
       "scope": "medium",
       "genre": "Simulator · Grow / farm",
       "mechanics": [
         "Grow / farm",
-        "Hit / swing / launch"
+        "Sell / run a shop"
       ],
-      "theme": "Disaster / weather",
-      "hook": "Storms roll over your farm every few minutes. Plant metal-tipped trees, and every lightning strike they catch grows glowing fruit worth more cash.",
+      "theme": "Prison / police",
+      "hook": "You run the prison garden. Grow crops in the yard, cook them into meals, and keep the inmates fed before the riot meter fills.",
       "core_loop": [
-        "Plant lightning trees on your plot",
-        "Wait for the storm and steer strikes with rods",
-        "Struck trees grow charged fruit",
-        "Bat ripe fruit to the sell pad for cash",
-        "Buy taller rods and rarer seeds"
+        "Plant seeds in your yard plot",
+        "Water and harvest between guard shifts",
+        "Serve meals to hungry inmates for cash",
+        "Buy bigger plots and rarer seeds",
+        "Unlock new cell blocks with pickier inmates"
       ],
-      "twist": "Bigger storms give rarer fruit but can also set unprotected trees on fire, so you balance rods against risk.",
+      "twist": "Rare crops can be smuggled to inmates for big payouts, but a guard patrol may confiscate them and drop your reputation.",
       "monetization": [
-        "Luck pass for rare storm mutations",
         "2x growth multiplier",
         "Extra plot storage",
-        "VIP golden lightning rod"
+        "Luck pass for golden crops",
+        "VIP greenhouse"
       ],
       "retention": [
-        "Fruit index with storm mutations",
-        "Offline growth while storms pass",
-        "New weather types each update",
+        "Crop index with rare mutations",
+        "Offline growth",
+        "New cell block each update",
         "Codes on updates"
       ],
-      "why_now": "Grow / farm and Disaster / weather is the top gap in the data (score 6.63, thin). Grow / farm is the top rising mechanic at 1.89 (up 0.42 this week, 57 new games, 236,278 CCU) led by Throw a Seed (45,074). Disaster / weather is the top rising theme at 2.59 with Stop The Tsunami! (34,944).",
+      "why_now": "Grow / farm + Prison / police is the second-biggest gap in the data (score 4.45). Grow / farm is the top rising mechanic at 1.87 (up 0.37 this week, 57 new games, 230,858 CCU) led by Throw a Seed (43,895). Prison / police is rising at 1.36 (up 0.21) with 13 Days to Escape [ALPHA] (29,851) and (🚨) Prison Tycoon (13,903).",
       "inspired_by": [
         "Throw a Seed",
-        "Stop The Tsunami!",
-        "[⚖️] Grow a Garden 🌶️"
+        "13 Days to Escape [ALPHA]",
+        "(🚨) Prison Tycoon"
       ],
-      "differentiator": "Garden games use passive timers; here the weather is the growth engine and players aim it.",
+      "differentiator": "Prison games are about escaping or guarding; here you keep the place calm by farming, which no tracked game does.",
       "art_style": "simulator_bright",
       "map_style": "plot_base"
     },
     {
-      "title": "+1 Brush Size 🖌️",
+      "title": "+1 Gear Per Step ⚙️",
       "scope": "small",
       "genre": "Simulator · +1 stat per action",
       "mechanics": [
         "+1 stat per action",
-        "Paint / create"
+        "Fight / battle"
       ],
-      "theme": "Ice / fire / elements",
-      "hook": "Every stroke makes your brush +1 bigger. Paint the arena floor in your team's colour before the timer ends, with fire or ice paint.",
+      "theme": "Robots / mechs",
+      "hook": "Every step you take bolts one more gear onto your robot. Walk to grow from a tiny tin bot into a towering mech, then stomp other players.",
       "core_loop": [
-        "Paint the floor to gain +1 brush size",
-        "Cover more ground than the other team",
-        "Win rounds for paint coins",
-        "Unlock fire and ice paint types",
-        "Rebirth for a permanent size multiplier"
+        "Walk to gain +1 gear per step",
+        "Gears grow your robot's size and power",
+        "Enter the smash ring to knock out smaller bots",
+        "Rebirth to unlock new robot bodies",
+        "Climb the size leaderboard"
       ],
-      "twist": "Fire paint melts ice paint and ice freezes fire, so elements flip territory, not just size.",
+      "twist": "Bigger robots move slower, so small fast bots can still trip giants in the ring.",
       "monetization": [
-        "2x brush growth",
-        "Auto-paint pass",
-        "VIP rainbow paint",
-        "Speed boots"
+        "2x gears per step",
+        "Auto-walk",
+        "Extra pet bot storage",
+        "Speed boost",
+        "VIP chrome body"
       ],
       "retention": [
+        "Rebirth tiers with new bodies",
         "Daily rewards",
-        "Rebirth tiers",
-        "Brush size leaderboard",
-        "Pets that paint for you"
+        "Size leaderboard",
+        "Helper pet drones"
       ],
-      "why_now": "+1 stat per action is at 1.68 momentum (43 new games, 155,692 CCU) led by +1 Venom Evolution (21,396). Paint / create is rising at 1.58 (34 new games) with Hyper Draw! 🎨 and Paint and Hide! 🎨. Paint / create x Ice / fire / elements is an open gap (score 3.22).",
+      "why_now": "+1 stat per action + Robots / mechs is a gap at score 4.07. The +1 mechanic sits at 1.66 momentum (44 new games, 149,212 CCU) with +1 Venom Evolution (18,792) and +1 Boxing Battle Evolution (11,513); the \"+1 ___\" title formula is at 1.68. Robots / mechs is rising at 1.77 with [🛸] Sweep The Moon 🌕 (15,112) and RoChess! (8,317).",
       "inspired_by": [
         "+1 Venom Evolution",
-        "Hyper Draw! 🎨",
-        "Paint and Hide! 🎨"
+        "+1 Boxing Battle Evolution",
+        "[🛸] Sweep The Moon 🌕"
       ],
-      "differentiator": "+1 games grow a body stat; this grows a tool that changes the map, so growth is visible to everyone.",
+      "differentiator": "+1 games usually grow a body or speed stat; this one builds a visible machine piece by piece and uses it in PvP.",
       "art_style": "simulator_bright",
-      "map_style": "arena"
+      "map_style": "zone_progression"
     },
     {
-      "title": "Draw a Glider ✏️",
-      "scope": "small",
-      "genre": "Simulator · Paint / create",
+      "title": "Paint Dinos to Tame 🦕",
+      "scope": "large",
+      "genre": "Adventure · Paint / create",
       "mechanics": [
         "Paint / create",
+        "Race / drive",
+        "Collect / index"
+      ],
+      "theme": "Dinosaurs",
+      "hook": "Wild dinosaurs roam a jungle valley. Splash them with the right paint pattern to tame them, then ride your painted herd in races.",
+      "core_loop": [
+        "Explore the valley and spot wild dinos",
+        "Paint the pattern each species likes to tame it",
+        "Ride tamed dinos in valley races",
+        "Win paint colours and rarer species",
+        "Fill the dino index"
+      ],
+      "twist": "Your paint job is not just cosmetic: colours change a dino's stats, so the best racers wear the strangest patterns.",
+      "monetization": [
+        "2x tame rewards",
+        "VIP rainbow paint set",
+        "Extra stable storage",
+        "Rare paint pack"
+      ],
+      "retention": [
+        "Dino index",
+        "Weekly race cups",
+        "New species each update",
+        "Codes on updates"
+      ],
+      "why_now": "Paint / create + Dinosaurs (score 1.99) and Race / drive + Dinosaurs (1.55) are both thin gaps with no game filling them. Paint / create is at 1.52 momentum (32 new games, 88,426 CCU) with [📝UPD]⚽ Be a Soccer Legend (15,179); stylized art is rising at 1.35 led by [🐜] Ant Evolution (42,738), which shows creature worlds pulling players.",
+      "inspired_by": [
+        "[📝UPD]⚽ Be a Soccer Legend",
+        "[🐜] Ant Evolution",
+        "BloxNG [CRASH PHYSICS] 💥"
+      ],
+      "differentiator": "Dino games are about survival or hatching; here creativity is the taming tool and the ride stats.",
+      "art_style": "stylized",
+      "map_style": "open_world"
+    },
+    {
+      "title": "Outrun the Artillery 💣",
+      "scope": "medium",
+      "genre": "Escape · Escape / run",
+      "mechanics": [
+        "Escape / run",
+        "Break / mine / dig"
+      ],
+      "theme": "Military / war",
+      "hook": "Shells are coming. Sprint from trench to trench across a battlefield before each barrage lands, digging new cover as you go.",
+      "core_loop": [
+        "Wait for the siren, then sprint to the next trench",
+        "Dig cover with your shovel between barrages",
+        "Reach the bunker to bank cash",
+        "Buy faster boots and better shovels",
+        "Unlock longer, harder fronts"
+      ],
+      "twist": "Craters from earlier shells change the course every round, so no two runs are the same.",
+      "monetization": [
+        "2x cash",
+        "Speed pass",
+        "VIP bunker",
+        "Skip-a-front pass"
+      ],
+      "retention": [
+        "Front progression",
+        "Best-time leaderboards",
+        "New fronts each update",
+        "Codes on updates"
+      ],
+      "why_now": "Escape / run + Military / war is a gap at score 3.27. Military / war is rising at 1.62 (up 0.46 this week, 20 new games, 113,699 CCU) with Voxel Wars (34,887). Interiors-and-escape still pull: 13 Days to Escape [ALPHA] has 29,851 CCU and [UPD] Stop The Tsunami! has 26,874. Voxel / blocky art is the fastest-rising style at 2.40.",
+      "inspired_by": [
+        "Voxel Wars",
+        "[UPD] Stop The Tsunami!",
+        "13 Days to Escape [ALPHA]"
+      ],
+      "differentiator": "Military games on Roblox are shooters; this turns war into a hazard run you survive, not a fight you win.",
+      "art_style": "voxel_blocky",
+      "map_style": "linear_course"
+    },
+    {
+      "title": "Roll Giant Dice 🎲",
+      "scope": "small",
+      "genre": "Simulator · Dice / cards",
+      "mechanics": [
+        "Dice / cards",
         "Hit / swing / launch"
       ],
       "theme": "Giant / huge",
-      "hook": "Draw any wing shape, then get flung off a giant cliff. The better your drawing flies, the farther you go and the more cash you earn.",
+      "hook": "Push a dice the size of a house off a cliff. Whatever face lands up multiplies your cash, and the whole server watches it tumble.",
       "core_loop": [
-        "Sketch a glider on the drawing board",
-        "Launch from the catapult",
-        "Glide past distance markers for cash",
-        "Upgrade launch power and paper type",
-        "Unlock taller cliffs"
+        "Push your giant dice to the cliff edge",
+        "Launch it and watch it bounce",
+        "Earn cash times the face it lands on",
+        "Buy heavier dice with more faces",
+        "Unlock bigger cliffs"
       ],
-      "twist": "Your drawing's real shape drives the physics, so funny scribbles crash and clean wings soar.",
+      "twist": "Dice can smash into other players' dice mid-roll and flip their result, so timing your launch matters.",
       "monetization": [
-        "Launch power multiplier",
-        "VIP gold paper",
-        "Luck pass for wind gusts",
-        "Ink colour packs"
+        "Luck pass for high faces",
+        "2x cash",
+        "Auto-push",
+        "VIP golden dice"
       ],
       "retention": [
-        "Distance leaderboard",
-        "New cliffs per update",
-        "Daily wind challenges",
-        "Codes"
+        "Offline earnings",
+        "Dice index",
+        "Leaderboards for highest roll",
+        "Codes on updates"
       ],
-      "why_now": "Paint / create is at 1.58 momentum (34 new games, 96,715 CCU) and Hit / swing / launch is at 1.75 (58 new games, 545,078 CCU) led by Throw a Seed (45,074). Physics Sim is the top rising subgenre at 2.61 with Hyper Realistic Ragdoll (155,402).",
+      "why_now": "Dice / cards + Giant / huge is a gap at score 3.18. Dice / cards is rising at 1.13 (13 new games) with [⚡] Steal a Superpower! (11,460). Giant / huge is at 1.75 with [🚗 UPD 3] Be The Biggest Streamer (22,544) and [🛒] Raise The Biggest Family (18,337). Physics Sim is the top rising sub-genre at 2.60, led by Hyper Realistic Ragdoll (132,853).",
       "inspired_by": [
-        "Hyper Draw! 🎨",
-        "Throw a Seed",
-        "Hyper Realistic Ragdoll"
+        "[⚡] Steal a Superpower!",
+        "Hyper Realistic Ragdoll",
+        "[🚗 UPD 3] Be The Biggest Streamer"
       ],
-      "differentiator": "Drawing games score the art; here the art is the vehicle, so creativity is tested by flight.",
+      "differentiator": "Dice games use flat UI rolls; here the roll is a physics event players can watch and mess with.",
+      "art_style": "simulator_bright",
+      "map_style": "plot_base"
+    },
+    {
+      "title": "Draw Ice Over Lava 🧊",
+      "scope": "small",
+      "genre": "Obby · Paint / create",
+      "mechanics": [
+        "Paint / create",
+        "Escape / run"
+      ],
+      "theme": "Ice / fire / elements",
+      "hook": "The floor is lava. Draw lines with your ice pen and they freeze into bridges, but they melt fast, so keep drawing and keep running.",
+      "core_loop": [
+        "Draw an ice path across the lava",
+        "Run it before it melts",
+        "Collect gems on each stage",
+        "Buy longer ice ink and colder pens",
+        "Reach the volcano top"
+      ],
+      "twist": "Thicker lines last longer but use more ink, so players learn to draw short smart paths.",
+      "monetization": [
+        "2x gems",
+        "VIP frost pen",
+        "Extra ink pass",
+        "Skip stage"
+      ],
+      "retention": [
+        "Stage progression",
+        "Daily pen rewards",
+        "Best-time leaderboards",
+        "New lava worlds each update"
+      ],
+      "why_now": "Paint / create + Ice / fire / elements is a gap at score 2.90. Paint / create is at 1.52 momentum (32 new games, 88,426 CCU) with [PvP] Ragdoll Wars! (8,364). Runners are rising at 1.57 with DONT SPLASH (33,107), and the Disaster / weather theme sits at 2.38 with [UPD] Stop The Tsunami! (26,874).",
+      "inspired_by": [
+        "DONT SPLASH",
+        "[PvP] Ragdoll Wars!",
+        "[UPD] Stop The Tsunami!"
+      ],
+      "differentiator": "Drawing games are usually guess-or-judge; here the drawing is your only floor.",
       "art_style": "simulator_bright",
       "map_style": "linear_course"
     },
     {
-      "title": "Roll for Reinforcements 🎲",
+      "title": "Jet Ski Joust 🌊",
       "scope": "medium",
-      "genre": "Strategy · Dice / cards",
+      "genre": "Sports · Hit / swing / launch",
       "mechanics": [
-        "Dice / cards",
-        "Fight / battle"
+        "Hit / swing / launch",
+        "Race / drive"
       ],
-      "theme": "Military / war",
-      "hook": "Two bases face off on a blocky battlefield. Roll dice each turn to send in soldiers, tanks or airstrikes, and push to the enemy flag.",
+      "theme": "Ocean / pirates",
+      "hook": "Race jet skis across the bay holding a padded lance. Knock rivals into the water as you pass them and ragdoll them across the waves.",
       "core_loop": [
-        "Roll dice to draw units",
-        "Place units on lanes",
-        "Watch the clash play out",
-        "Win medals and new dice faces",
-        "Build a stronger dice set"
+        "Pick a lane and launch your jet ski",
+        "Line up rivals and swing your lance",
+        "Ragdolled riders lose the lap",
+        "Win cash and buy faster skis and longer lances",
+        "Unlock new bays"
       ],
-      "twist": "Doubles call in a surprise airstrike that hits both sides, so risky rolls can swing a losing match.",
+      "twist": "Hits that land at top speed send riders flying farther, so racing and fighting feed each other.",
       "monetization": [
-        "Luck pass for better rolls",
-        "VIP gold dice",
-        "2x medal multiplier",
-        "Speed pass to skip waits"
+        "2x cash",
+        "VIP neon jet ski",
+        "Luck pass for rare lances",
+        "Speed pass"
       ],
       "retention": [
-        "Dice collection",
-        "Ranked leaderboard",
-        "Daily match rewards",
-        "Codes"
+        "Limited-time race events",
+        "Jet ski collection",
+        "Weekly leaderboards",
+        "Codes on updates"
       ],
-      "why_now": "Dice / cards x Military / war is an open gap (score 3.09). Military / war is rising at 1.54 (up 0.42 this week) led by Voxel Wars (29,364) and Ragdoll Wars! (10,955). Dice / cards is at 1.12 with [⚡] Steal a Superpower! (12,439). Voxel / blocky is the top rising art style at 2.46.",
+      "why_now": "Hit / swing / launch + Race / drive is the second-strongest pair in the data (9 new games, 190,425 CCU). Hit / swing is at 1.62 with Realistic Ragdoll MMA 🥊 (25,794); Race / drive at 1.18 with BloxNG [CRASH PHYSICS] 💥 (48,490). Ocean / pirates is rising at 1.34 (up 0.19) with [🐟] Fish For Sea Animals (24,022).",
       "inspired_by": [
-        "Voxel Wars",
-        "Ragdoll Wars!",
-        "[⚡] Steal a Superpower!"
+        "Realistic Ragdoll MMA 🥊",
+        "BloxNG [CRASH PHYSICS] 💥",
+        "[🐟] Fish For Sea Animals"
       ],
-      "differentiator": "War games are aim-based; this one is luck plus placement, so younger players can win.",
-      "art_style": "voxel_blocky",
-      "map_style": "tower_defense_lanes"
+      "differentiator": "Racing games avoid contact; here contact is the point, and water makes every hit a show.",
+      "art_style": "stylized",
+      "map_style": "arena"
     },
     {
-      "title": "Topple Watchtowers 🪖",
+      "title": "Shoot Asteroids for Gold 🪐",
       "scope": "medium",
       "genre": "Simulator · Break / mine / dig",
       "mechanics": [
         "Break / mine / dig",
         "Shooter"
       ],
-      "theme": "Military / war",
-      "hook": "Realistic army watchtowers stand across a valley. Knock them down with cannons, rams and drills, and get paid by how hard they crash.",
-      "core_loop": [
-        "Pick a demolition tool",
-        "Hit the tower's weak points",
-        "Watch it collapse with physics",
-        "Earn cash by debris and crash size",
-        "Unlock bigger towers and tools"
-      ],
-      "twist": "Towers fall where you aim them, and landing one on another tower chains the payout.",
-      "monetization": [
-        "2x cash multiplier",
-        "VIP heavy cannon",
-        "Storage for tool loadouts",
-        "Speed reload pass"
-      ],
-      "retention": [
-        "Tool index",
-        "New tower types each update",
-        "Chain-crash leaderboard",
-        "Rebirth"
-      ],
-      "why_now": "Break / mine / dig is rising at 1.80 (up 0.38 this week, 47 new games, 308,159 CCU) with Flat the Mountain (21,416). Military / war is at 1.54 (up 0.42) with Voxel Wars (29,364). Break x Shooter pairs hold 163,392 young CCU, and Physics Sim leads subgenres at 2.61.",
-      "inspired_by": [
-        "Flat the Mountain",
-        "Voxel Wars",
-        "Hyper Realistic Ragdoll"
-      ],
-      "differentiator": "Destruction sims smash random props; here aiming the fall is the skill.",
-      "art_style": "realistic",
-      "map_style": "open_world"
-    },
-    {
-      "title": "Twister Brawl 🌪️",
-      "scope": "medium",
-      "genre": "Action · Fight / battle",
-      "mechanics": [
-        "Fight / battle",
-        "Hit / swing / launch"
-      ],
-      "theme": "Disaster / weather",
-      "hook": "A tornado roams the arena. Punch, bat and shove rivals into it, and the last one standing wins.",
-      "core_loop": [
-        "Spawn into the arena with a weapon",
-        "Knock rivals toward the tornado",
-        "Survive as the storm grows",
-        "Win coins for knockouts",
-        "Unlock weapons and storm maps"
-      ],
-      "twist": "Anyone sucked in gets flung back from the sky as a falling hazard, so knocked-out players still matter.",
-      "monetization": [
-        "VIP knockback bat",
-        "2x coin multiplier",
-        "Luck pass for rare weapons",
-        "Emote packs"
-      ],
-      "retention": [
-        "Weapon index",
-        "Daily knockout quests",
-        "Seasonal storm maps",
-        "Leaderboards"
-      ],
-      "why_now": "Fight / battle + Hit / swing / launch is the top pair (12 new games, 219,558 young CCU). Fight / battle is up 0.35 this week to 1.19, and Disaster / weather is the top rising theme at 2.59 with Hyper Realistic Ragdoll (155,402) and Stop The Tsunami! (34,944). Arena maps are rising at 1.50.",
-      "inspired_by": [
-        "Realistic Ragdoll MMA 🥊",
-        "Hyper Realistic Ragdoll",
-        "Stop The Tsunami!"
-      ],
-      "differentiator": "Brawlers use static arenas; the moving storm makes positioning the main skill.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "Crash-Land a Rocket 🚀",
-      "scope": "large",
-      "genre": "Simulation · Physics Sim",
-      "mechanics": [
-        "Race / drive",
-        "Break / mine / dig"
-      ],
       "theme": "Space",
-      "hook": "Build a rocket, fly it to a planet and try to land it. Soft landings earn cash; crashes break parts you can salvage.",
+      "hook": "Asteroids drift past your space station. Blast them apart with mining lasers and collect the gold chunks before they float away.",
       "core_loop": [
-        "Build a rocket from parts",
-        "Launch and steer through space",
-        "Land on a planet pad",
-        "Earn cash for clean landings or salvage from crashes",
-        "Unlock planets and better parts"
+        "Aim your laser at passing asteroids",
+        "Break them into ore chunks",
+        "Tractor-beam the gold back to your station",
+        "Sell ore and upgrade lasers",
+        "Unlock deeper asteroid belts"
       ],
-      "twist": "Each planet has different gravity and weather, so a rocket that lands on the Moon may smash on a giant gas planet.",
+      "twist": "Rare golden asteroids appear for the whole server at once and the biggest damage-dealer gets the core.",
       "monetization": [
-        "VIP gold thruster",
-        "2x cash multiplier",
-        "Extra part storage",
-        "Auto-pilot pass"
+        "2x ore",
+        "Extra cargo storage",
+        "Fast laser pass",
+        "VIP station skin"
       ],
       "retention": [
-        "Planet index",
-        "Weekly landing challenges",
-        "New planets per update",
-        "Rocket showcase leaderboard"
+        "Belt progression",
+        "Ore index",
+        "Server-wide asteroid events",
+        "Codes on updates"
       ],
-      "why_now": "Space is the second rising theme at 2.55 with [🛸] Sweep The Moon 🌕 (16,209). Physics Sim is the top rising subgenre at 2.61 with Hyper Realistic Ragdoll (155,402) and BloxNG [CRASH PHYSICS] 💥 (46,700). Break / mine / dig + Race / drive pairs hold 167,736 young CCU.",
+      "why_now": "Break / mine / dig + Shooter is a strong pair (4 new games, 145,455 CCU). Break / mine is at 1.67 with [WORLD 2] Sandworm Playground (20,684); Space is the top rising theme at 2.47 with [🛸] Sweep The Moon 🌕 (15,112). Money / rich is at 1.76 (up 0.22) with Throw a Seed (43,895).",
       "inspired_by": [
+        "[WORLD 2] Sandworm Playground",
         "[🛸] Sweep The Moon 🌕",
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Hyper Realistic Ragdoll"
+        "Throw a Seed"
       ],
-      "differentiator": "Crash games stay on roads; this adds building and planet gravity, so each run is a new puzzle.",
-      "art_style": "low_poly",
+      "differentiator": "Mining games use pickaxes on the ground; here mining is aiming, and the ore moves.",
+      "art_style": "simulator_bright",
       "map_style": "zone_progression"
     },
     {
-      "title": "Grow Mushrooms in the Dark 🍄",
-      "scope": "medium",
-      "genre": "Survival · Grow / farm",
+      "title": "Grow Soldiers for War 🪖",
+      "scope": "large",
+      "genre": "Strategy · Grow / farm",
       "mechanics": [
         "Grow / farm",
-        "Escape / run"
+        "Fight / battle"
       ],
-      "theme": "Money / rich",
-      "hook": "You farm rare glowing mushrooms in an old basement. They only grow in the dark, but something down there hates the light too.",
+      "theme": "Military / war",
+      "hook": "Plant soldier seeds on your farm. They sprout into toy troops, and you march your harvest across the field to fight the farm next door.",
       "core_loop": [
-        "Plant spores in dark rooms",
-        "Keep lights off while they grow",
-        "Harvest and sell upstairs",
-        "Run when the basement thing shows up",
-        "Unlock deeper, darker rooms"
+        "Plant soldier seeds in your field",
+        "Grow them into troops (bigger plots, bigger soldiers)",
+        "Send squads to raid other farms",
+        "Win seeds and supplies from victories",
+        "Unlock tanks and generals as rare crops"
       ],
-      "twist": "Flashlights save you but stop growth, so every light you use costs money.",
+      "twist": "Each soldier type needs different weather to grow, so planning your field matters as much as fighting.",
       "monetization": [
-        "2x growth multiplier",
-        "Luck pass for rare glowing caps",
-        "VIP night-vision goggles",
-        "Storage baskets"
+        "2x growth",
+        "Luck pass for rare generals",
+        "Extra plot storage",
+        "VIP command tent"
       ],
       "retention": [
-        "Mushroom index",
+        "Troop index",
         "Offline growth",
-        "New basement floors each update",
-        "Codes"
+        "Weekly war events",
+        "New units each update"
       ],
-      "why_now": "Grow / farm is the top rising mechanic at 1.89 (up 0.42 this week). Interior maps are the top rising map style at 1.52 (64 new games, 418,759 CCU) led by DONT SPLASH (33,472) and Cook Pizzas [Anomaly] (16,962). Money / rich is up 0.40 to 2.00 with Throw a Seed (45,074).",
+      "why_now": "Fight / battle + Grow / farm is a live pair (9 new games, 75,959 CCU). Grow / farm leads rising mechanics at 1.87 (up 0.37); Military / war is rising at 1.62 (up 0.46) with [🌾 HARVEST EVENT] Summon a Pet Army 🐲 (14,940) and [DRAGONFLY] Raise an Ant Colony 🐜 (11,061), showing army-growing works.",
       "inspired_by": [
-        "DONT SPLASH",
-        "Cook Pizzas [Anomaly]",
+        "[🌾 HARVEST EVENT] Summon a Pet Army 🐲",
+        "[DRAGONFLY] Raise an Ant Colony 🐜",
         "Throw a Seed"
       ],
-      "differentiator": "Horror games rarely have a farming economy; here growing and hiding are the same choice.",
-      "art_style": "dark_gritty",
-      "map_style": "interior"
-    },
-    {
-      "title": "Dig 1000 Blocks Down ⛏️",
-      "scope": "large",
-      "genre": "Adventure · Break / mine / dig",
-      "mechanics": [
-        "Break / mine / dig",
-        "Escape / run"
-      ],
-      "theme": "Stones / rocks / ores",
-      "hook": "Your crew starts at the surface of a blocky world and digs straight down. Every 100 blocks the ores get rarer and the caves get stranger.",
-      "core_loop": [
-        "Dig down with your crew",
-        "Mine ores along the shaft",
-        "Escape cave-ins and lava",
-        "Return to camp to upgrade picks",
-        "Push past your record depth"
-      ],
-      "twist": "The shaft is shared with the server, so every crew's tunnels change the caves for everyone else.",
-      "monetization": [
-        "2x mining speed",
-        "VIP diamond pickaxe",
-        "Extra backpack storage",
-        "Luck pass for rare ores"
-      ],
-      "retention": [
-        "Depth leaderboard",
-        "Ore index",
-        "New layers each update",
-        "Base building at camp"
-      ],
-      "why_now": "Voxel / blocky is the top rising art style at 2.46 (21 new games, 242,670 CCU) led by 100 Miles Down the River (60,836). Break / mine / dig is up 0.38 to 1.80 with [WORLD 2] Sandworm Playground (22,419) and Flat the Mountain (21,416). Linear courses are rising at 1.15.",
-      "inspired_by": [
-        "100 Miles Down the River",
-        "Flat the Mountain",
-        "[WORLD 2] Sandworm Playground"
-      ],
-      "differentiator": "100 Miles goes across; this goes down, with a fixed depth goal and a shared, changing shaft.",
-      "art_style": "voxel_blocky",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Cannon Ship Rally 🏴‍☠️",
-      "scope": "large",
-      "genre": "Racing · Race / drive",
-      "mechanics": [
-        "Race / drive",
-        "Shooter"
-      ],
-      "theme": "Ocean / pirates",
-      "hook": "Pirate ships race around an island chain while firing cannons at each other. Sink rivals or outrun them to claim the treasure buoy.",
-      "core_loop": [
-        "Pick a ship and crew upgrades",
-        "Race through checkpoint buoys",
-        "Fire cannons to slow or sink rivals",
-        "Win gold for place and sinks",
-        "Upgrade hull, sails and cannons"
-      ],
-      "twist": "Sunk ships drop their cargo in the water, so trailing players can scoop loot and catch up.",
-      "monetization": [
-        "VIP golden hull",
-        "2x gold multiplier",
-        "Cannon skin packs",
-        "Speed sails pass"
-      ],
-      "retention": [
-        "Ship collection",
-        "Weekly race cups",
-        "New island tracks each update",
-        "Leaderboards"
-      ],
-      "why_now": "Race / drive + Shooter pairs hold 198,528 young CCU across 6 new games. Shooter is up 0.22 this week to 1.36 with [🏹] Shoot Arrows For Animals! (31,801) and Voxel Wars (29,364). Ocean / pirates is at 1.12 (25 new games) with Risky Pirates! (4,692). Arena and linear course maps are both rising (1.50 and 1.15).",
-      "inspired_by": [
-        "Risky Pirates!",
-        "Voxel Wars",
-        "[🏹] Shoot Arrows For Animals!"
-      ],
-      "differentiator": "Pirate games are open-sea brawls; this is a tight race with combat, so matches are short and replayable.",
+      "differentiator": "Army games summon or hatch; growing troops as crops adds a farm loop to the war.",
       "art_style": "stylized",
-      "map_style": "linear_course"
+      "map_style": "plot_base"
+    },
+    {
+      "title": "Roll Dice, Cast Spells 🧙",
+      "scope": "small",
+      "genre": "Fighting · Dice / cards",
+      "mechanics": [
+        "Dice / cards",
+        "Fight / battle"
+      ],
+      "theme": "Fantasy / medieval",
+      "hook": "Wizard duels where you roll for your spell. Every turn you throw magic dice and the faces decide whether you cast a fireball, a shield or a frog curse.",
+      "core_loop": [
+        "Join a duel in the castle arena",
+        "Roll your spell dice",
+        "Cast what you rolled at your rival",
+        "Win coins to buy new dice faces",
+        "Rank up through wizard tiers"
+      ],
+      "twist": "You build your own dice, so a risky player can fill them with huge spells and blank faces.",
+      "monetization": [
+        "Luck pass",
+        "VIP wizard robe",
+        "2x coins",
+        "Auto-roll",
+        "Speed pass"
+      ],
+      "retention": [
+        "Dice-face index",
+        "Ranked ladder",
+        "Daily free roll",
+        "Codes on updates"
+      ],
+      "why_now": "Dice / cards + Fantasy / medieval is a gap at score 2.95. Fantasy / medieval is rising at 1.58 (up 0.47 this week) with [⚔️] Kit PVP FFA (27,745) and Dragon Arena (14,348). Battlegrounds & Fighting is up 0.36 this week to 1.20.",
+      "inspired_by": [
+        "[⚔️] Kit PVP FFA",
+        "Dragon Arena",
+        "[⚡] Steal a Superpower!"
+      ],
+      "differentiator": "Fantasy fighters rely on skill combos; luck dice let new players win right away.",
+      "art_style": "voxel_blocky",
+      "map_style": "arena"
     }
   ]
 }
