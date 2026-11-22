@@ -3095,5 +3095,88 @@
       "theme": "Ocean / pirates",
       "title": "Cannon Ship Rally \ud83c\udff4\u200d\u2620\ufe0f"
     }
+  ],
+  "2026-11-22": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Sell / run a shop"
+      ],
+      "theme": "Prison / police",
+      "title": "Grow Crops for Inmates \ud83e\udd55"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Fight / battle"
+      ],
+      "theme": "Robots / mechs",
+      "title": "+1 Gear Per Step \u2699\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Race / drive",
+        "Collect / index"
+      ],
+      "theme": "Dinosaurs",
+      "title": "Paint Dinos to Tame \ud83e\udd95"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Break / mine / dig"
+      ],
+      "theme": "Military / war",
+      "title": "Outrun the Artillery \ud83d\udca3"
+    },
+    {
+      "mechanics": [
+        "Dice / cards",
+        "Hit / swing / launch"
+      ],
+      "theme": "Giant / huge",
+      "title": "Roll Giant Dice \ud83c\udfb2"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Escape / run"
+      ],
+      "theme": "Ice / fire / elements",
+      "title": "Draw Ice Over Lava \ud83e\uddca"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Race / drive"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Jet Ski Joust \ud83c\udf0a"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Shooter"
+      ],
+      "theme": "Space",
+      "title": "Shoot Asteroids for Gold \ud83e\ude90"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "title": "Grow Soldiers for War \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Dice / cards",
+        "Fight / battle"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Roll Dice, Cast Spells \ud83e\uddd9"
+    }
   ]
 }
