@@ -3178,5 +3178,88 @@
       "theme": "Fantasy / medieval",
       "title": "Roll Dice, Cast Spells \ud83e\uddd9"
     }
+  ],
+  "2026-11-23": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Grow Herbs for Potions \ud83c\udf3f"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Escape / run"
+      ],
+      "theme": "Horror",
+      "title": "+1 Lantern Light \ud83c\udfee"
+    },
+    {
+      "mechanics": [
+        "Dice / cards",
+        "Fight / battle"
+      ],
+      "theme": "Robots / mechs",
+      "title": "Pull Cards for Bot Parts \ud83c\udccf"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Hit / swing / launch"
+      ],
+      "theme": "Vehicles",
+      "title": "Hammer Kart \ud83d\udd28"
+    },
+    {
+      "mechanics": [
+        "Survive",
+        "Fight / battle"
+      ],
+      "theme": "Space",
+      "title": "Survive the Space Station \ud83d\udef8"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Survive"
+      ],
+      "theme": "Zombies",
+      "title": "Don't Dig Too Deep \ud83e\udddf"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "Collect / index"
+      ],
+      "theme": "Military / war",
+      "title": "Snipe Supply Drops \ud83e\ude82"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Shooter",
+        "+1 stat per action"
+      ],
+      "theme": "Vehicles",
+      "title": "+1 Turret Per Lap \ud83c\udfce\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Tycoon / base building",
+        "Fight / battle"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Pirate Fort Tycoon \ud83c\udff4\u200d\u2620\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Fight / battle"
+      ],
+      "theme": "Stones / rocks / ores",
+      "title": "Smash Golems for Gems \ud83d\uddff"
+    }
   ]
 }
