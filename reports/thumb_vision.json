@@ -1,50 +1,50 @@
 {
   "niches": {
     "mechanic:break_mine": {
-      "art_style": "simulator_bright in about 8/12; a few dark/realistic outliers (Sol's RNG, The Forge)",
+      "art_style": "Split: bright simulator/stylized (about 6/12) vs dark anime or RNG glow art (about 5/12); voxel farm animals in new entries.",
       "avoid": [
-        "Dark red horror palettes unless the game is horror",
-        "Too many UI numbers"
+        "Pure logo icons with no action",
+        "Dark muddy scenes where the object is hard to read"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: avatar with pickaxe cracking a giant glowing object, chunks flying. Thumbnail: split-screen of the object intact vs shattered, revealing a rare reward.",
+      "date": "2026-11-23",
+      "direction": "Icon: a pickaxe or drill cracking a glowing rare egg/ore with sparks flying. Thumbnail: split layout, small rock on the left, giant glowing treasure on the right, joined by a red arrow and a big money number.",
       "do": [
-        "Show the tool making contact with a huge target",
-        "Add flying chunks and dust",
-        "Use a split before/after for building or wrecking",
-        "Keep the sky bright"
+        "Show the tool mid-strike on a glowing, valuable-looking object",
+        "Use a split before/after with a red arrow for progression",
+        "Add one rarity or money number in bold outlined text",
+        "Make the broken material spray chunks toward the camera"
       ],
       "icon_patterns": [
         {
           "count": "6/12",
-          "pattern": "avatar swinging a tool (pickaxe, bat, wrecking ball) at a large target"
+          "pattern": "tool or machine shown (pickaxe, drill, excavator, bat)"
         },
-        {
-          "count": "3/12",
-          "pattern": "hourglass countdown or WORLD 2 / UPDATE label"
-        },
-        {
-          "count": "7/12",
-          "pattern": "bright blue sky and green grass"
-        }
-      ],
-      "members_hash": "707875255f",
-      "newcomer_shift": "NEW games use realistic destruction (car crash, mansion) and animal-vs-dummy fights",
-      "source": "vision",
-      "summary": "Break/mine games show the tool hitting something big (egg, mountain, house, car) with debris, usually on a bright sky background.",
-      "text_usage": "Mostly none; money per second or short update labels",
-      "thumbnail_patterns": [
         {
           "count": "5/12",
-          "pattern": "debris or cracks flying from the target"
+          "pattern": "dark dramatic background with glow/red lighting"
+        },
+        {
+          "count": "5/12",
+          "pattern": "bright sky/grass simulator scene"
+        }
+      ],
+      "members_hash": "2073b6b35f",
+      "newcomer_shift": "NEW games use big vehicles/landscapes (excavator flattening a mountain), voxel farm animals, and $0 vs $1,000,000 split thumbnails.",
+      "source": "vision",
+      "summary": "Break/mine winners show the tool or machine hitting a rich, glowing object, mixing bright simulator scenes with darker anime/RNG art.",
+      "text_usage": "Light; occasional rarity percentage, WORLD 2, or $0 to $1,000,000 before/after text.",
+      "thumbnail_patterns": [
+        {
+          "count": "6/12",
+          "pattern": "object being broken or dug into (eggs, mountain, ground, ragdoll)"
+        },
+        {
+          "count": "4/12",
+          "pattern": "glowing loot/rarity cue (lava eggs, gold armor, 0.00001%)"
         },
         {
           "count": "3/12",
-          "pattern": "before/after split (house built vs crumbling, $0 vs $1M)"
-        },
-        {
-          "count": "3/12",
-          "pattern": "glowing eggs or treasure being uncovered"
+          "pattern": "before/after or split layout with arrow"
         }
       ]
     },
@@ -142,50 +142,49 @@
       ]
     },
     "mechanic:dice_cards": {
-      "art_style": "anime / simulator_bright mix; anime-styled on ~5/12",
+      "art_style": "Anime and glowing card art dominate (about 6/12); some bright simulator and car/realistic entries.",
       "avoid": [
-        "Plain unlit cards",
-        "Text-heavy rules"
+        "Too many characters in a collage on the icon"
       ],
-      "date": "2026-11-19",
-      "direction": "Icon: a hand holding a glowing '?' card with gold light burst. Thumbnail: an avatar ripping a pack with a rare card flying out, odds text '1 in 1,000,000' in rainbow.",
+      "date": "2026-11-23",
+      "direction": "Icon: a hand holding a glowing die/card with a rare character bursting from it. Thumbnail: common card on the left, legendary card on the right, arrow between, with an odds number on top.",
       "do": [
-        "Hold a glowing card or dice toward the camera",
-        "Add rainbow odds text",
-        "Use a gold or purple glow behind the card",
-        "Show the rare pull as a big reveal"
+        "Show a hand holding a die or a glowing card front and center",
+        "Add one rainbow '1 in X' odds line",
+        "Use a split from common card to rare card with an arrow",
+        "Use golden/purple glow for rarity"
       ],
       "icon_patterns": [
         {
-          "count": "5/12",
-          "pattern": "Anime or anime-styled character as subject"
+          "count": "6/12",
+          "pattern": "dice or card in hand/close-up"
         },
         {
-          "count": "4/12",
-          "pattern": "Glowing card or dice held toward the camera"
+          "count": "5/12",
+          "pattern": "anime-styled character"
+        },
+        {
+          "count": "2/12",
+          "pattern": "'1 in 9,342,584' style odds text"
+        }
+      ],
+      "members_hash": "2795eb10bc",
+      "newcomer_shift": "NEW games swap anime for K-pop idol photo cards and car/vehicle themes, with $1/s to $1.5M/s splits.",
+      "source": "vision",
+      "summary": "Dice/card games show a hand holding a die or a glowing mystery card next to a powerful anime or idol character, with '1 in X' odds text.",
+      "text_usage": "Rainbow outlined odds or $ per second numbers; logo on the card games.",
+      "thumbnail_patterns": [
+        {
+          "count": "3/12",
+          "pattern": "mystery card with ? or glowing pack opening"
         },
         {
           "count": "3/12",
-          "pattern": "Rainbow odds/number text"
-        }
-      ],
-      "members_hash": "ff6328b5d5",
-      "newcomer_shift": "NEW games are about card SHOPS and pack opening: a real-looking pack, a bacon-hair holding a '?' pack, a gold tarot-style card.",
-      "source": "vision",
-      "summary": "Anime and glowing mystery-card art lead: big character with a dice or '?' card, odds text like '1 in 9,342,584'.",
-      "text_usage": "Rainbow odds text ('1 in 9,342,584', '0.013%') and logos.",
-      "thumbnail_patterns": [
-        {
-          "count": "4/12",
-          "pattern": "Mystery card with '?' or pack opening"
+          "pattern": "anime character collage panels"
         },
         {
-          "count": "2/12",
-          "pattern": "Anime character split panels"
-        },
-        {
-          "count": "2/12",
-          "pattern": "Odds or % text (1 in X, 0.013%)"
+          "count": "3/12",
+          "pattern": "big odds or value text"
         }
       ]
     },
@@ -236,48 +235,50 @@
       ]
     },
     "mechanic:fight_battle": {
-      "art_style": "mixed: anime (~3/12), simulator_bright (~4/12), dark_gritty/realistic (~4/12)",
+      "art_style": "Mixed: anime/dark (about 5/12), realistic cinematic (about 4/12), bright simulator (about 3/12).",
       "avoid": [
-        "Washed-out or sketch-only thumbnails"
+        "Flat lighting",
+        "Tiny fighters in wide shots"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: a single fighter close-up with glowing fists or weapon. Thumbnail: two rivals clashing in the centre with strong colour contrast.",
+      "date": "2026-11-23",
+      "direction": "Icon: one fighter mid-strike under dramatic rim light with energy at the fist. Thumbnail: cinematic arena shot with the opponent reacting and crowd behind.",
       "do": [
-        "Show one fighter close-up with energy effects",
-        "Use a face-off split for PvP",
-        "Add a countdown icon before updates"
+        "Use cinematic lighting and depth",
+        "Make one fighter or creature dominant",
+        "Use an hourglass NOW icon swap during updates",
+        "Add sparks/energy at the point of contact"
       ],
       "icon_patterns": [
         {
-          "count": "3/12",
-          "pattern": "hourglass countdown with NOW"
+          "count": "6/12",
+          "pattern": "dark or dramatic lighting with glow/fire"
+        },
+        {
+          "count": "4/12",
+          "pattern": "logo text on icon"
         },
         {
           "count": "6/12",
-          "pattern": "single character or creature close-up"
-        },
-        {
-          "count": "4/12",
-          "pattern": "fire, energy or glow effects"
+          "pattern": "single character or creature front and center"
         }
       ],
-      "members_hash": "ff71ddf24f",
-      "newcomer_shift": "NEW games use countdown icons, voxel PvP art and horror-style faces",
+      "members_hash": "35ab3f9af3",
+      "newcomer_shift": "NEW games use realistic, cinematic renders (colosseum, sniper scope, giant spiders) instead of logos.",
       "source": "vision",
-      "summary": "Fight games split between anime-style hero art (Blox Fruits, Jujutsu) and new games using hourglass NOW icons and realistic war renders.",
-      "text_usage": "Logo titles on leaders; NEW games use NOW countdowns or a single huge word (PVP, NENEK)",
+      "summary": "Fight/battle leaders are dominated by established logo art and dark dramatic scenes; NEW games use realistic military, colosseum and creature scenes.",
+      "text_usage": "Logos on established games; 'NOW' hourglass countdowns appear on update icons.",
       "thumbnail_patterns": [
         {
-          "count": "3/12",
-          "pattern": "two sides facing off or attacking"
+          "count": "5/12",
+          "pattern": "cinematic scene with depth (arena, colosseum, battlefield)"
         },
         {
           "count": "4/12",
-          "pattern": "dark dramatic lighting"
+          "pattern": "logo text on thumbnail"
         },
         {
-          "count": "3/12",
-          "pattern": "bright cartoon sky backgrounds"
+          "count": "2/12",
+          "pattern": "scope/realistic military shot"
         }
       ]
     },
@@ -329,102 +330,106 @@
       ]
     },
     "mechanic:grow_farm": {
-      "art_style": "simulator_bright cartoon dominates (about 8/12); realistic animal survival games (Feral, Sonaria) are the exception",
+      "art_style": "Mixed: bright simulator/stylized (about 6/12), realistic animal survival (about 3/12), voxel blocky (about 3/12).",
       "avoid": [
-        "Dark muddy palettes unless it is animal survival",
-        "Cluttered scenes with many small objects"
+        "Cluttered farm overviews with tiny subjects"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: one huge glowing crop or tree on a bright grass/sky background with a small shocked avatar. Thumbnail: a before/after split showing a tiny sprout vs a giant golden harvest with a big money counter.",
+      "date": "2026-11-23",
+      "direction": "Icon: one oversized growing creature or crop with a sparkle aura on green grass. Thumbnail: Day 1 tiny plot vs Day 100 massive farm with a red arrow and bold labels.",
       "do": [
-        "Make one giant growing item the hero of the icon",
-        "Use bright blue sky and green grass",
-        "Add a surprised Roblox avatar holding or launching the item",
-        "Use a $0 vs $1,000,000 or Day 1 vs Day 100 split thumbnail"
+        "Show one cute or dramatic creature large and centered",
+        "Use a split with arrow from small start to huge farm/colony",
+        "Add one short bold label (GROWS OFFLINE or DAY 100)",
+        "Keep greens and blue sky saturated"
       ],
       "icon_patterns": [
         {
-          "count": "8/12",
-          "pattern": "one oversized hero object or creature fills the icon (golden tree, durian, ant queen, fruit)"
-        },
-        {
-          "count": "6/12",
-          "pattern": "bright saturated blue sky / green grass backdrop"
+          "count": "7/12",
+          "pattern": "a creature or animal as the main subject"
         },
         {
           "count": "5/12",
-          "pattern": "classic Roblox avatar with surprised face beside the item"
+          "pattern": "bright green grass/sky background"
         },
-        {
-          "count": "4/12",
-          "pattern": "realistic or dark creature render (spider, crocodile, ape)"
-        }
-      ],
-      "members_hash": "d663bd9d78",
-      "newcomer_shift": "NEW games lean on avatar reaction faces and +1 / money counters rather than pure creature art",
-      "source": "vision",
-      "summary": "Grow/farm leaders pair a bright blocky world with one oversized hero item (tree, fruit, creature) and a curious Roblox avatar; survival-creature games use realistic animal art instead.",
-      "text_usage": "Short bold headline at the top or a split-screen money/day counter; many icons use no text",
-      "thumbnail_patterns": [
         {
           "count": "3/12",
-          "pattern": "before/after or $0 vs $1,000,000 / Day 1 vs Day 100 split"
+          "pattern": "voxel/blocky character art"
+        }
+      ],
+      "members_hash": "3a3545baa5",
+      "newcomer_shift": "NEW games use time-progress splits (Day 1 to Day 100, $0 to $1M) and voxel farm animals.",
+      "source": "vision",
+      "summary": "Grow/farm winners mix bright simulator crops and creatures with realistic animal-survival art, and NEW games favor Day 1 vs Day 100 and $0 vs $1M progress splits.",
+      "text_usage": "Short bold labels: GROWS OFFLINE, THANKSGIVING, DAY 1/DAY 100, $0/$1,000,000.",
+      "thumbnail_patterns": [
+        {
+          "count": "6/12",
+          "pattern": "animals or creatures in their habitat"
         },
         {
-          "count": "5/12",
-          "pattern": "avatar interacting with the growing item mid-action (throwing seed, holding fruit)"
+          "count": "2/12",
+          "pattern": "progress split (Day 1 to Day 100, $0 to $1,000,000)"
         },
         {
-          "count": "4/12",
-          "pattern": "big bold outlined text (GROWS OFFLINE, THANKSGIVING, DAY 100)"
+          "count": "2/12",
+          "pattern": "mystery silhouette or reveal hook"
         }
       ]
     },
     "mechanic:hit_swing": {
-      "art_style": "simulator_bright in about 7/12, with realistic ragdoll/MMA renders in about 4/12",
+      "art_style": "Mostly bright simulator / stylized Roblox renders (about 8/12); a few realistic-gritty fighters (MMA, Half Punch, orchestra).",
       "avoid": [
-        "Static poses with no action",
-        "Small subjects far from camera"
+        "Busy scenes with several unrelated objects",
+        "Small text or logos on the icon"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: close-up of the thrown or swung object hitting a target with cracks and motion lines. Thumbnail: avatar launches an item along a yellow arc toward a rare creature tagged with its $/s value.",
+      "date": "2026-11-23",
+      "direction": "Icon: close-up of a bat/fist/projectile smashing into a shocked white ragdoll with impact lines on a sky-blue background. Thumbnail: the player launching something along a yellow arc toward a reward target, with one giant $/s number in the corner.",
       "do": [
-        "Freeze the exact impact frame",
-        "Draw a bright arc from player to target",
-        "Tag the target with a rarity or $/s value",
-        "Use white motion lines around the hit"
+        "Freeze the exact moment of impact: weapon/projectile touching the target with white motion lines",
+        "Use a white ragdoll dummy or noob as the target so the hit reads instantly",
+        "Put one shocked face in the frame",
+        "Add a single huge money-per-second number top right on the thumbnail",
+        "Keep background a clean blue sky and green grass so the action pops"
       ],
       "icon_patterns": [
         {
-          "count": "6/12",
-          "pattern": "impact moment with motion lines or cracks"
+          "count": "8/12",
+          "pattern": "character caught mid-action (swing, punch, throw, impact) with motion lines"
+        },
+        {
+          "count": "5/12",
+          "pattern": "bright blue sky + green grass background"
+        },
+        {
+          "count": "5/12",
+          "pattern": "classic bacon-hair/noob Roblox avatar as the hero"
+        },
+        {
+          "count": "3/12",
+          "pattern": "white featureless ragdoll dummy as the target"
+        }
+      ],
+      "members_hash": "cce49f5875",
+      "newcomer_shift": "NEW games use darker, cinematic lighting (glowing-eye fighter, red-lit orchestra) or comedic grandma/steal setups instead of the plain grass field.",
+      "source": "vision",
+      "summary": "Leaders show a Roblox character mid-action hitting or launching something, on bright blue-sky/green-grass simulator scenes, while NEW games lean into dark dramatic or comedic story setups.",
+      "text_usage": "Icons mostly no text; thumbnails add one big money-per-second or odds number in rainbow/gold outline in 3/12.",
+      "thumbnail_patterns": [
+        {
+          "count": "7/12",
+          "pattern": "launch arc or impact moment: projectile/weapon hitting a target"
+        },
+        {
+          "count": "3/12",
+          "pattern": "big money/odds text (e.g. $68.5B/s, 1 in 6.7B, $999,999,999B)"
         },
         {
           "count": "4/12",
-          "pattern": "plain white R15 dummy or man-face character"
+          "pattern": "white ragdoll dummy taking the hit"
         },
         {
-          "count": "7/12",
-          "pattern": "bright blue sky backdrop"
-        }
-      ],
-      "members_hash": "f123e88bbc",
-      "newcomer_shift": "NEW games go darker and more cinematic (glowing eyes, orchestra stage, mutation lab) and add money totals",
-      "source": "vision",
-      "summary": "Hit/launch games show the moment of impact: a bat to a cracking face, a projectile arc toward a creature, or a punch with motion lines.",
-      "text_usage": "Mostly none; income-per-second tags or a '1 in X' rarity label on the target",
-      "thumbnail_patterns": [
-        {
-          "count": "3/12",
-          "pattern": "yellow arc showing a thrown object's path to a target creature"
-        },
-        {
-          "count": "3/12",
-          "pattern": "ragdoll/explosion debris mid-air"
-        },
-        {
-          "count": "3/12",
-          "pattern": "income per second label ($68B/S) on the target"
+          "count": "5/12",
+          "pattern": "exaggerated shocked/angry face"
         }
       ]
     },
@@ -527,48 +532,49 @@
       ]
     },
     "mechanic:paint_create": {
-      "art_style": "mixed: realistic (~5/12) and simulator_bright/stylized (~6/12)",
+      "art_style": "Mixed: stylized Roblox renders (about 6/12), realistic sandbox scenes (about 4/12), one painted portrait.",
       "avoid": [
-        "Cluttered physics chaos if the game is about creating"
+        "Empty sandbox screenshots with no subject"
       ],
-      "date": "2026-11-21",
-      "direction": "Icon: brush or tool mid-stroke with a splash of colour on a white/bright background. Thumbnail: before/after of what the player made, with a red arrow and one short caption.",
+      "date": "2026-11-23",
+      "direction": "Icon: chunky logo plus a reacting dummy splashed with paint/effect. Thumbnail: what the player made coming to life next to a scared dummy, with a red arrow.",
       "do": [
-        "Show the created object next to its source (draw -> result)",
-        "Use a clean bright background for creation games",
-        "Add one red arrow to the reaction or result"
+        "Put the game name as a big chunky logo on the icon",
+        "Show the creation or chaos result, not the empty canvas",
+        "Use one expressive dummy reacting to what you made",
+        "Show a before/after (Draw a duck to real duck) for creation games"
       ],
       "icon_patterns": [
         {
+          "count": "6/12",
+          "pattern": "big bold game-name logo on the icon"
+        },
+        {
           "count": "5/12",
-          "pattern": "White ragdoll dummy or blocky avatar in action"
+          "pattern": "white/blue ragdoll dummy or noob being hit"
         },
         {
           "count": "4/12",
-          "pattern": "Vehicle as subject (car, scooter, jet)"
-        },
-        {
-          "count": "5/12",
-          "pattern": "Game logo text on the icon"
+          "pattern": "explosions/fire or paint splatter"
         }
       ],
-      "members_hash": "11cb5a309c",
-      "newcomer_shift": "NEW games lean realistic: cockpit views, jets, blood lab sandbox.",
+      "members_hash": "ba99ded5b0",
+      "newcomer_shift": "NEW games use first-person or vehicle POV shots (rally cockpit) and minimal blood-splatter logos.",
       "source": "vision",
-      "summary": "Paint/create is a sandbox mix: realistic ragdoll/vehicle scenes and simple cartoon draw art, with low text.",
-      "text_usage": "Logos on about half; few big words except 'DRAW A DUCK!'.",
+      "summary": "Paint/create and sandbox games lean on ragdoll chaos and bold logo text, with white ragdoll dummies and explosions in about a third of them.",
+      "text_usage": "Heavy use of big chunky title logos (RAGDOLL SANDBOX, BLOOD LAB, PLANE CRASH).",
       "thumbnail_patterns": [
         {
           "count": "4/12",
-          "pattern": "Physics chaos: explosions, flying ragdolls"
+          "pattern": "ragdoll chaos: bodies flying, weapons, explosions"
         },
         {
           "count": "4/12",
-          "pattern": "Realistic lighting on vehicles or desert scenes"
+          "pattern": "logo text placed on the thumbnail"
         },
         {
           "count": "3/12",
-          "pattern": "Bright cartoon with red arrow pointing at reaction"
+          "pattern": "realistic vehicle/terrain sandbox scene"
         }
       ]
     },
@@ -617,50 +623,54 @@
       ]
     },
     "mechanic:plus_one_stat": {
-      "art_style": "simulator_bright cartoon in about 10/12; one horror-dark and one voxel outlier",
+      "art_style": "Bright simulator style dominates (about 10/12), a few realistic muscle/boxing renders.",
       "avoid": [
-        "Text-heavy titles on the icon",
-        "Low-contrast dark backgrounds"
+        "Hiding the +1 numbers behind effects",
+        "Dull desaturated colors"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: shocked bacon-hair avatar powering up with +1 bubbles everywhere. Thumbnail: left-to-right growth of the avatar's stat item with +1 / +1M numbers raining around it.",
+      "date": "2026-11-23",
+      "direction": "Icon: bacon-hair avatar powering up with a glowing item and several +1s floating around on a bright background. Thumbnail: split from 1 to a giant number with an arrow, the evolved form on the right.",
       "do": [
-        "Scatter 5-8 white outlined '+1' numbers around the subject",
-        "Show the avatar mid-transformation with glow",
-        "Keep a bright sky/baseplate background",
-        "Use an hourglass countdown icon before updates"
+        "Scatter 4-6 white '+1' numbers with black outline around the hero",
+        "Show the end-state power (giant glowing weapon or huge creature)",
+        "Use a left/right split: weak at 1, strong at 999M",
+        "Use bacon-hair avatar for instant Roblox familiarity"
       ],
       "icon_patterns": [
         {
-          "count": "5/12",
-          "pattern": "hourglass countdown overlay with '15 HOURS' / 'NOW!'"
+          "count": "8/12",
+          "pattern": "floating '+1' text around the character"
         },
         {
-          "count": "5/12",
-          "pattern": "floating white '+1' text around the avatar"
+          "count": "8/12",
+          "pattern": "bacon-hair/classic avatar as hero"
         },
         {
-          "count": "7/12",
-          "pattern": "classic bacon-hair avatar as subject"
+          "count": "8/12",
+          "pattern": "bright saturated background (sky blue, purple glow)"
+        },
+        {
+          "count": "4/12",
+          "pattern": "glowing weapon or power effect"
         }
       ],
-      "members_hash": "1345937193",
-      "newcomer_shift": "NEW games add a weapon or evil-face transformation and a hourglass update timer",
+      "members_hash": "a0d259851d",
+      "newcomer_shift": "NEW games add horror/creepy twists (grinning evil noob, scary evolution) and blocky Minecraft-like art while keeping the +1 numbers.",
       "source": "vision",
-      "summary": "+1 stat games flood the image with white '+1' bubbles around a shocked or powered-up Roblox avatar, and several leaders swap the icon for an hourglass countdown.",
-      "text_usage": "'+1' numbers as decoration plus big countdown words on icons; little other text",
+      "summary": "+1 games plaster floating '+1' numbers around a bacon-hair avatar powering up, with bright saturated backgrounds and strong before/after growth.",
+      "text_usage": "Text is the hook: multiple white outlined '+1' numbers, sometimes huge values (+1T, 999M) or STAGE/NOW labels.",
       "thumbnail_patterns": [
         {
-          "count": "7/12",
-          "pattern": "many '+1' / '+1T' numbers scattered across the image"
+          "count": "8/12",
+          "pattern": "floating +1/+1T numbers scattered across the image"
         },
         {
-          "count": "5/12",
-          "pattern": "avatar transforming or powering up with glow/lightning"
+          "count": "4/12",
+          "pattern": "before/after or left-right split with arrow"
         },
         {
-          "count": "5/12",
-          "pattern": "bright blue sky and green baseplate background"
+          "count": "4/12",
+          "pattern": "character holding a glowing upgraded item"
         }
       ]
     },
@@ -859,49 +869,49 @@
       ]
     },
     "mechanic:shooter": {
-      "art_style": "mixed: simulator_bright (~6/12) and realistic military renders (~3/12)",
+      "art_style": "Mix of bright simulator/stylized (about 7/12) and realistic military (about 2/12) with dark logo art (MM2, Rivals).",
       "avoid": [
-        "Busy logos",
-        "Muddy realistic palettes for a casual game"
+        "Small characters in a wide battlefield"
       ],
-      "date": "2026-11-22",
-      "direction": "Icon: first-person hand holding a glowing skin weapon against a bright arena. Thumbnail: scope view onto a target with a ragdoll launch.",
+      "date": "2026-11-23",
+      "direction": "Icon: first-person hand gripping a neon skinned weapon aimed at a ragdoll target. Thumbnail: scope or arc shot landing on a reward target with a single value label.",
       "do": [
-        "Show a first-person flashy weapon",
-        "Use a clean tiled or sky background",
-        "Add a ragdoll target mid-air"
+        "Make the weapon huge and glowing, angled across the frame",
+        "Show a target reacting to the hit",
+        "Use first-person hand view for FPS",
+        "Keep background simple and bright"
       ],
       "icon_patterns": [
         {
-          "count": "4/12",
-          "pattern": "first-person hand holding an ornate weapon"
-        },
-        {
-          "count": "2/12",
-          "pattern": "hourglass countdown with NOW / NEW UPDATE"
-        },
-        {
           "count": "6/12",
-          "pattern": "bright sky or tiled arena background"
-        }
-      ],
-      "members_hash": "725e01fa15",
-      "newcomer_shift": "NEW games show grappling, arenas and cartoon colours instead of gritty military",
-      "source": "vision",
-      "summary": "Shooter leaders use first-person weapon views or scope shots with flashy skins; new entries mix ragdoll targets and bright cartoon colours.",
-      "text_usage": "Rare; logo text or a single SHOOT! button",
-      "thumbnail_patterns": [
-        {
-          "count": "5/12",
-          "pattern": "first-person weapon or scope view"
+          "pattern": "weapon dominates the frame (rifle, knife, bow, glowing gun)"
         },
         {
           "count": "3/12",
-          "pattern": "ragdoll dummy flying from impact"
+          "pattern": "first-person hand holding weapon"
         },
         {
           "count": "4/12",
-          "pattern": "glowing/neon weapon skin"
+          "pattern": "white ragdoll as target"
+        }
+      ],
+      "members_hash": "aa7206e380",
+      "newcomer_shift": "NEW games show pixel-art targets, ragdolls pinned by arrows and glowing skinned rifles in a plain arena.",
+      "source": "vision",
+      "summary": "Shooter leaders use one hero weapon or scope view with strong glow, plus ragdoll hits; arrows/archery-to-animals simulators ride the same bright simulator look.",
+      "text_usage": "Mostly none; simulator entries add a $/s value top right.",
+      "thumbnail_patterns": [
+        {
+          "count": "5/12",
+          "pattern": "weapon or scope as focal point"
+        },
+        {
+          "count": "4/12",
+          "pattern": "projectile arc or impact on target"
+        },
+        {
+          "count": "5/12",
+          "pattern": "bright blue-sky simulator background"
         }
       ]
     },
