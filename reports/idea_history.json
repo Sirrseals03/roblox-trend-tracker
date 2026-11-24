@@ -3261,5 +3261,89 @@
       "theme": "Stones / rocks / ores",
       "title": "Smash Golems for Gems \ud83d\uddff"
     }
+  ],
+  "2026-11-24": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Collect / index"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Plant Meteor Seeds \u2604\ufe0f"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Fight / battle"
+      ],
+      "theme": "Robots / mechs",
+      "title": "+1 Robot Arm \ud83e\uddbe"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Survive"
+      ],
+      "theme": "Horror",
+      "title": "Draw for Your Life \u270f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Escape / run",
+        "Obby / climb / jump"
+      ],
+      "theme": "Military / war",
+      "title": "Run for the Chopper \ud83d\ude81"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Prison / police",
+      "title": "Fish for a Jail Key \ud83d\udd11"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Collect / index"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Swing Anchors for Ships \u2693"
+    },
+    {
+      "mechanics": [
+        "Fight / battle",
+        "Hit / swing / launch"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Joust for Crowns \ud83d\udc51"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Break / mine / dig"
+      ],
+      "theme": "Vehicles",
+      "title": "Build a Wrecking Crane \ud83c\udfd7\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Fight / battle",
+        "Survive",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Loot the Cursed Keep \ud83c\udff0"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Survive",
+        "Tycoon / base building"
+      ],
+      "theme": "Zombies",
+      "title": "Fish for Survivors \ud83d\udef6"
+    }
   ]
 }
