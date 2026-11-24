@@ -67,21 +67,20 @@ Momentum = a category's share of young-game CCU divided by its share of all CCU.
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Voxel / blocky | 2.44x | high (23 new games, spread out) | 23 | 118,378 | 47 | 100 Miles Down the River (27,696) |
-| Realistic | 1.4x | high (58 new games, spread out) | 58 | 252,347 | 133 | BloxNG [CRASH PHYSICS] 💥 (25,438) |
-| Dark / gritty | 1.23x | high (18 new games, spread out) | 18 | 128,400 | 63 | PINKIE PROMISE [CH 2] (24,105) |
-| Stylized / cartoon | 1.22x | high (87 new games, spread out) | 87 | 473,842 | 200 | Hyper Realistic Ragdoll (53,925) |
-| Low poly | 1.4x | high (12 new games, spread out) | 12 | 22,502 | 17 | Pumpkin Playground (5,815) |
+| Voxel / blocky | 2.38x | high (22 new games, spread out) | 22 | 111,195 | 46 | 100 Miles Down the River (27,696) |
+| Realistic | 1.43x | high (58 new games, spread out) | 58 | 251,243 | 131 | BloxNG [CRASH PHYSICS] 💥 (25,438) |
+| Dark / gritty | 1.31x | high (18 new games, spread out) | 18 | 128,400 | 62 | PINKIE PROMISE [CH 2] (24,105) |
+| Stylized / cartoon | 1.14x | high (85 new games, spread out) | 85 | 440,475 | 201 | Hyper Realistic Ragdoll (53,925) |
+| Low poly | 1.12x | high (13 new games, spread out) | 13 | 29,685 | 19 | Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE] (7,183) |
 | Meme / chaotic | 1.07x | medium (5 new games, top one 35% of their CCU) | 5 | 4,708 | 9 | UNDERTALE Fight! (1,653) |
 
 ## Rising map styles
 
 | | Momentum | Confidence | Young games | Young CCU | All games | Biggest young game |
 |---|---|---|---|---|---|---|
-| Interiors / corridors | 1.9x | high (66 new games, spread out) | 66 | 294,400 | 172 | PINKIE PROMISE [CH 2] (24,105) |
-| Arena / battleground | 1.37x | high (105 new games, spread out) | 105 | 363,471 | 611 | Hyper Realistic Ragdoll (53,925) |
-| Linear course / stages | 1.12x | high (83 new games, spread out) | 83 | 207,750 | 934 | Throw a Seed (33,365) |
-| Hub + zones / worlds | 1.13x | high (115 new games, spread out) | 115 | 160,987 | 916 | Clean The Ballpit! (20,386) |
+| Interiors / corridors | 1.86x | high (66 new games, spread out) | 66 | 294,400 | 173 | PINKIE PROMISE [CH 2] (24,105) |
+| Arena / battleground | 1.38x | high (106 new games, spread out) | 106 | 369,263 | 612 | Hyper Realistic Ragdoll (53,925) |
+| Linear course / stages | 1.19x | high (85 new games, spread out) | 85 | 228,006 | 936 | Throw a Seed (33,365) |
 
 ## Untapped combinations (rising mechanic x strong theme, no tracked game)
 

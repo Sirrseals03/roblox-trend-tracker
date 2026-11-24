@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24T05:03:49Z",
+  "as_of": "2026-11-24T12:57:18Z",
   "benchmarks": {
     "break_mine": {
       "common_features": [
@@ -1883,83 +1883,19 @@
   "dimensions": {
     "art_style": [
       {
-        "ccu": 1700396,
+        "ccu": 1736917,
         "confidence": "high",
-        "confidence_note": "87 new games, spread out",
-        "games": 200,
-        "growth": -0.157,
-        "key": "stylized",
-        "label": "Stylized / cartoon",
-        "momentum": 1.23,
-        "momentum_adj": 1.22,
-        "momentum_change": null,
-        "momentum_week_ago": null,
-        "share": 0.2141,
-        "top1_share": 0.114,
-        "top_examples": [
-          {
-            "age": 3420,
-            "ccu": 238073,
-            "id": "383310974",
-            "name": "[\ud83d\udc36] Adopt Me!",
-            "place": "920587237"
-          },
-          {
-            "age": 630,
-            "ccu": 136417,
-            "id": "7326934954",
-            "name": "99 Nights in the Forest \ud83d\udd26",
-            "place": "79546208627805"
-          },
-          {
-            "age": 1033,
-            "ccu": 86872,
-            "id": "5569032992",
-            "name": "\ud83c\udf3b Dandy's World [1.0]",
-            "place": "16116270224"
-          }
-        ],
-        "young_ccu": 473842,
-        "young_examples": [
-          {
-            "age": 26,
-            "ccu": 53925,
-            "id": "10773618503",
-            "name": "Hyper Realistic Ragdoll",
-            "place": "101277003916102"
-          },
-          {
-            "age": 42,
-            "ccu": 30221,
-            "id": "10770730129",
-            "name": "Ragdoll Soccer",
-            "place": "106931373443671"
-          },
-          {
-            "age": 27,
-            "ccu": 22073,
-            "id": "10773487349",
-            "name": "[\ud83d\udc1c] Ant Evolution",
-            "place": "123969755970816"
-          }
-        ],
-        "young_games": 87,
-        "young_share": 0.2635
-      },
-      {
-        "ccu": 1682678,
-        "confidence": "high",
-        "confidence_note": "71 new games, spread out",
-        "games": 196,
-        "growth": -0.2326,
+        "confidence_note": "77 new games, spread out",
+        "games": 203,
+        "growth": -0.2325,
         "key": "simulator_bright",
         "label": "Bright simulator",
-        "momentum": 0.78,
-        "momentum_adj": 0.79,
+        "momentum": 0.9,
+        "momentum_adj": 0.91,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.2119,
-        "top1_share": 0.112,
+        "share": 0.2187,
+        "top1_share": 0.094,
         "top_examples": [
           {
             "age": 122,
@@ -1983,7 +1919,7 @@
             "place": "17625359962"
           }
         ],
-        "young_ccu": 297466,
+        "young_ccu": 354468,
         "young_examples": [
           {
             "age": 17,
@@ -2001,14 +1937,78 @@
           },
           {
             "age": 24,
-            "ccu": 16121,
-            "id": "10774071683",
-            "name": "[\ud83d\udc1f] Fish For Sea Animals",
-            "place": "90296841634441"
+            "ccu": 20386,
+            "id": "10774051115",
+            "name": "Clean The Ballpit!",
+            "place": "126221718321318"
           }
         ],
-        "young_games": 71,
-        "young_share": 0.1654
+        "young_games": 77,
+        "young_share": 0.1971
+      },
+      {
+        "ccu": 1691934,
+        "confidence": "high",
+        "confidence_note": "85 new games, spread out",
+        "games": 201,
+        "growth": -0.157,
+        "key": "stylized",
+        "label": "Stylized / cartoon",
+        "momentum": 1.15,
+        "momentum_adj": 1.14,
+        "momentum_change": null,
+        "momentum_week_ago": null,
+        "share": 0.2131,
+        "top1_share": 0.122,
+        "top_examples": [
+          {
+            "age": 3420,
+            "ccu": 238073,
+            "id": "383310974",
+            "name": "[\ud83d\udc36] Adopt Me!",
+            "place": "920587237"
+          },
+          {
+            "age": 630,
+            "ccu": 136417,
+            "id": "7326934954",
+            "name": "99 Nights in the Forest \ud83d\udd26",
+            "place": "79546208627805"
+          },
+          {
+            "age": 1033,
+            "ccu": 86872,
+            "id": "5569032992",
+            "name": "\ud83c\udf3b Dandy's World [1.0]",
+            "place": "16116270224"
+          }
+        ],
+        "young_ccu": 440475,
+        "young_examples": [
+          {
+            "age": 26,
+            "ccu": 53925,
+            "id": "10773618503",
+            "name": "Hyper Realistic Ragdoll",
+            "place": "101277003916102"
+          },
+          {
+            "age": 42,
+            "ccu": 30221,
+            "id": "10770730129",
+            "name": "Ragdoll Soccer",
+            "place": "106931373443671"
+          },
+          {
+            "age": 27,
+            "ccu": 22073,
+            "id": "10773487349",
+            "name": "[\ud83d\udc1c] Ant Evolution",
+            "place": "123969755970816"
+          }
+        ],
+        "young_games": 85,
+        "young_share": 0.245
       },
       {
         "ccu": 876969,
@@ -2075,18 +2075,18 @@
         "young_share": 0.0288
       },
       {
-        "ccu": 772690,
+        "ccu": 752465,
         "confidence": "high",
         "confidence_note": "58 new games, spread out",
-        "games": 133,
-        "growth": -0.1262,
+        "games": 131,
+        "growth": -0.1211,
         "key": "realistic",
         "label": "Realistic",
-        "momentum": 1.44,
-        "momentum_adj": 1.4,
+        "momentum": 1.47,
+        "momentum_adj": 1.43,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0973,
+        "share": 0.0948,
         "top1_share": 0.101,
         "top_examples": [
           {
@@ -2111,7 +2111,7 @@
             "place": "8481844229"
           }
         ],
-        "young_ccu": 252347,
+        "young_ccu": 251243,
         "young_examples": [
           {
             "age": 42,
@@ -2136,21 +2136,21 @@
           }
         ],
         "young_games": 58,
-        "young_share": 0.1403
+        "young_share": 0.1397
       },
       {
-        "ccu": 447595,
+        "ccu": 415615,
         "confidence": "high",
         "confidence_note": "18 new games, spread out",
-        "games": 63,
-        "growth": -0.108,
+        "games": 62,
+        "growth": -0.1152,
         "key": "dark_gritty",
         "label": "Dark / gritty",
-        "momentum": 1.27,
-        "momentum_adj": 1.23,
+        "momentum": 1.36,
+        "momentum_adj": 1.31,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0564,
+        "share": 0.0523,
         "top1_share": 0.188,
         "top_examples": [
           {
@@ -2168,11 +2168,11 @@
             "place": "15532962292"
           },
           {
-            "age": 1628,
-            "ccu": 31980,
-            "id": "3647333358",
-            "name": "[\ud83e\udd83] Evade",
-            "place": "9872472334"
+            "age": 754,
+            "ccu": 31386,
+            "id": "6739698191",
+            "name": "[WEEK 4 \ud83c\udf83 x BUTCHER] Violence District",
+            "place": "93978595733734"
           }
         ],
         "young_ccu": 128400,
@@ -2203,18 +2203,18 @@
         "young_share": 0.0714
       },
       {
-        "ccu": 250914,
+        "ccu": 262440,
         "confidence": "low",
         "confidence_note": "one game holds 65% of new-game CCU",
-        "games": 40,
-        "growth": -0.0924,
+        "games": 42,
+        "growth": -0.0769,
         "key": "classic_studs",
         "label": "Classic / studded",
-        "momentum": 0.2,
-        "momentum_adj": 0.39,
+        "momentum": 0.19,
+        "momentum_adj": 0.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0316,
+        "share": 0.0331,
         "top1_share": 0.646,
         "top_examples": [
           {
@@ -2267,19 +2267,19 @@
         "young_share": 0.0064
       },
       {
-        "ccu": 166976,
+        "ccu": 159793,
         "confidence": "high",
-        "confidence_note": "23 new games, spread out",
-        "games": 47,
+        "confidence_note": "22 new games, spread out",
+        "games": 46,
         "growth": -0.2419,
         "key": "voxel_blocky",
         "label": "Voxel / blocky",
-        "momentum": 3.13,
-        "momentum_adj": 2.44,
+        "momentum": 3.07,
+        "momentum_adj": 2.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.021,
-        "top1_share": 0.234,
+        "share": 0.0201,
+        "top1_share": 0.249,
         "top_examples": [
           {
             "age": 43,
@@ -2303,7 +2303,7 @@
             "place": "75260404327641"
           }
         ],
-        "young_ccu": 118378,
+        "young_ccu": 111195,
         "young_examples": [
           {
             "age": 43,
@@ -2327,24 +2327,31 @@
             "place": "75260404327641"
           }
         ],
-        "young_games": 23,
-        "young_share": 0.0658
+        "young_games": 22,
+        "young_share": 0.0618
       },
       {
-        "ccu": 48448,
+        "ccu": 107896,
         "confidence": "high",
-        "confidence_note": "12 new games, spread out",
-        "games": 17,
-        "growth": -0.2913,
+        "confidence_note": "13 new games, spread out",
+        "games": 19,
+        "growth": -0.291,
         "key": "low_poly",
         "label": "Low poly",
-        "momentum": 2.05,
-        "momentum_adj": 1.4,
+        "momentum": 1.21,
+        "momentum_adj": 1.12,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0061,
-        "top1_share": 0.258,
+        "share": 0.0136,
+        "top1_share": 0.242,
         "top_examples": [
+          {
+            "age": 986,
+            "ccu": 52265,
+            "id": "5750914919",
+            "name": "Fisch \ud83e\uddf6 [FELINA]",
+            "place": "16732694052"
+          },
           {
             "age": 692,
             "ccu": 13786,
@@ -2353,23 +2360,23 @@
             "place": "116495829188952"
           },
           {
-            "age": 24,
-            "ccu": 5815,
-            "id": "10774051088",
-            "name": "Pumpkin Playground",
-            "place": "140588554028496"
-          },
-          {
-            "age": 48,
-            "ccu": 4651,
-            "id": "10769787444",
-            "name": "ABOVE [\ud83d\udc34]",
-            "place": "124357835578554"
+            "age": 18,
+            "ccu": 7183,
+            "id": "10775016983",
+            "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
+            "place": "137036044759831"
           }
         ],
-        "young_ccu": 22502,
+        "young_ccu": 29685,
         "young_examples": [
           {
+            "age": 18,
+            "ccu": 7183,
+            "id": "10775016983",
+            "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
+            "place": "137036044759831"
+          },
+          {
             "age": 24,
             "ccu": 5815,
             "id": "10774051088",
@@ -2382,17 +2389,10 @@
             "id": "10769787444",
             "name": "ABOVE [\ud83d\udc34]",
             "place": "124357835578554"
-          },
-          {
-            "age": 41,
-            "ccu": 3321,
-            "id": "10770788664",
-            "name": "Backseat Offroad",
-            "place": "92623405941973"
           }
         ],
-        "young_games": 12,
-        "young_share": 0.0125
+        "young_games": 13,
+        "young_share": 0.0165
       },
       {
         "ccu": 14177,
@@ -4413,19 +4413,19 @@
     ],
     "map_style": [
       {
-        "ccu": 1369095,
+        "ccu": 1379123,
         "confidence": "high",
-        "confidence_note": "177 new games, spread out",
-        "games": 1119,
-        "growth": -0.154,
+        "confidence_note": "179 new games, spread out",
+        "games": 1120,
+        "growth": -0.1544,
         "key": "plot_base",
         "label": "Personal plots / bases",
-        "momentum": 0.81,
-        "momentum_adj": 0.82,
+        "momentum": 0.88,
+        "momentum_adj": 0.89,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1724,
-        "top1_share": 0.077,
+        "share": 0.1737,
+        "top1_share": 0.074,
         "top_examples": [
           {
             "age": 122,
@@ -4449,8 +4449,15 @@
             "place": "109983668079237"
           }
         ],
-        "young_ccu": 250075,
+        "young_ccu": 275437,
         "young_examples": [
+          {
+            "age": 24,
+            "ccu": 20386,
+            "id": "10774051115",
+            "name": "Clean The Ballpit!",
+            "place": "126221718321318"
+          },
           {
             "age": 54,
             "ccu": 19301,
@@ -4464,32 +4471,25 @@
             "id": "10774071683",
             "name": "[\ud83d\udc1f] Fish For Sea Animals",
             "place": "90296841634441"
-          },
-          {
-            "age": 19,
-            "ccu": 14782,
-            "id": "10774784939",
-            "name": "[\ud83c\udff9] Shoot Arrows For Animals!",
-            "place": "128749725449995"
           }
         ],
-        "young_games": 177,
-        "young_share": 0.1391
+        "young_games": 179,
+        "young_share": 0.1532
       },
       {
-        "ccu": 1265551,
+        "ccu": 1249173,
         "confidence": "high",
-        "confidence_note": "70 new games, spread out",
-        "games": 258,
-        "growth": -0.1296,
+        "confidence_note": "69 new games, spread out",
+        "games": 257,
+        "growth": -0.1245,
         "key": "open_world",
         "label": "Open world",
-        "momentum": 0.87,
-        "momentum_adj": 0.88,
+        "momentum": 0.82,
+        "momentum_adj": 0.83,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1594,
-        "top1_share": 0.102,
+        "share": 0.1573,
+        "top1_share": 0.109,
         "top_examples": [
           {
             "age": 2869,
@@ -4513,7 +4513,7 @@
             "place": "121864768012064"
           }
         ],
-        "young_ccu": 249568,
+        "young_ccu": 233190,
         "young_examples": [
           {
             "age": 42,
@@ -4530,30 +4530,30 @@
             "place": "123969755970816"
           },
           {
-            "age": 40,
-            "ccu": 14048,
-            "id": "10771053183",
-            "name": "[\ud83d\udc1f] Net a Fish!",
-            "place": "93898234979111"
+            "age": 24,
+            "ccu": 12972,
+            "id": "10773926254",
+            "name": "Bloody Ragdoll Physics \ud83e\ude78",
+            "place": "140431845542654"
           }
         ],
-        "young_games": 70,
-        "young_share": 0.1388
+        "young_games": 69,
+        "young_share": 0.1297
       },
       {
-        "ccu": 1150035,
+        "ccu": 1155827,
         "confidence": "high",
-        "confidence_note": "105 new games, spread out",
-        "games": 611,
+        "confidence_note": "106 new games, spread out",
+        "games": 612,
         "growth": -0.0931,
         "key": "arena",
         "label": "Arena / battleground",
-        "momentum": 1.4,
-        "momentum_adj": 1.37,
+        "momentum": 1.41,
+        "momentum_adj": 1.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1448,
-        "top1_share": 0.148,
+        "share": 0.1456,
+        "top1_share": 0.146,
         "top_examples": [
           {
             "age": 912,
@@ -4577,7 +4577,7 @@
             "place": "101277003916102"
           }
         ],
-        "young_ccu": 363471,
+        "young_ccu": 369263,
         "young_examples": [
           {
             "age": 26,
@@ -4601,23 +4601,23 @@
             "place": "78884249003161"
           }
         ],
-        "young_games": 105,
-        "young_share": 0.2021
+        "young_games": 106,
+        "young_share": 0.2054
       },
       {
-        "ccu": 828572,
+        "ccu": 840240,
         "confidence": "high",
         "confidence_note": "27 new games, spread out",
-        "games": 364,
-        "growth": -0.0882,
+        "games": 365,
+        "growth": -0.0869,
         "key": "town_roleplay",
         "label": "Town / city roleplay",
-        "momentum": 0.33,
+        "momentum": 0.34,
         "momentum_adj": 0.39,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1043,
-        "top1_share": 0.281,
+        "share": 0.1058,
+        "top1_share": 0.272,
         "top_examples": [
           {
             "age": 3420,
@@ -4641,7 +4641,7 @@
             "place": "8481844229"
           }
         ],
-        "young_ccu": 61581,
+        "young_ccu": 63801,
         "young_examples": [
           {
             "age": 47,
@@ -4658,30 +4658,30 @@
             "place": "121011978933862"
           },
           {
-            "age": 15,
-            "ccu": 5940,
-            "id": "10775483673",
-            "name": "[\ud83e\udd83] Defeat Ragdolls for Powers!",
-            "place": "136950293103590"
+            "age": 37,
+            "ccu": 7979,
+            "id": "10771680162",
+            "name": "Can You Pass A Driving Test?",
+            "place": "91652462379782"
           }
         ],
         "young_games": 27,
-        "young_share": 0.0342
+        "young_share": 0.0355
       },
       {
-        "ccu": 814371,
+        "ccu": 834627,
         "confidence": "high",
-        "confidence_note": "83 new games, spread out",
-        "games": 934,
+        "confidence_note": "85 new games, spread out",
+        "games": 936,
         "growth": -0.077,
         "key": "linear_course",
         "label": "Linear course / stages",
-        "momentum": 1.13,
-        "momentum_adj": 1.12,
+        "momentum": 1.21,
+        "momentum_adj": 1.19,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1026,
-        "top1_share": 0.161,
+        "share": 0.1051,
+        "top1_share": 0.146,
         "top_examples": [
           {
             "age": 67,
@@ -4705,7 +4705,7 @@
             "place": "95105291546154"
           }
         ],
-        "young_ccu": 207750,
+        "young_ccu": 228006,
         "young_examples": [
           {
             "age": 17,
@@ -4729,22 +4729,86 @@
             "place": "107192230357786"
           }
         ],
-        "young_games": 83,
-        "young_share": 0.1155
+        "young_games": 85,
+        "young_share": 0.1268
       },
       {
-        "ccu": 645539,
+        "ccu": 670769,
+        "confidence": "high",
+        "confidence_note": "113 new games, spread out",
+        "games": 915,
+        "growth": -0.1249,
+        "key": "zone_progression",
+        "label": "Hub + zones / worlds",
+        "momentum": 0.89,
+        "momentum_adj": 0.9,
+        "momentum_change": null,
+        "momentum_week_ago": null,
+        "share": 0.0845,
+        "top1_share": 0.081,
+        "top_examples": [
+          {
+            "age": 1799,
+            "ccu": 78224,
+            "id": "3183403065",
+            "name": "[\ud83e\ude77UPD 21.5\u26e9\ufe0f] Anime Adventures",
+            "place": "8304191830"
+          },
+          {
+            "age": 3170,
+            "ccu": 41519,
+            "id": "601130232",
+            "name": "Bee Swarm Simulator",
+            "place": "1537690962"
+          },
+          {
+            "age": 1753,
+            "ccu": 37415,
+            "id": "3317771874",
+            "name": "\ud83e\udd83 [TURKEY] Pet Simulator 99! \ud83c\udf41",
+            "place": "8737899170"
+          }
+        ],
+        "young_ccu": 135000,
+        "young_examples": [
+          {
+            "age": 50,
+            "ccu": 10908,
+            "id": "10769464063",
+            "name": "[\ud83e\uddec] +1 Venom Evolution",
+            "place": "116448925875915"
+          },
+          {
+            "age": 35,
+            "ccu": 7391,
+            "id": "10772133952",
+            "name": "[\ud83c\udf3e HARVEST EVENT] Summon a Pet Army \ud83d\udc32",
+            "place": "89695026030574"
+          },
+          {
+            "age": 22,
+            "ccu": 6790,
+            "id": "10774333764",
+            "name": "[\ud83c\udff4\u200d\u2620\ufe0fUPD] Anime Nexus RNG X : GEAR 5",
+            "place": "85829558919037"
+          }
+        ],
+        "young_games": 113,
+        "young_share": 0.0751
+      },
+      {
+        "ccu": 660873,
         "confidence": "high",
         "confidence_note": "66 new games, spread out",
-        "games": 172,
+        "games": 173,
         "growth": -0.1159,
         "key": "interior",
         "label": "Interiors / corridors",
-        "momentum": 2.01,
-        "momentum_adj": 1.9,
+        "momentum": 1.97,
+        "momentum_adj": 1.86,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0813,
+        "share": 0.0832,
         "top1_share": 0.082,
         "top_examples": [
           {
@@ -4797,83 +4861,19 @@
         "young_share": 0.1637
       },
       {
-        "ccu": 618532,
+        "ccu": 552383,
         "confidence": "high",
-        "confidence_note": "115 new games, spread out",
-        "games": 916,
-        "growth": -0.1245,
-        "key": "zone_progression",
-        "label": "Hub + zones / worlds",
-        "momentum": 1.15,
-        "momentum_adj": 1.13,
-        "momentum_change": null,
-        "momentum_week_ago": null,
-        "share": 0.0779,
-        "top1_share": 0.127,
-        "top_examples": [
-          {
-            "age": 3170,
-            "ccu": 41519,
-            "id": "601130232",
-            "name": "Bee Swarm Simulator",
-            "place": "1537690962"
-          },
-          {
-            "age": 1753,
-            "ccu": 37415,
-            "id": "3317771874",
-            "name": "\ud83e\udd83 [TURKEY] Pet Simulator 99! \ud83c\udf41",
-            "place": "8737899170"
-          },
-          {
-            "age": 112,
-            "ccu": 32130,
-            "id": "10629695169",
-            "name": "[WILD WEST] Tap Simulator REBORN",
-            "place": "72858262610964"
-          }
-        ],
-        "young_ccu": 160987,
-        "young_examples": [
-          {
-            "age": 24,
-            "ccu": 20386,
-            "id": "10774051115",
-            "name": "Clean The Ballpit!",
-            "place": "126221718321318"
-          },
-          {
-            "age": 50,
-            "ccu": 10908,
-            "id": "10769464063",
-            "name": "[\ud83e\uddec] +1 Venom Evolution",
-            "place": "116448925875915"
-          },
-          {
-            "age": 35,
-            "ccu": 7391,
-            "id": "10772133952",
-            "name": "[\ud83c\udf3e HARVEST EVENT] Summon a Pet Army \ud83d\udc32",
-            "place": "89695026030574"
-          }
-        ],
-        "young_games": 115,
-        "young_share": 0.0895
-      },
-      {
-        "ccu": 547982,
-        "confidence": "high",
-        "confidence_note": "59 new games, spread out",
-        "games": 413,
-        "growth": -0.1038,
+        "confidence_note": "58 new games, spread out",
+        "games": 414,
+        "growth": -0.1029,
         "key": "lobby_rounds",
         "label": "Lobby + round maps",
-        "momentum": 0.96,
-        "momentum_adj": 0.96,
+        "momentum": 0.9,
+        "momentum_adj": 0.92,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.069,
-        "top1_share": 0.173,
+        "share": 0.0696,
+        "top1_share": 0.182,
         "top_examples": [
           {
             "age": 4693,
@@ -4897,7 +4897,7 @@
             "place": "15101393044"
           }
         ],
-        "young_ccu": 118794,
+        "young_ccu": 113145,
         "young_examples": [
           {
             "age": 49,
@@ -4921,22 +4921,22 @@
             "place": "99066225512279"
           }
         ],
-        "young_games": 59,
-        "young_share": 0.0661
+        "young_games": 58,
+        "young_share": 0.0629
       },
       {
-        "ccu": 262341,
+        "ccu": 184117,
         "confidence": "low",
         "confidence_note": "only 2 new games; one game holds 94% of new-game CCU",
-        "games": 33,
-        "growth": -0.1307,
+        "games": 32,
+        "growth": -0.1291,
         "key": "tower_defense_lanes",
         "label": "Lanes / paths",
-        "momentum": 0.04,
-        "momentum_adj": 0.27,
+        "momentum": 0.06,
+        "momentum_adj": 0.34,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.033,
+        "share": 0.0232,
         "top1_share": 0.944,
         "top_examples": [
           {
@@ -4947,18 +4947,18 @@
             "place": "107573139811370"
           },
           {
-            "age": 1799,
-            "ccu": 78224,
-            "id": "3183403065",
-            "name": "[\ud83e\ude77UPD 21.5\u26e9\ufe0f] Anime Adventures",
-            "place": "8304191830"
-          },
-          {
             "age": 1256,
             "ccu": 26385,
             "id": "4778845442",
             "name": "[\ud83d\udca5UTS 3.0] Toilet Tower Defense",
             "place": "13775256536"
+          },
+          {
+            "age": 90,
+            "ccu": 18508,
+            "id": "10762636904",
+            "name": "[\ud83e\udd83UPD] Cameraman Tower Defense",
+            "place": "132929771812494"
           }
         ],
         "young_ccu": 2605,
@@ -12257,19 +12257,19 @@
   "rising": {
     "art_style": [
       {
-        "ccu": 166976,
+        "ccu": 159793,
         "confidence": "high",
-        "confidence_note": "23 new games, spread out",
-        "games": 47,
+        "confidence_note": "22 new games, spread out",
+        "games": 46,
         "growth": -0.2419,
         "key": "voxel_blocky",
         "label": "Voxel / blocky",
-        "momentum": 3.13,
-        "momentum_adj": 2.44,
+        "momentum": 3.07,
+        "momentum_adj": 2.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.021,
-        "top1_share": 0.234,
+        "share": 0.0201,
+        "top1_share": 0.249,
         "top_examples": [
           {
             "age": 43,
@@ -12293,7 +12293,7 @@
             "place": "75260404327641"
           }
         ],
-        "young_ccu": 118378,
+        "young_ccu": 111195,
         "young_examples": [
           {
             "age": 43,
@@ -12317,22 +12317,22 @@
             "place": "75260404327641"
           }
         ],
-        "young_games": 23,
-        "young_share": 0.0658
+        "young_games": 22,
+        "young_share": 0.0618
       },
       {
-        "ccu": 772690,
+        "ccu": 752465,
         "confidence": "high",
         "confidence_note": "58 new games, spread out",
-        "games": 133,
-        "growth": -0.1262,
+        "games": 131,
+        "growth": -0.1211,
         "key": "realistic",
         "label": "Realistic",
-        "momentum": 1.44,
-        "momentum_adj": 1.4,
+        "momentum": 1.47,
+        "momentum_adj": 1.43,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0973,
+        "share": 0.0948,
         "top1_share": 0.101,
         "top_examples": [
           {
@@ -12357,7 +12357,7 @@
             "place": "8481844229"
           }
         ],
-        "young_ccu": 252347,
+        "young_ccu": 251243,
         "young_examples": [
           {
             "age": 42,
@@ -12382,21 +12382,21 @@
           }
         ],
         "young_games": 58,
-        "young_share": 0.1403
+        "young_share": 0.1397
       },
       {
-        "ccu": 447595,
+        "ccu": 415615,
         "confidence": "high",
         "confidence_note": "18 new games, spread out",
-        "games": 63,
-        "growth": -0.108,
+        "games": 62,
+        "growth": -0.1152,
         "key": "dark_gritty",
         "label": "Dark / gritty",
-        "momentum": 1.27,
-        "momentum_adj": 1.23,
+        "momentum": 1.36,
+        "momentum_adj": 1.31,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0564,
+        "share": 0.0523,
         "top1_share": 0.188,
         "top_examples": [
           {
@@ -12414,11 +12414,11 @@
             "place": "15532962292"
           },
           {
-            "age": 1628,
-            "ccu": 31980,
-            "id": "3647333358",
-            "name": "[\ud83e\udd83] Evade",
-            "place": "9872472334"
+            "age": 754,
+            "ccu": 31386,
+            "id": "6739698191",
+            "name": "[WEEK 4 \ud83c\udf83 x BUTCHER] Violence District",
+            "place": "93978595733734"
           }
         ],
         "young_ccu": 128400,
@@ -12449,19 +12449,19 @@
         "young_share": 0.0714
       },
       {
-        "ccu": 1700396,
+        "ccu": 1691934,
         "confidence": "high",
-        "confidence_note": "87 new games, spread out",
-        "games": 200,
+        "confidence_note": "85 new games, spread out",
+        "games": 201,
         "growth": -0.157,
         "key": "stylized",
         "label": "Stylized / cartoon",
-        "momentum": 1.23,
-        "momentum_adj": 1.22,
+        "momentum": 1.15,
+        "momentum_adj": 1.14,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.2141,
-        "top1_share": 0.114,
+        "share": 0.2131,
+        "top1_share": 0.122,
         "top_examples": [
           {
             "age": 3420,
@@ -12485,7 +12485,7 @@
             "place": "16116270224"
           }
         ],
-        "young_ccu": 473842,
+        "young_ccu": 440475,
         "young_examples": [
           {
             "age": 26,
@@ -12509,24 +12509,31 @@
             "place": "123969755970816"
           }
         ],
-        "young_games": 87,
-        "young_share": 0.2635
+        "young_games": 85,
+        "young_share": 0.245
       },
       {
-        "ccu": 48448,
+        "ccu": 107896,
         "confidence": "high",
-        "confidence_note": "12 new games, spread out",
-        "games": 17,
-        "growth": -0.2913,
+        "confidence_note": "13 new games, spread out",
+        "games": 19,
+        "growth": -0.291,
         "key": "low_poly",
         "label": "Low poly",
-        "momentum": 2.05,
-        "momentum_adj": 1.4,
+        "momentum": 1.21,
+        "momentum_adj": 1.12,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0061,
-        "top1_share": 0.258,
+        "share": 0.0136,
+        "top1_share": 0.242,
         "top_examples": [
+          {
+            "age": 986,
+            "ccu": 52265,
+            "id": "5750914919",
+            "name": "Fisch \ud83e\uddf6 [FELINA]",
+            "place": "16732694052"
+          },
           {
             "age": 692,
             "ccu": 13786,
@@ -12535,23 +12542,23 @@
             "place": "116495829188952"
           },
           {
-            "age": 24,
-            "ccu": 5815,
-            "id": "10774051088",
-            "name": "Pumpkin Playground",
-            "place": "140588554028496"
-          },
-          {
-            "age": 48,
-            "ccu": 4651,
-            "id": "10769787444",
-            "name": "ABOVE [\ud83d\udc34]",
-            "place": "124357835578554"
+            "age": 18,
+            "ccu": 7183,
+            "id": "10775016983",
+            "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
+            "place": "137036044759831"
           }
         ],
-        "young_ccu": 22502,
+        "young_ccu": 29685,
         "young_examples": [
           {
+            "age": 18,
+            "ccu": 7183,
+            "id": "10775016983",
+            "name": "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]",
+            "place": "137036044759831"
+          },
+          {
             "age": 24,
             "ccu": 5815,
             "id": "10774051088",
@@ -12564,17 +12571,10 @@
             "id": "10769787444",
             "name": "ABOVE [\ud83d\udc34]",
             "place": "124357835578554"
-          },
-          {
-            "age": 41,
-            "ccu": 3321,
-            "id": "10770788664",
-            "name": "Backseat Offroad",
-            "place": "92623405941973"
           }
         ],
-        "young_games": 12,
-        "young_share": 0.0125
+        "young_games": 13,
+        "young_share": 0.0165
       },
       {
         "ccu": 14177,
@@ -12837,18 +12837,18 @@
     ],
     "map_style": [
       {
-        "ccu": 645539,
+        "ccu": 660873,
         "confidence": "high",
         "confidence_note": "66 new games, spread out",
-        "games": 172,
+        "games": 173,
         "growth": -0.1159,
         "key": "interior",
         "label": "Interiors / corridors",
-        "momentum": 2.01,
-        "momentum_adj": 1.9,
+        "momentum": 1.97,
+        "momentum_adj": 1.86,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.0813,
+        "share": 0.0832,
         "top1_share": 0.082,
         "top_examples": [
           {
@@ -12901,19 +12901,19 @@
         "young_share": 0.1637
       },
       {
-        "ccu": 1150035,
+        "ccu": 1155827,
         "confidence": "high",
-        "confidence_note": "105 new games, spread out",
-        "games": 611,
+        "confidence_note": "106 new games, spread out",
+        "games": 612,
         "growth": -0.0931,
         "key": "arena",
         "label": "Arena / battleground",
-        "momentum": 1.4,
-        "momentum_adj": 1.37,
+        "momentum": 1.41,
+        "momentum_adj": 1.38,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1448,
-        "top1_share": 0.148,
+        "share": 0.1456,
+        "top1_share": 0.146,
         "top_examples": [
           {
             "age": 912,
@@ -12937,7 +12937,7 @@
             "place": "101277003916102"
           }
         ],
-        "young_ccu": 363471,
+        "young_ccu": 369263,
         "young_examples": [
           {
             "age": 26,
@@ -12961,23 +12961,23 @@
             "place": "78884249003161"
           }
         ],
-        "young_games": 105,
-        "young_share": 0.2021
+        "young_games": 106,
+        "young_share": 0.2054
       },
       {
-        "ccu": 814371,
+        "ccu": 834627,
         "confidence": "high",
-        "confidence_note": "83 new games, spread out",
-        "games": 934,
+        "confidence_note": "85 new games, spread out",
+        "games": 936,
         "growth": -0.077,
         "key": "linear_course",
         "label": "Linear course / stages",
-        "momentum": 1.13,
-        "momentum_adj": 1.12,
+        "momentum": 1.21,
+        "momentum_adj": 1.19,
         "momentum_change": null,
         "momentum_week_ago": null,
-        "share": 0.1026,
-        "top1_share": 0.161,
+        "share": 0.1051,
+        "top1_share": 0.146,
         "top_examples": [
           {
             "age": 67,
@@ -13001,7 +13001,7 @@
             "place": "95105291546154"
           }
         ],
-        "young_ccu": 207750,
+        "young_ccu": 228006,
         "young_examples": [
           {
             "age": 17,
@@ -13025,72 +13025,8 @@
             "place": "107192230357786"
           }
         ],
-        "young_games": 83,
-        "young_share": 0.1155
-      },
-      {
-        "ccu": 618532,
-        "confidence": "high",
-        "confidence_note": "115 new games, spread out",
-        "games": 916,
-        "growth": -0.1245,
-        "key": "zone_progression",
-        "label": "Hub + zones / worlds",
-        "momentum": 1.15,
-        "momentum_adj": 1.13,
-        "momentum_change": null,
-        "momentum_week_ago": null,
-        "share": 0.0779,
-        "top1_share": 0.127,
-        "top_examples": [
-          {
-            "age": 3170,
-            "ccu": 41519,
-            "id": "601130232",
-            "name": "Bee Swarm Simulator",
-            "place": "1537690962"
-          },
-          {
-            "age": 1753,
-            "ccu": 37415,
-            "id": "3317771874",
-            "name": "\ud83e\udd83 [TURKEY] Pet Simulator 99! \ud83c\udf41",
-            "place": "8737899170"
-          },
-          {
-            "age": 112,
-            "ccu": 32130,
-            "id": "10629695169",
-            "name": "[WILD WEST] Tap Simulator REBORN",
-            "place": "72858262610964"
-          }
-        ],
-        "young_ccu": 160987,
-        "young_examples": [
-          {
-            "age": 24,
-            "ccu": 20386,
-            "id": "10774051115",
-            "name": "Clean The Ballpit!",
-            "place": "126221718321318"
-          },
-          {
-            "age": 50,
-            "ccu": 10908,
-            "id": "10769464063",
-            "name": "[\ud83e\uddec] +1 Venom Evolution",
-            "place": "116448925875915"
-          },
-          {
-            "age": 35,
-            "ccu": 7391,
-            "id": "10772133952",
-            "name": "[\ud83c\udf3e HARVEST EVENT] Summon a Pet Army \ud83d\udc32",
-            "place": "89695026030574"
-          }
-        ],
-        "young_games": 115,
-        "young_share": 0.0895
+        "young_games": 85,
+        "young_share": 0.1268
       }
     ],
     "mechanic": [
@@ -15398,8 +15334,8 @@
     ]
   },
   "style_coverage": {
-    "art_style": 852,
-    "map_style": 4820
+    "art_style": 860,
+    "map_style": 4824
   },
   "total_ccu": 7940690,
   "young_ccu": 1798163,

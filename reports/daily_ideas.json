@@ -1,406 +1,403 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "ideas": [
     {
-      "title": "Grow Herbs for Potions 🌿",
+      "title": "Plant Meteor Seeds ☄️",
       "scope": "medium",
       "genre": "Simulator · Grow / farm",
       "mechanics": [
         "Grow / farm",
         "Collect / index"
       ],
-      "theme": "Fantasy / medieval",
-      "hook": "Plant magic herbs in your witch garden, let them mutate into rare colours, and brew them into potions that give you powers in the village.",
+      "theme": "Disaster / weather",
+      "hook": "Meteor showers hit the shared farm every few minutes. Where they land, the crater becomes rich soil that grows glowing space crops.",
       "core_loop": [
-        "Plant herb seeds in your garden plot",
-        "Water and wait for growth (mutations can appear)",
-        "Harvest and add new herbs to your herb book",
-        "Brew potions and sell them to villagers",
-        "Buy rarer seeds and a bigger cauldron"
+        "Plant seeds on your plot",
+        "Watch the meteor warning and move crops out of the blast zone",
+        "Plant in fresh craters for space mutations",
+        "Harvest, sell and log new crops in the index",
+        "Buy a bigger plot and stronger seed shields"
       ],
-      "twist": "Every potion you brew also works on you: drink a rare one to fly, shrink or glow for a few minutes and reach hidden herb patches.",
+      "twist": "A direct meteor hit destroys a crop, but a near miss gives it a rare 'cosmic' mutation, so players gamble on how close to plant.",
       "monetization": [
         "2x growth multiplier",
-        "Luck pass for rare mutations",
-        "Extra garden storage",
-        "VIP greenhouse plot"
+        "Luck pass for cosmic mutations",
+        "Extra seed storage",
+        "VIP plot with a crater magnet"
       ],
       "retention": [
-        "Herb book index with mutations",
+        "Crop index with mutations",
         "Offline growth",
-        "Weekly rare seed in the shop",
+        "Scheduled meteor storm event every hour",
         "Codes on updates"
       ],
-      "why_now": "Grow / farm is the top rising mechanic at 1.97 (up 0.40 this week, 54 new games, 122,348 CCU), led by Throw a Seed (32,553) and Ant Evolution (18,568). Collect / index + Grow / farm is a live pair (7 new games, 39,902 CCU), and Fantasy / medieval is rising at 1.73, up 0.64 this week (Kit PVP FFA 11,312, Dragon Arena 6,945).",
+      "why_now": "Grow / farm is rising at 1.86 (up 0.25 this week, 56 new games, 132,896 CCU) led by Throw a Seed (33,365) and Ant Evolution (22,073). Grow / farm + Disaster / weather is the top gap in the data (score 5.25), Disaster / weather sits at 2.22 (Stop The Tsunami! 9,730) and Space at 2.46.",
       "inspired_by": [
         "Throw a Seed",
         "[🐜] Ant Evolution",
-        "Dragon Arena"
+        "[FIXED] Stop The Tsunami!"
       ],
-      "differentiator": "Farming games sell crops for cash; here the harvest turns into powers that open new parts of the map.",
-      "art_style": "stylized",
+      "differentiator": "Farm games treat disasters as damage; here the disaster is the fertiliser and the risk is the point.",
+      "art_style": "voxel_blocky",
       "map_style": "plot_base"
     },
     {
-      "title": "+1 Lantern Light 🏮",
+      "title": "+1 Robot Arm 🦾",
       "scope": "small",
       "genre": "Simulator · +1 stat per action",
       "mechanics": [
         "+1 stat per action",
-        "Escape / run"
+        "Fight / battle"
       ],
-      "theme": "Horror",
-      "hook": "You are lost in a pitch-black mine. Every step makes your lantern +1 brighter, and the brighter it gets, the deeper you can go before the dark catches you.",
+      "theme": "Robots / mechs",
+      "hook": "Every punch bolts one more arm onto your robot. Grow from a 1-arm scrap bot into a 10,000-arm punching machine.",
       "core_loop": [
-        "Walk to gain +1 light per step",
-        "Push into darker tunnels",
-        "Grab ore shining at the edge of your light",
-        "Run back to camp before the dark creature reaches you",
-        "Rebirth for a light multiplier"
+        "Punch training bags to gain +1 arm",
+        "Arms multiply your punch power",
+        "Punch through gates to unlock new zones",
+        "Rebirth to keep a permanent arm multiplier",
+        "Fight the zone's boss robot"
       ],
-      "twist": "The thing in the dark is scared of light: once your lantern is bright enough you can chase it back and claim its tunnel.",
+      "twist": "Your robot visibly sprouts arms on screen, so huge players look like spinning metal flowers in the lobby.",
       "monetization": [
-        "2x light per step",
-        "Auto-walk pass",
-        "Speed boost",
-        "VIP lantern skin"
+        "2x arms multiplier",
+        "Auto-punch",
+        "Speed pass",
+        "Luck pass for golden arms",
+        "Extra pet storage"
       ],
       "retention": [
-        "Rebirths with multipliers",
-        "Light leaderboard",
-        "Codes",
-        "New tunnel layer each update"
+        "Leaderboard of most arms",
+        "Rebirths",
+        "Pets that add arms",
+        "Codes"
       ],
-      "why_now": "+1 stat per action is rising at 1.73 (44 new games, 68,209 CCU) and the \"+1 ___\" title formula is at 1.76 with 38 new games ([UPD🧬] +1 Venom Evolution 8,473, +1 Boxing Battle Evolution 3,971). Interior maps are the top rising map style at 1.91 (NIGHT WITH OPAH 28,265), and new +1 games are adding scary twists (vision: [W3] +1 Scary Evolution).",
+      "why_now": "+1 stat per action is rising at 1.66 (42 new games, 72,358 CCU) with +1 Venom Evolution (10,908) and +1 Boxing Battle Evolution (4,170). The '+1 ___' title formula is at 1.68 with 36 new games. +1 stat + Robots / mechs is a top gap (score 4.12) and Robots / mechs is rising at 1.81, up 0.19 (Mechs vs Kaiju's Ragdoll 7,183).",
       "inspired_by": [
-        "[UPD🧬] +1 Venom Evolution",
-        "NIGHT WITH OPAH",
-        "[W3] +1 Scary Evolution"
+        "[🧬] +1 Venom Evolution",
+        "+1 Boxing Battle Evolution",
+        "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]"
       ],
-      "differentiator": "+1 games pump a number for its own sake; here the stat is the light itself, so growing it changes what you can see and where you can go.",
+      "differentiator": "Other +1 games grow a number; this one grows a silly, visible robot body players can show off.",
+      "art_style": "simulator_bright",
+      "map_style": "zone_progression"
+    },
+    {
+      "title": "Draw for Your Life ✏️",
+      "scope": "medium",
+      "genre": "Horror · Paint / create",
+      "mechanics": [
+        "Paint / create",
+        "Survive"
+      ],
+      "theme": "Horror",
+      "hook": "Trapped in a dark house with a monster, all you have is a magic marker. Whatever you draw becomes real: doors, lamps, ladders, traps.",
+      "core_loop": [
+        "Explore a dark room",
+        "Draw an object to block, light or escape",
+        "The game turns your drawing into a real object",
+        "Survive the monster's visit",
+        "Reach the next room and unlock new ink colours"
+      ],
+      "twist": "The monster copies your best drawing from the last room and uses it against you.",
+      "monetization": [
+        "Extra ink pass",
+        "VIP marker colours",
+        "Revive token"
+      ],
+      "retention": [
+        "Chapter-based story updates",
+        "Gallery of everyone's best drawings",
+        "Codes"
+      ],
+      "why_now": "Paint / create is rising at 1.54 (34 new games, 43,294 CCU). Paint / create + Horror is a strong gap (score 4.19). Interior maps are the top rising map style at 1.86 (PINKIE PROMISE [CH 2] 24,105, NIGHT WITH OPAH 23,636) and Story games are at 1.78, up 0.74 this week (Suzy Says! [HORROR] 18,648).",
+      "inspired_by": [
+        "PINKIE PROMISE [CH 2]",
+        "Suzy Says! [HORROR]",
+        "Hyper Draw! 🎨"
+      ],
+      "differentiator": "Horror games hand you fixed tools; here every escape is something you drew yourself.",
       "art_style": "dark_gritty",
       "map_style": "interior"
     },
     {
-      "title": "Pull Cards for Bot Parts 🃏",
-      "scope": "medium",
-      "genre": "Strategy · Dice / cards",
+      "title": "Run for the Chopper 🚁",
+      "scope": "small",
+      "genre": "Obby · Escape / run",
       "mechanics": [
-        "Dice / cards",
-        "Fight / battle"
+        "Escape / run",
+        "Obby / climb / jump"
       ],
-      "theme": "Robots / mechs",
-      "hook": "Open card packs to get robot parts — heads, arms, legs, cores — snap them onto your bot and send it into the arena.",
+      "theme": "Military / war",
+      "hook": "The base is under attack and the last helicopter leaves in 60 seconds. Sprint through trenches, dodge airstrikes and jump on before it lifts off.",
       "core_loop": [
-        "Open a card pack with coins",
-        "Equip the part cards on your robot",
-        "Battle other players' bots",
-        "Win coins and pack tokens",
-        "Fuse duplicate cards into higher rarity"
+        "Spawn at the front line",
+        "Run through trenches while bombs drop",
+        "Grab dog tags along the way",
+        "Make the chopper or get left behind",
+        "Spend tags on speed and armour"
       ],
-      "twist": "Parts from the same set give a set bonus, so players trade single cards to finish a full legendary set.",
+      "twist": "The chopper waits longer for every player already on board, so teams can hold the door for stragglers.",
       "monetization": [
-        "Luck pass for rare packs",
-        "Auto-open pass",
-        "2x coins",
-        "VIP pack slot"
+        "Speed pass",
+        "2x dog tags",
+        "VIP skins and parachutes"
       ],
       "retention": [
-        "Card index",
-        "Daily free pack",
-        "Weekly arena ranks",
+        "Daily new route",
+        "Leaderboard of fastest runs",
         "Codes"
       ],
-      "why_now": "Dice / cards + Robots / mechs is an open gap (score 3.24). Robots / mechs is rising at 1.91, up 0.28 this week (untitled ragdoll game 9,011, RoChess! 4,193), and Dice / cards is at 1.24, up 0.28, led by My Little Pony Card Opening (8,307).",
+      "why_now": "Escape / run is at 1.20 (32 new games, 74,501 CCU) with 13 Days to Escape [ALPHA] (15,518). Escape / run + Military / war is a gap (score 3.50) and Military / war is rising at 1.75, up 0.39 this week (Voxel Wars 19,198). Linear course maps are at 1.19.",
       "inspired_by": [
-        "My Little Pony Card Opening",
-        "RoChess!",
-        "[🏴‍☠️🦜] Anime Card Clash"
+        "13 Days to Escape [ALPHA]",
+        "Voxel Wars",
+        "[FIXED] Stop The Tsunami!"
       ],
-      "differentiator": "Card games here collect characters; cards that build a robot you then fight with are not in the tracked games.",
-      "art_style": "stylized",
-      "map_style": "arena"
-    },
-    {
-      "title": "Hammer Kart 🔨",
-      "scope": "medium",
-      "genre": "Racing · Hit / swing / launch",
-      "mechanics": [
-        "Race / drive",
-        "Hit / swing / launch"
-      ],
-      "theme": "Vehicles",
-      "hook": "Kart racing where every driver has a giant hammer. Swing it to flip rivals off the track and ragdoll them into the barriers.",
-      "core_loop": [
-        "Join a race lobby",
-        "Drive and swing at karts next to you",
-        "Each knockout fills your boost",
-        "Finish for coins",
-        "Buy bigger hammers and faster karts"
-      ],
-      "twist": "Hitting the ground with a full swing launches your own kart over shortcuts, so the hammer is also your jump.",
-      "monetization": [
-        "VIP kart",
-        "2x coins",
-        "Hammer skins",
-        "Trail effects"
-      ],
-      "retention": [
-        "Weekly track rotation",
-        "Limited event tracks",
-        "Codes",
-        "Knockout leaderboard"
-      ],
-      "why_now": "Hit / swing / launch + Race / drive is the biggest pair in the data (9 new games, 78,289 CCU). Hit / swing is rising at 1.84 (227,949 CCU in new games) and the Physics Sim subgenre is at 2.71 (Hyper Realistic Ragdoll 47,752, BloxNG [CRASH PHYSICS] 💥 20,414).",
-      "inspired_by": [
-        "Hyper Realistic Ragdoll",
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Kart Wars! 🏎️"
-      ],
-      "differentiator": "Kart games have items and guns; a hammer you aim yourself with ragdoll knockouts is a simple skill hook none of them use.",
+      "differentiator": "Military games are shooters; this is a pure panic escape with a shared timer.",
       "art_style": "stylized",
       "map_style": "linear_course"
     },
     {
-      "title": "Survive the Space Station 🛸",
-      "scope": "medium",
-      "genre": "Survival · Fight / battle",
+      "title": "Fish for a Jail Key 🔑",
+      "scope": "small",
+      "genre": "Simulator · Fishing",
       "mechanics": [
-        "Survive",
-        "Fight / battle"
+        "Fishing",
+        "Collect / index"
       ],
-      "theme": "Space",
-      "hook": "You and your crew are stuck on a broken space station. Fix the rooms by day, then fight off the aliens crawling through the vents at night.",
+      "theme": "Prison / police",
+      "hook": "You're locked in a cell with a drain in the floor. Cast a line down it and fish up junk, snacks, tools and, one day, the key.",
       "core_loop": [
-        "Repair rooms to restore power and oxygen",
-        "Craft tools into weapons",
-        "Hold the corridors when the lights go out",
-        "Survive the night to earn parts",
-        "Unlock new station wings"
+        "Cast into the cell drain",
+        "Reel in junk, food and tools",
+        "Trade catches with other inmates",
+        "Upgrade your rod and line",
+        "Catch the rare key and escape to a new prison"
       ],
-      "twist": "Every room you repair is also a room the aliens can reach, so the crew must choose what to fix and what to seal off.",
+      "twist": "Guards do random cell checks; anything illegal not hidden in time gets confiscated.",
       "monetization": [
-        "VIP crew suit",
-        "Starter weapon pack",
-        "Revive tokens",
-        "Extra backpack slots"
+        "2x catch speed",
+        "Luck pass for rare items",
+        "Auto-fish",
+        "Extra stash storage",
+        "VIP cell"
       ],
       "retention": [
-        "Nights survived leaderboard",
-        "New station wing each update",
-        "Codes",
-        "Crew badges"
+        "Catch index with rare variants",
+        "Limited weekly catches",
+        "Codes on updates"
       ],
-      "why_now": "Fight / battle + Survive is a strong pair (12 new games, 71,745 CCU). Interior maps are the top rising map style at 1.91 (NIGHT WITH OPAH 28,265, Warnetopia: Internet Cafe 11,447), and Space is rising at 2.43 ([🛸] Sweep The Moon 🌕 5,312) — space has low confidence, so the interior survival loop carries it.",
+      "why_now": "Fishing is rising at 1.22, up 0.45 this week (26 new games, 73,911 CCU) led by Fish For Sea Animals (16,121) and Net a Fish! (14,048). Fishing + Prison / police is a gap (score 2.88) and Prison / police is rising at 1.46, up 0.41 (13 Days to Escape [ALPHA] 15,518). The '___ for ___' formula is at 1.52, up 0.49.",
       "inspired_by": [
-        "NIGHT WITH OPAH",
-        "[🛸] Sweep The Moon 🌕",
-        "[🦧 BOSS] Survive Your Ideas"
+        "[🐟] Fish For Sea Animals",
+        "[🐟] Net a Fish!",
+        "13 Days to Escape [ALPHA]"
       ],
-      "differentiator": "Survival-night games are set in houses and forests; a station where repairs open new attack routes adds a real choice each night.",
+      "differentiator": "Fishing games are set on open water; this one is a cramped cell where every catch could be your way out.",
       "art_style": "stylized",
       "map_style": "interior"
     },
     {
-      "title": "Don't Dig Too Deep 🧟",
+      "title": "Swing Anchors for Ships ⚓",
       "scope": "medium",
-      "genre": "Simulator · Break / mine / dig",
+      "genre": "Simulator · Hit / swing / launch",
       "mechanics": [
-        "Break / mine / dig",
-        "Survive"
-      ],
-      "theme": "Zombies",
-      "hook": "Dig your mine shaft for treasure, but the deeper you go, the more zombies climb up out of it at night.",
-      "core_loop": [
-        "Dig down and collect ore by day",
-        "Sell ore and upgrade your shovel",
-        "Build barricades around your shaft",
-        "Fight off zombies that climb up at night",
-        "Dig deeper for rarer ore"
-      ],
-      "twist": "Deeper layers have better ore but more zombies, so players choose how greedy to be each day.",
-      "monetization": [
-        "2x ore multiplier",
-        "Luck pass for rare ore",
-        "Extra storage",
-        "VIP drill"
-      ],
-      "retention": [
-        "Depth leaderboard",
-        "Ore index",
-        "New layer each update",
-        "Codes"
-      ],
-      "why_now": "Break / mine / dig + Zombies is an open gap (score 2.5). Break / mine / dig is rising at 1.48 (50 new games, 116,229 CCU; [WORLD 2] Sandworm Playground 9,051), and the Escape subgenre is at 1.53 (13 Days to Escape [ALPHA] 11,087).",
-      "inspired_by": [
-        "[WORLD 2] Sandworm Playground",
-        "13 Days to Escape [ALPHA]",
-        "[🦃] Drill to Earth’s Core 🌎"
-      ],
-      "differentiator": "Dig games have no danger, and zombie games have no digging; tying the zombie count to how deep you dig makes every shovel swing a risk.",
-      "art_style": "voxel_blocky",
-      "map_style": "plot_base"
-    },
-    {
-      "title": "Snipe Supply Drops 🪂",
-      "scope": "small",
-      "genre": "Shooter · Shooter",
-      "mechanics": [
-        "Shooter",
+        "Hit / swing / launch",
         "Collect / index"
       ],
-      "theme": "Military / war",
-      "hook": "Supply crates parachute across the sky. Shoot the chute to drop the crate, then race other players to grab what's inside.",
+      "theme": "Ocean / pirates",
+      "hook": "Swing a giant anchor from your dock, hook passing pirate ships and haul them into your harbour. Bigger swings reach rarer ships.",
       "core_loop": [
-        "Spot falling crates",
-        "Shoot the parachute",
-        "Run to the crate before others",
-        "Open it for gear and cash",
-        "Upgrade your rifle and scope"
+        "Charge and swing the anchor",
+        "Hook a ship and reel it in",
+        "Add it to your harbour fleet",
+        "Ships earn cash over time",
+        "Buy heavier anchors to reach further"
       ],
-      "twist": "Golden crates fall fast and high, so only upgraded scopes can hit them in time.",
+      "twist": "Hooked ships fight back: pirate crews jump onto your dock and you must knock them off before the ship is yours.",
       "monetization": [
-        "VIP rifle",
-        "2x crate cash",
-        "Luck pass for golden crates",
-        "Scope skins"
+        "2x cash multiplier",
+        "Luck pass for rare ships",
+        "VIP golden anchor",
+        "Auto-swing"
       ],
       "retention": [
-        "Crate index",
-        "Daily golden drop",
-        "Codes",
-        "Leaderboard"
+        "Ship index with rarities",
+        "Offline harbour income",
+        "Weekly ghost ship event",
+        "Codes"
       ],
-      "why_now": "Military / war is rising at 1.75, up 0.50 this week, led by Voxel Wars (17,542). Shooter is rising at 1.51 (45 new games, 186,236 CCU; [🏹] Shoot Arrows For Animals! 17,061) and voxel / blocky art is the top rising style at 2.52.",
+      "why_now": "Hit / swing / launch is the top rising mechanic at 1.96 (60 new games, 264,366 CCU) with Throw a Seed (33,365) and Fish for Secret Animals! (15,192). Collect / index + Hit / swing is a live pair (8 new games, 76,374 CCU), and Ocean / pirates is rising at 1.39, up 0.27 (Criminal Simulator 17,329).",
       "inspired_by": [
-        "Voxel Wars",
-        "[🏹] Shoot Arrows For Animals!",
-        "Grapple Sniper Arena"
+        "Throw a Seed",
+        "Fish for Secret Animals!",
+        "[🏝️ISLAND] Criminal Simulator 💰"
       ],
-      "differentiator": "Sniper games aim at players; shooting loot out of the sky is a calm, quick loop with no PvP needed.",
-      "art_style": "voxel_blocky",
-      "map_style": "open_world"
-    },
-    {
-      "title": "+1 Turret Per Lap 🏎️",
-      "scope": "large",
-      "genre": "Racing · Shooter",
-      "mechanics": [
-        "Race / drive",
-        "Shooter",
-        "+1 stat per action"
-      ],
-      "theme": "Vehicles",
-      "hook": "Every lap you finish bolts one more turret onto your car. By lap ten you're a rolling fortress shooting everyone around you.",
-      "core_loop": [
-        "Race laps on the track",
-        "Gain +1 turret each lap",
-        "Shoot rivals to slow them",
-        "Win races for parts",
-        "Upgrade turret types and car armor"
-      ],
-      "twist": "More turrets make your car heavier and slower, so leaders get weaker on speed while chasers can catch up.",
-      "monetization": [
-        "VIP car",
-        "Turret skins",
-        "2x parts",
-        "Extra garage slots"
-      ],
-      "retention": [
-        "Weekly tracks",
-        "Limited events",
-        "Codes",
-        "Ranked season"
-      ],
-      "why_now": "Race / drive + Shooter is a top pair (7 new games, 69,557 CCU). Shooter is rising at 1.51 and Race / drive at 1.23 (BloxNG [CRASH PHYSICS] 💥 20,414); the \"+1 ___\" formula is at 1.76 with 38 new games.",
-      "inspired_by": [
-        "BloxNG [CRASH PHYSICS] 💥",
-        "+1 Boxing Battle Evolution",
-        "Voxel Wars"
-      ],
-      "differentiator": "No tracked racer grows your weapons every lap; the weight trade-off keeps races close.",
-      "art_style": "realistic",
+      "differentiator": "Throw-for-X games launch at animals; here you capture whole ships and they fight back.",
+      "art_style": "simulator_bright",
       "map_style": "linear_course"
     },
     {
-      "title": "Pirate Fort Tycoon 🏴‍☠️",
-      "scope": "large",
-      "genre": "Tycoon · Fight / battle",
+      "title": "Joust for Crowns 👑",
+      "scope": "small",
+      "genre": "PvP · Fight / battle",
       "mechanics": [
-        "Tycoon / base building",
-        "Fight / battle"
+        "Fight / battle",
+        "Hit / swing / launch"
       ],
-      "theme": "Ocean / pirates",
-      "hook": "Build a pirate fort on your own island, fill it with cannons and crew, then sail out to raid other players' forts.",
+      "theme": "Fantasy / medieval",
+      "hook": "Ride a wobbly horse down a castle bridge and knock rival knights into the moat with a ragdoll lance hit. Last rider standing wins the crown.",
       "core_loop": [
-        "Collect gold from your docks",
-        "Build walls, cannons and crew huts",
-        "Defend against raids",
-        "Sail to raid other forts",
-        "Spend loot on a bigger ship"
+        "Pick a lance and horse",
+        "Charge and aim your hit",
+        "Ragdoll rivals into the moat",
+        "Win rounds to earn crowns",
+        "Spend crowns on lances and armour"
       ],
-      "twist": "Captured enemy cannons can be mounted on your own walls, so a good raid upgrades your defense.",
+      "twist": "Whoever wears the crown glows and every other player gets bonus crowns for knocking them off.",
       "monetization": [
-        "2x gold",
-        "VIP ship",
-        "Auto-collect",
-        "Extra crew slots"
+        "VIP lances",
+        "2x crowns",
+        "Horse skins"
       ],
       "retention": [
-        "Fort level leaderboard",
-        "Weekly sea events",
-        "Offline gold",
+        "Season leaderboard",
+        "Daily quests",
         "Codes"
       ],
-      "why_now": "The \"___ Tycoon\" formula is up 0.47 this week to 1.09 (LINE UP! Metro Tycoon 6,405, (🚨) Prison Tycoon 6,022), and Fight / battle + Tycoon is the most crowded live pair (16 new games, 36,454 CCU). Ocean / pirates is rising at 1.34 ([🏝️ISLAND] Criminal Simulator 💰 11,996).",
+      "why_now": "Fight / battle + Hit / swing is a live pair (13 new games, 83,563 CCU) with Realistic Ragdoll MMA (12,309) and Half Punch (14,750). Fantasy / medieval is rising at 1.50, up 0.51 this week (Kit PVP FFA 9,207), voxel art is the top rising art style at 2.38, and arena maps are at 1.38.",
       "inspired_by": [
-        "LINE UP! Metro Tycoon",
-        "(🚨) Prison Tycoon",
-        "[🏝️ISLAND] Criminal Simulator 💰"
+        "Realistic Ragdoll MMA 🥊",
+        "[⚔️] Kit PVP FFA",
+        "Half Punch"
       ],
-      "differentiator": "Pirate games are sailing or fishing; a tycoon where you raid other players' forts gives the tycoon a fight loop.",
-      "art_style": "stylized",
-      "map_style": "plot_base"
+      "differentiator": "Ragdoll fighting games are bare fists in a ring; this adds mounted charges and a king-of-the-hill crown.",
+      "art_style": "voxel_blocky",
+      "map_style": "arena"
     },
     {
-      "title": "Smash Golems for Gems 🗿",
-      "scope": "small",
-      "genre": "Simulator · Break / mine / dig",
+      "title": "Build a Wrecking Crane 🏗️",
+      "scope": "medium",
+      "genre": "Sandbox · Hit / swing / launch",
       "mechanics": [
-        "Break / mine / dig",
-        "Fight / battle"
+        "Hit / swing / launch",
+        "Break / mine / dig"
       ],
-      "theme": "Stones / rocks / ores",
-      "hook": "Rock golems roam the canyon. Smash them apart with your pickaxe and grab the gems hidden in their bodies.",
+      "theme": "Vehicles",
+      "hook": "Build your own crane, hang a wrecking ball on it and smash whole towers into physics rubble for cash.",
       "core_loop": [
-        "Find a golem",
-        "Hit it until it cracks",
-        "Collect gems from the pieces",
-        "Sell gems for a better pickaxe",
-        "Move to zones with bigger golems"
+        "Build and upgrade your crane",
+        "Swing the wrecking ball into a tower",
+        "Every broken block pays cash",
+        "Unlock bigger, tougher buildings",
+        "Buy heavier balls and longer arms"
       ],
-      "twist": "Golems that lose a fight rebuild bigger from nearby rocks, so leaving pieces behind makes the next one harder.",
+      "twist": "Buildings collapse with real physics, so a well-aimed hit at the base brings the whole tower down for a combo bonus.",
       "monetization": [
-        "2x gems",
-        "Luck pass for rare cores",
-        "Auto-swing",
-        "VIP pickaxe"
+        "2x cash multiplier",
+        "VIP golden ball",
+        "Luck pass for loot crates in rubble",
+        "Extra crane storage"
       ],
       "retention": [
-        "Golem index",
-        "Zone unlocks",
-        "Rebirth multipliers",
+        "Building index",
+        "Daily demolition contract",
+        "Leaderboard of biggest collapse",
         "Codes"
       ],
-      "why_now": "Break / mine / dig + Fight / battle is a live pair (7 new games, 52,749 CCU). Break / mine / dig is rising at 1.48 and Fight / battle at 1.22, up 0.10 (Half Punch, [🦃] Defeat Ragdolls for Powers! 5,883).",
+      "why_now": "Physics Sim is the top rising subgenre at 2.70 (Hyper Realistic Ragdoll 53,925, Dummy Lab 7,778) and Sandbox is at 1.96 (Build Your World! 19,301). Hit / swing (1.96) and Break / mine (1.54) pair up in 10 new games with 72,643 CCU, and 'Build a ___' titles are at 1.43, up 0.26.",
       "inspired_by": [
-        "[🦃] Defeat Ragdolls for Powers!",
-        "[WORLD 2] Sandworm Playground",
-        "The Forge [🪽x👹]"
+        "Hyper Realistic Ragdoll",
+        "Build Your World! 🔨",
+        "Flat the Mountain"
       ],
-      "differentiator": "Mining games break still rocks; here the rock fights back and rebuilds, turning mining into boss fights.",
-      "art_style": "simulator_bright",
-      "map_style": "zone_progression"
+      "differentiator": "Break games use tools in your hands; here you build the machine first, then wreck with it.",
+      "art_style": "realistic",
+      "map_style": "arena"
+    },
+    {
+      "title": "Loot the Cursed Keep 🏰",
+      "scope": "large",
+      "genre": "Co-op horror · Fight / battle",
+      "mechanics": [
+        "Fight / battle",
+        "Survive",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "hook": "Squads of four sneak into a cursed castle at night, fight what lives inside and carry treasure out before sunrise.",
+      "core_loop": [
+        "Enter the keep with your squad",
+        "Fight monsters room by room",
+        "Grab treasure and carry it out",
+        "Survive until dawn or escape early",
+        "Sell loot for better weapons and armour"
+      ],
+      "twist": "Heavier loot slows you down and makes noise, so greedy players pull the monsters onto the whole team.",
+      "monetization": [
+        "VIP squad perks",
+        "Extra loot storage",
+        "2x gold multiplier",
+        "Revive tokens"
+      ],
+      "retention": [
+        "New floors every update",
+        "Treasure index",
+        "Weekly boss night",
+        "Codes"
+      ],
+      "why_now": "Fight / battle + Survive is a live pair (13 new games, 75,754 CCU) led by NIGHT WITH OPAH (23,636) and GloryBound (16,576). Fantasy / medieval is rising at 1.50, up 0.51 this week, interior maps are at 1.86 and dark/gritty art is at 1.31.",
+      "inspired_by": [
+        "NIGHT WITH OPAH",
+        "[🪽ASCENSION] GloryBound",
+        "[⚔️] Kit PVP FFA"
+      ],
+      "differentiator": "Horror survival games are about hiding; here you fight back and your greed is what puts the team at risk.",
+      "art_style": "dark_gritty",
+      "map_style": "interior"
+    },
+    {
+      "title": "Fish for Survivors 🛶",
+      "scope": "large",
+      "genre": "Survival · Fishing",
+      "mechanics": [
+        "Fishing",
+        "Survive",
+        "Tycoon / base building"
+      ],
+      "theme": "Zombies",
+      "hook": "The city is flooded and full of zombies. From your rooftop raft, cast lines into the streets to pull up survivors, supplies and the occasional zombie.",
+      "core_loop": [
+        "Cast into flooded streets",
+        "Reel up survivors, food or zombies",
+        "Fight off zombies you hook by mistake",
+        "Survivors join your rooftop base and work for you",
+        "Upgrade your raft to reach new districts"
+      ],
+      "twist": "Some catches look like survivors until they are halfway up the line.",
+      "monetization": [
+        "Luck pass for rare survivors",
+        "Auto-fish",
+        "2x supplies",
+        "VIP raft",
+        "Extra base storage"
+      ],
+      "retention": [
+        "Survivor index",
+        "Limited weekend horde events",
+        "Offline base income",
+        "Codes"
+      ],
+      "why_now": "Fishing is rising at 1.22, up 0.45 this week (Fish For Sea Animals 16,121, Net a Fish! 14,048), and Fishing + Zombies is a gap in the data (score 2.43). Collect / index + Fishing is the busiest live pair (17 new games, 63,844 CCU), and Survive is at 1.05, up 0.26 this week.",
+      "inspired_by": [
+        "[🐟] Fish For Sea Animals",
+        "[🐟] Net a Fish!",
+        "NIGHT WITH OPAH"
+      ],
+      "differentiator": "Fishing games are calm collection loops; here every cast might bring up a threat as well as a reward.",
+      "art_style": "stylized",
+      "map_style": "open_world"
     }
   ]
 }
