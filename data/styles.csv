@@ -12,8 +12,9 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 321778215,stylized,town_roleplay,0.8,"Doll-like avatars, castle halls, snow",cdf73d662a,vision,2026-11-10T12:59:05Z
 345510574,anime,open_world,0.5,"Anime promo art, roulette clock",2ad26108be,vision,2026-11-16T12:57:37Z
 372226183,dark_gritty,interior,0.7,dark facility rooms with red/blue lighting,e5072f7f80,vision,2026-11-11T12:57:30Z
-383310974,stylized,town_roleplay,0.6,"rounded cartoon pets, promo art only",69206e9cc5,vision,2026-11-22T12:57:02Z
+383310974,stylized,town_roleplay,0.7,Smooth cartoon pets in bright town promo renders,813c4e0722,vision,2026-11-25T12:57:45Z
 547524060,stylized,open_world,0.7,"Painted forest, river, birds, autumn colours",06bd3dbdb8,vision,2026-11-13T13:15:32Z
+574085635,stylized,linear_course,0.45,Promo art: cave with torches and crystals,60be6b023a,vision,2026-11-25T12:57:45Z
 578392296,anime,arena,0.75,"Anime characters, cel shading, heavy VFX",315f83bcff,vision,2026-10-31T11:58:12Z
 601130232,simulator_bright,zone_progression,0.6,Promo collage; bright fields and cubey bees,7e84543789,vision,2026-11-06T12:59:08Z
 605887098,realistic,town_roleplay,0.6,"glossy supercars, dealership",12d0770fa7,vision,2026-10-23T11:57:59Z
@@ -32,7 +33,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 1415710834,stylized,interior,0.65,"Purple-lit house rooms, glowing banana monster",eba06fe8d4,vision,2026-10-28T11:58:38Z
 1451439645,anime,open_world,0.6,"Anime promo art, sea and islands, big VFX",03b7b84a1d,vision,2026-11-07T12:58:32Z
 1451869528,simulator_bright,linear_course,0.6,Choice doors on white tower stages,1b714f5d15,vision,2026-10-09T11:58:55Z
-1489026993,dark_gritty,lobby_rounds,0.75,"dark killer, night suburb map",53395af4a6,vision,2026-11-20T12:57:40Z
+1489026993,stylized,lobby_rounds,0.45,Promo art only: masked killer on red,1b520a3d2d,vision,2026-11-25T12:57:45Z
 1516533665,dark_gritty,lobby_rounds,0.7,Dark cartoon horror chapters,45f6ce836d,vision,2026-11-03T12:57:55Z
 1526814825,realistic,plot_base,0.75,"Military vehicles, realistic terrain and lighting",26d4f53320,vision,2026-11-18T12:57:51Z
 1686885941,realistic,town_roleplay,0.75,"Realistic houses, vehicles, city roleplay",47e58aed57,vision,2026-11-21T12:57:24Z
@@ -68,10 +69,10 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 3310460039,stylized,linear_course,0.75,"Prison obby stages, cartoon guard",983369da99,vision,2026-10-10T11:58:29Z
 3317771874,simulator_bright,zone_progression,0.6,"flat bright pets, promo only",27e655ba1d,vision,2026-11-22T12:57:02Z
 3359505957,stylized,zone_progression,0.75,"Soft rounded cartoon pets, pastel crystal zones",276ac000c9,vision,2026-10-22T11:58:31Z
-3472976893,dark_gritty,interior,0.85,Yellow fluorescent backrooms corridors,61b1804708,vision,2026-10-21T11:59:03Z
+3472976893,dark_gritty,interior,0.85,"Yellow liminal corridors, fluorescent lights, grime",ec2ac16402,vision,2026-11-25T12:57:45Z
 3508322461,anime,arena,0.6,"Manga sketch promo, blocky debris battle, night city",a74c0e31f4,vision,2026-10-24T11:57:31Z
 3541611379,stylized,tower_defense_lanes,0.7,Mech armies and towers on battlefield,9258620f3e,vision,2026-10-29T12:02:05Z
-3647333358,stylized,lobby_rounds,0.6,"Cartoon characters, rotating themed maps",3721b0078e,vision,2026-11-24T12:57:13Z
+3647333358,stylized,lobby_rounds,0.55,"Moody lit maps, classic avatars fleeing",8e11becc0f,vision,2026-11-25T12:57:45Z
 3730079862,dark_gritty,interior,0.55,"Red/black glitch promo art, facility implied",cdf9b10ddb,vision,2026-10-31T11:58:12Z
 3754482795,classic_studs,plot_base,0.65,"classic tycoon pads, plain grey base",9fcb99f679,vision,2026-11-11T12:57:30Z
 3808081382,realistic,arena,0.75,"Grey rocky arena, smoke, fire VFX",7feb193a67,vision,2026-11-02T13:06:18Z
@@ -110,7 +111,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 5203828273,stylized,lobby_rounds,0.55,"Polished avatar promo art, soft lighting",73b7393a89,vision,2026-11-02T13:06:18Z
 5254920366,stylized,interior,0.6,"cute fruit characters, apartment rooms",702e2a2491,vision,2026-10-16T11:58:14Z
 5265857965,anime,arena,0.55,"Concrete arena, anime-style punches and smoke VFX",f72b037529,vision,2026-10-18T11:58:18Z
-5283219861,dark_gritty,interior,0.8,"Dark warehouse corridors, apes, fog",e5dbaac769,vision,2026-11-24T12:57:13Z
+5283219861,dark_gritty,interior,0.85,"Dim concrete rooms and corridors, single lights",d64a1f704b,vision,2026-11-25T12:57:45Z
 5361032378,dark_gritty,open_world,0.4,red/black promo art only,685955be64,vision,2026-11-22T12:57:02Z
 5451143054,realistic,town_roleplay,0.6,"Soft realistic avatars, fashion poses",6326f875bb,vision,2026-11-19T12:57:33Z
 5569032992,stylized,interior,0.7,Cartoon toons in dark facility corridors,9bf8669434,vision,2026-11-21T12:57:24Z
@@ -119,13 +120,13 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 5650396773,stylized,open_world,0.7,"desert road, rusty car, driving trip",c16eacc46c,vision,2026-11-22T12:57:02Z
 5666473198,realistic,arena,0.6,"Realistic stadium pitch, grass and crowd, blocky players",02bc34b7ad,vision,2026-10-30T11:59:20Z
 5720553711,realistic,town_roleplay,0.7,"Soft realistic lighting, town, pets",5998bfc98a,vision,2026-11-16T12:57:37Z
-5750914919,low_poly,open_world,0.75,"Faceted low-poly island, ocean, docks",fdefebcd53,vision,2026-11-24T12:57:13Z
+5750914919,stylized,open_world,0.7,"Cartoon islands and sea, sunny fishing scenes",6c1e683061,vision,2026-11-25T12:57:45Z
 5809308870,realistic,town_roleplay,0.7,Realistic Indian street and bank interiors,0457430bcb,vision,2026-11-06T12:59:08Z
 5887211857,realistic,town_roleplay,0.6,"Realistic suburban houses and cars, family avatars",69d0a2ea02,vision,2026-10-30T11:59:20Z
 5995470825,stylized,arena,0.7,First-person stylized guns over city,e5b552258a,vision,2026-11-14T12:57:46Z
 6015491985,simulator_bright,linear_course,0.7,"Pastel platforms over lava, math prompts",63bc961b79,vision,2026-10-29T12:02:05Z
 6017624138,realistic,open_world,0.7,"Misty forest, wooden deck, realistic fog lighting",77d6a91605,vision,2026-11-12T12:58:26Z
-6035872082,simulator_bright,arena,0.7,"Flat red/white arena, FPS combat",2b3eda3a45,vision,2026-11-21T12:57:24Z
+6035872082,stylized,arena,0.75,"Clean white arena, red blocky targets, first-person guns",1a4aa1c999,vision,2026-11-25T12:57:45Z
 6069634717,anime,tower_defense_lanes,0.6,"Anime units, VFX, TD promo",0ef6854231,vision,2026-11-18T12:57:51Z
 6147671296,voxel_blocky,lobby_rounds,0.65,"lucky blocks, voxel loot, sky islands",6a401a6549,vision,2026-11-17T12:57:39Z
 6176333237,realistic,open_world,0.6,"stage rigs, lighting, open field at dusk",83fc9eab0a,vision,2026-10-12T11:58:15Z
@@ -147,7 +148,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 6760085372,anime,arena,0.6,"Anime promo art, purple VFX",ce6f71960e,vision,2026-11-04T12:58:14Z
 6765805766,realistic,town_roleplay,0.7,"Realistic lighting, suburbs, store, cars, fishing",41a34fcb25,vision,2026-10-08T15:57:11Z
 6774320049,stylized,town_roleplay,0.7,"Soft rendered families, homes, stores",9b42af607d,vision,2026-11-21T12:57:24Z
-6899325466,simulator_bright,lobby_rounds,0.55,"Draw prompts, voting rounds",17265da9af,vision,2026-11-24T12:57:13Z
+6899325466,simulator_bright,lobby_rounds,0.45,"Bright drawing prompts, simple shapes",abcee7a17f,vision,2026-11-25T12:57:45Z
 6931042565,anime,arena,0.7,"anime volleyball promo, court net",cdc1a46360,vision,2026-11-22T12:57:02Z
 6945584306,anime,open_world,0.6,Painted anime promo art,ebfd7d0404,vision,2026-11-10T12:59:05Z
 7008097940,anime,lobby_rounds,0.6,"Squid game style rounds, anime art",e0662a2167,vision,2026-11-05T12:58:43Z
@@ -155,12 +156,12 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 7028566528,anime,arena,0.5,"Anime promo basketball, court",1340f404f3,vision,2026-11-04T12:58:14Z
 7058980030,stylized,interior,0.7,dark mega store aisles at night,62b139dcac,vision,2026-10-23T11:57:59Z
 7089588429,realistic,open_world,0.7,PBR motorbikes in garage showroom,7c3d71e681,vision,2026-11-15T12:56:59Z
-7094518649,stylized,plot_base,0.7,"Restaurant buildings, trees, stylized chefs",f0dd89e1f7,vision,2026-11-24T12:57:13Z
+7094518649,stylized,plot_base,0.8,"Brick restaurants on plots, warm lighting",2c87203d27,vision,2026-11-25T12:57:45Z
 7108384194,stylized,arena,0.75,"blue walled arena, duel UI, cartoon",aa8e4a89db,vision,2026-10-12T11:58:15Z
 7174773198,anime,open_world,0.5,"anime promo, ships and sea monster",7d40ecd9df,vision,2026-11-22T12:57:02Z
 7219654364,stylized,arena,0.4,Only promo VS art of knife and revolver,b3a68810d1,vision,2026-11-03T12:57:55Z
 7265977477,classic_studs,linear_course,0.5,"Classic noob, brick stud-height wall",210c08a51f,vision,2026-10-08T15:57:11Z
-7274244096,dark_gritty,open_world,0.6,"Dark city war, mech toilets",9bd27f4049,vision,2026-11-19T12:57:33Z
+7274244096,dark_gritty,open_world,0.5,"Ruined city, dark smoke, giant titans",bd956419d0,vision,2026-11-25T12:57:45Z
 7320026403,dark_gritty,interior,0.7,"Dark purple corridors, monster chase",bc3714f7c9,vision,2026-10-24T11:57:31Z
 7326934954,stylized,open_world,0.7,"dark forest campfire, fenced camp, night",affc1c0f8c,vision,2026-11-15T12:56:59Z
 7395930870,simulator_bright,plot_base,0.75,Lemon stand plots growing into futuristic base,af61dfb729,vision,2026-10-24T11:57:31Z
@@ -174,10 +175,10 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 7623259179,dark_gritty,linear_course,0.5,"Abstract dark neon voids, glitchy",31bf56ad65,vision,2026-10-25T11:57:30Z
 7629331599,simulator_bright,open_world,0.55,"Bright promo art, panning river gems, blocky avatar",809b10003e,vision,2026-10-20T11:58:42Z
 7633926880,realistic,arena,0.7,"Detailed weapon skins, Mediterranean map, tactical shooter",b0be93a097,vision,2026-10-20T11:58:42Z
-7660436108,anime,tower_defense_lanes,0.5,promo anime splash art only; logo heavy,c3a55fcbff,vision,2026-11-23T12:57:54Z
+7660436108,anime,tower_defense_lanes,0.4,"Pure anime promo art, no world shown",25f6298521,vision,2026-11-25T12:57:45Z
 7671049560,anime,open_world,0.45,"Painted anime armour promo art only, dark purple VFX",aa4af0c67b,vision,2026-11-09T13:00:10Z
 7703614594,voxel_blocky,tower_defense_lanes,0.7,"Voxel barn, garden lanes, neon plants",716e1d5741,vision,2026-11-24T12:57:13Z
-7709344486,simulator_bright,plot_base,0.9,Bright plots with brainrot creatures and money/s,4c4759714b,vision,2026-11-10T12:59:05Z
+7709344486,meme_chaotic,plot_base,0.85,"Brainrot creatures on base plots, big $/s text",4d6061a5aa,vision,2026-11-25T12:57:45Z
 7729422550,classic_studs,linear_course,0.8,Plain white grey obby stages,823996c383,vision,2026-11-04T12:58:14Z
 7787359931,realistic,town_roleplay,0.75,"Realistic cars, night city streets",a1f1c20488,vision,2026-10-15T11:57:57Z
 7822444776,simulator_bright,linear_course,0.7,"plane build, bright track, $ values",453e438a60,vision,2026-10-27T12:00:14Z
@@ -195,6 +196,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 8495663407,anime,plot_base,0.6,"Anime princess art, castle interiors",729a693f75,vision,2026-11-18T12:57:51Z
 8520148363,simulator_bright,arena,0.6,"white floor, blue bullet streams",890ddc9a6f,vision,2026-10-16T11:58:14Z
 8539298853,dark_gritty,interior,0.7,"Dark kiosk interior, monster mascots",38e254ef5d,vision,2026-10-29T12:02:05Z
+8546873728,dark_gritty,open_world,0.5,Dark neon titan battles in ruins,519a835fc8,vision,2026-11-25T12:57:45Z
 8719555347,realistic,open_world,0.8,"Realistic ATVs, mud, water",fb75752f81,vision,2026-11-21T12:57:24Z
 8724785394,realistic,plot_base,0.6,"Realistic mansion and supercars, PBR lighting",325062de08,vision,2026-10-30T11:59:20Z
 8791358380,simulator_bright,plot_base,0.7,"Brick base, bear, YOU arrow",7fa63d00e6,vision,2026-10-15T11:57:57Z
@@ -215,7 +217,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 9395278151,simulator_bright,linear_course,0.65,Colourful obby tower,12ff6fe6ca,vision,2026-11-05T12:58:43Z
 9442472087,stylized,open_world,0.55,"Painted creature promo art, dark forest scenes",80d8bda2b8,vision,2026-10-30T11:59:20Z
 9490116046,voxel_blocky,plot_base,0.8,"Grass cube blocks, voxel house builds",74e4aa601a,vision,2026-10-13T11:58:08Z
-9491545867,simulator_bright,zone_progression,0.75,"rainbow eggs, flat grass, rarity text",1eb3c70003,vision,2026-11-20T12:57:40Z
+9491545867,meme_chaotic,plot_base,0.45,"Brainrot eggs and meme characters, bright",9199c460c9,vision,2026-11-25T12:57:45Z
 9514625031,classic_studs,open_world,0.7,"Grey baseplate sandbox, flinging players",366a32ce4a,vision,2026-10-29T12:02:05Z
 9520912689,simulator_bright,open_world,0.5,"Construction site, bright colors",aa214d2409,vision,2026-10-15T11:57:57Z
 9534705677,stylized,arena,0.6,"first-person skinned snipers, sky backdrop",03ad586fa5,vision,2026-11-23T12:57:54Z
@@ -252,7 +254,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10138624079,simulator_bright,tower_defense_lanes,0.6,"Base on platform, zombie waves",9f9c19d7c9,vision,2026-11-05T12:58:43Z
 10140010190,classic_studs,linear_course,0.65,"Pastel studded tower rooms, team choice doors",7fd474a3c7,vision,2026-10-30T11:59:20Z
 10144587520,simulator_bright,plot_base,0.6,"Card packs, money tiers, anime cards",74a52e4e41,vision,2026-10-29T12:02:05Z
-10148749921,stylized,interior,0.8,"hospital waiting room, toon animals",39a31fc03e,vision,2026-11-15T12:56:59Z
+10148749921,stylized,interior,0.75,"Hospital wards, smooth creature patients, cool lights",ad6c6cb031,vision,2026-11-25T12:57:45Z
 10155360168,stylized,arena,0.75,soccer pitch with weapons,e7aa498fe5,vision,2026-11-15T12:56:59Z
 10167733747,meme_chaotic,linear_course,0.7,"brainrot doors, choice tower",d417e621d2,vision,2026-10-23T11:57:59Z
 10167786253,voxel_blocky,open_world,0.85,"Minecraft-like cube forest, hotbar UI, third-person",08eba94c26,vision,2026-10-20T11:58:42Z
@@ -279,7 +281,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10330158837,dark_gritty,arena,0.5,"Dark Halloween promo, red lightning, skull, PvP",77823f1f62,vision,2026-10-20T11:58:42Z
 10334932478,simulator_bright,linear_course,0.75,Pastel keyboard tower with squishy dumpling faces,84c0318505,vision,2026-11-13T13:15:32Z
 10338952197,voxel_blocky,arena,0.7,Voxel chickens fighting in dirt pen,7ac8d7a407,vision,2026-10-29T12:02:05Z
-10371156562,stylized,plot_base,0.7,"warm forest market stalls, cute pigs",56b82d67fc,vision,2026-10-16T11:58:14Z
+10371156562,stylized,town_roleplay,0.55,"Warm-lit market stalls, cute pig pets",528eb97d42,vision,2026-11-25T12:57:45Z
 10371406677,simulator_bright,linear_course,0.7,"race track, giant dino eggs",d82e2514de,vision,2026-10-16T11:58:14Z
 10378493761,stylized,arena,0.6,"Cartoon dodgeball court, red vs blue teams",60516336d2,vision,2026-10-30T11:59:20Z
 10381189313,stylized,lobby_rounds,0.7,"Drawing desks, guess-the-drawing rounds",904b5fabfb,vision,2026-10-24T11:57:31Z
@@ -293,6 +295,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10421901778,simulator_bright,interior,0.6,Bright house rooms to clean,a3c0656d83,vision,2026-11-18T12:57:51Z
 10422038064,simulator_bright,plot_base,0.6,"bright pastel brainrot characters, $/s",e91196c2fa,vision,2026-11-15T12:56:59Z
 10424107160,stylized,plot_base,0.6,night base with turrets vs zombies,dac367a3a1,vision,2026-10-16T11:58:14Z
+10435409529,simulator_bright,plot_base,0.55,"First-person baking, money stacks, flat bright plots",88057660c5,vision,2026-11-25T12:57:45Z
 10436530264,voxel_blocky,plot_base,0.75,"Brick ant mounds, voxel insects, bright",bebdb03e30,vision,2026-10-09T11:58:55Z
 10460801145,classic_studs,linear_course,0.65,"Baseplate tower over lava, troll faces",70bc0d409b,vision,2026-10-10T11:58:29Z
 10502841145,anime,zone_progression,0.5,"Anime character promo art only, dark halloween",16d35a9601,vision,2026-11-12T12:58:26Z
@@ -316,7 +319,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10630800860,simulator_bright,lobby_rounds,0.6,"Bright desks, flag drawing duels, percent scores",a56a7b7c44,vision,2026-10-30T11:59:20Z
 10634461028,realistic,open_world,0.8,"Realistic scooter, roads, sunset",d8f6d70dd0,vision,2026-10-10T11:58:29Z
 10636331438,simulator_bright,plot_base,0.75,"Bright ocean, voxel sea creatures, $/s",a3b9be9b70,vision,2026-10-14T11:58:19Z
-10638886777,stylized,plot_base,0.5,"Cartoon butter stacking, simple baseplate",3b239aa84e,vision,2026-11-24T12:57:13Z
+10638886777,simulator_bright,plot_base,0.45,"Simple bright scenes, butter stacking on plates",1ced99c4df,vision,2026-11-25T12:57:45Z
 10643795368,stylized,interior,0.45,"menu/UI territory map, noir art",4d4eea72d4,vision,2026-10-16T11:58:14Z
 10648820673,stylized,interior,0.5,Illustrated eatery promo art,2314ab9156,vision,2026-11-05T12:58:43Z
 10650979742,stylized,lobby_rounds,0.7,"griddles on tables, judged rounds",368aa48ffa,vision,2026-10-23T11:57:59Z
@@ -333,7 +336,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10696894951,dark_gritty,open_world,0.75,"Night forest, fog, glowing-eyed monster",558415325f,vision,2026-10-13T11:58:08Z
 10698216738,classic_studs,plot_base,0.55,"Blocky R6 soldiers, plain terrain",526f3930b9,vision,2026-10-14T11:58:19Z
 10700618962,anime,arena,0.6,Anime soccer locker promo,89896ddad2,vision,2026-11-10T12:59:05Z
-10701622575,anime,plot_base,0.5,"anime card promo art, rarity numbers",43faa36bca,vision,2026-11-22T12:57:02Z
+10701622575,anime,plot_base,0.4,Anime promo art with odds text only,ec7c9ccb71,vision,2026-11-25T12:57:45Z
 10708913337,anime,zone_progression,0.6,"Anime aura characters, dice rolls, speed lines",efec0fbe7d,vision,2026-11-18T12:57:51Z
 10725799494,simulator_bright,plot_base,0.5,bright car wash promo render,8144d5f5b5,vision,2026-10-16T11:58:14Z
 10732236937,dark_gritty,arena,0.55,dark kaiju promo art,a4e71ac700,vision,2026-10-12T11:58:15Z
@@ -368,7 +371,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10762636904,stylized,tower_defense_lanes,0.6,"speaker/camera robots, promo renders, city street",118c0a3e69,vision,2026-11-23T12:57:54Z
 10762757054,meme_chaotic,interior,0.6,"meme fart faces, CCTV room",5feef9f658,vision,2026-10-12T11:58:15Z
 10763764817,simulator_bright,linear_course,0.75,"Monkey bars over grass, eggs, +1",d23676b181,vision,2026-10-15T11:57:57Z
-10763768511,stylized,interior,0.55,"Cartoon burglar in house, dark jail cells",baec73d85c,vision,2026-11-24T12:57:13Z
+10763768511,stylized,interior,0.6,"House interiors, cages, night lighting",0df05a1580,vision,2026-11-25T12:57:45Z
 10763833263,simulator_bright,zone_progression,0.6,"Bright worlds, pets, NEW WORLDS gates",21c0066942,vision,2026-11-13T13:15:32Z
 10764057246,low_poly,open_world,0.5,Pastel low-poly study hub,08881b1e48,vision,2026-11-01T12:57:47Z
 10764208570,dark_gritty,lobby_rounds,0.75,"Town map rounds with monsters, flashlight",e95224e633,vision,2026-11-10T12:59:05Z
@@ -378,7 +381,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10764412489,classic_studs,linear_course,0.8,"Lego-like stud platforms, obby spikes",e06377e0cb,vision,2026-10-22T11:58:31Z
 10764479526,simulator_bright,zone_progression,0.6,"Mewing faces, +1 text, bright panels",a147793785,vision,2026-10-09T11:58:55Z
 10764533320,anime,arena,0.55,"Neon aura VFX, dance battle stage, glowing effects",4fc1cb2c5f,vision,2026-10-20T11:58:42Z
-10764627709,classic_studs,arena,0.6,"Classic noob, green baseplate field",d0a2bce750,vision,2026-11-18T12:57:51Z
+10764627709,classic_studs,open_world,0.45,Classic noob avatars on flat grass baseplate,450625a397,vision,2026-11-25T12:57:45Z
 10764702969,voxel_blocky,open_world,0.7,"Voxel snowy forest, cabins, bunker",1f82a76211,vision,2026-10-28T11:58:38Z
 10764897725,simulator_bright,zone_progression,0.75,"brick walls, grass, eggs, wings",95601610a9,vision,2026-10-12T11:58:15Z
 10764974981,stylized,interior,0.6,"Clothing racks in a thrift store, glossy items",a591a8ec3a,vision,2026-11-12T12:58:26Z
@@ -416,6 +419,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10766109756,simulator_bright,zone_progression,0.7,"Webs, +1 popups, grass",1cf1ed923d,vision,2026-10-15T11:57:57Z
 10766135603,simulator_bright,zone_progression,0.85,"+1 bubbles, ruby rewards, bright grass",42f483269a,vision,2026-10-14T11:58:19Z
 10766138478,simulator_bright,zone_progression,0.7,"+1 tags, brick walls, egg rewards",72cf994816,vision,2026-10-13T11:58:08Z
+10766176458,simulator_bright,zone_progression,0.55,"Ice blocks, dinos, big +number text",c609f123f4,vision,2026-11-25T12:57:45Z
 10766212164,simulator_bright,zone_progression,0.6,Level progression panels,d0ad81b79e,vision,2026-11-05T12:58:43Z
 10766219563,simulator_bright,plot_base,0.55,"Giant mechs/dragons promo, money per second",1c08c406bc,vision,2026-11-13T13:15:32Z
 10766240516,simulator_bright,zone_progression,0.6,"Glowing eggs, sniper, big HP bars",a1e42a651d,vision,2026-10-13T11:58:08Z
@@ -549,7 +553,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10769401924,simulator_bright,open_world,0.6,"party RPG, bright fields, bosses",522e897cce,vision,2026-10-27T12:00:14Z
 10769407594,simulator_bright,plot_base,0.6,"Voxel dirt digging plots, bright eggs and dragons",721869a74f,vision,2026-11-12T12:58:26Z
 10769415620,simulator_bright,linear_course,0.45,"Phone drop shots, bright sky, simple blocks",359d82d1a8,vision,2026-10-19T11:59:53Z
-10769420234,dark_gritty,interior,0.85,"Monochrome horror corridors, barrels",909a76605f,vision,2026-11-10T12:59:05Z
+10769420234,dark_gritty,interior,0.65,"Black and white horror mouse, dark rooms",5771933fe3,vision,2026-11-25T12:57:45Z
 10769464063,simulator_bright,zone_progression,0.6,"Bright +1 numbers, transformation",585d7dac18,vision,2026-11-24T12:57:13Z
 10769484703,stylized,lobby_rounds,0.55,"Disaster rounds, dramatic lighting",bc29be8674,vision,2026-11-05T12:58:43Z
 10769487429,voxel_blocky,open_world,0.7,"Cube-built heroes in night city, voxel buildings",e64a2dbfc1,vision,2026-11-12T12:58:26Z
@@ -565,25 +569,25 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10769580813,simulator_bright,arena,0.7,"Bright city rooftops, grapple and snipe",ff716ad0c3,vision,2026-11-24T12:57:13Z
 10769594564,voxel_blocky,open_world,0.6,"Blocky grass world, rolling clump ball, rainbow sky",221e0d31bd,vision,2026-10-30T11:59:20Z
 10769621465,low_poly,interior,0.75,"low poly chicken, kitchen, first person",706de3e7c0,vision,2026-10-27T12:00:14Z
-10769634720,dark_gritty,interior,0.7,"Painted horror pony, dark pink rooms",3d8bcb50fd,vision,2026-11-24T12:57:13Z
+10769634720,dark_gritty,interior,0.45,"Dark horror pony promo art, dim rooms",8755e84297,vision,2026-11-25T12:57:45Z
 10769660375,simulator_bright,plot_base,0.7,"Bright trees, plots, $/s labels",0c729c632c,vision,2026-11-04T12:58:14Z
 10769671316,simulator_bright,lobby_rounds,0.65,"Bright studs, typed-chat disasters on rounds",d10b9dfe34,vision,2026-11-24T12:57:13Z
 10769721516,stylized,linear_course,0.6,"avatar holding plane wing, sky",4f792a201b,vision,2026-10-27T12:00:14Z
 10769776100,simulator_bright,plot_base,0.8,"Steal-a egg format, $/s, yellow plots",f3c7f3ad78,vision,2026-11-19T12:57:33Z
-10769787444,low_poly,plot_base,0.65,Low-poly factory conveyors on plot,ba8ff48040,vision,2026-11-18T12:57:51Z
+10769787444,voxel_blocky,plot_base,0.55,"Voxel animals, sky islands, auto-farm machinery",001d6ee4fd,vision,2026-11-25T12:57:45Z
 10769793590,simulator_bright,plot_base,0.45,"Promo art: golden plates, RNG roll",2f2aa5e165,vision,2026-11-18T12:57:51Z
 10769798178,stylized,interior,0.7,"Rug tufting on workbench, cozy room",e2066955b6,vision,2026-10-28T11:58:38Z
 10769808534,stylized,arena,0.6,"Stadium pitch, manager and players",3bd736f015,vision,2026-10-28T11:58:38Z
 10769832216,stylized,arena,0.7,"Beach volleyball court, cartoon",89c4c93bed,vision,2026-11-24T12:57:13Z
 10769835283,stylized,linear_course,0.6,"descending dungeon floors, warm torchlight",35222511bb,vision,2026-11-23T12:57:54Z
 10769850160,stylized,open_world,0.5,First-person spoon on giant ice cream mountain,c40c493dfd,vision,2026-11-06T12:59:08Z
-10769851460,realistic,town_roleplay,0.6,"dark city nights, interior houses, crime RP",380c9f9ed4,vision,2026-11-11T12:57:30Z
+10769851460,realistic,town_roleplay,0.55,"Night streets and house interiors, robbery theme",63d69d7d50,vision,2026-11-25T12:57:45Z
 10769869378,realistic,interior,0.75,"plane cabin, realistic materials",e10f2b0928,vision,2026-11-20T12:57:40Z
 10769876151,stylized,interior,0.7,"Glossy ramen pack, kitchen and window room",21c5de6d65,vision,2026-10-21T11:59:03Z
 10769903740,simulator_bright,linear_course,0.6,"Bright lava strip course, cyan sky, slinky body",2d31ad8006,vision,2026-10-30T11:59:20Z
 10769941703,realistic,interior,0.65,"first-person prison corridor, dirt tunnel",8b39e4ed62,vision,2026-11-23T12:57:54Z
 10769957062,realistic,open_world,0.85,"Realistic grass and spider, natural lighting",c955a7f753,vision,2026-10-29T12:02:05Z
-10769969117,realistic,open_world,0.8,Detailed 4x4 trucks on bushland trails,327ba48c8e,vision,2026-11-07T12:58:32Z
+10769969117,realistic,open_world,0.85,"PBR 4x4s on muddy trails, natural light",2a448901c7,vision,2026-11-25T12:57:45Z
 10770000716,realistic,interior,0.35,Promo of tablet UI only,0b409e4d46,vision,2026-10-13T11:58:08Z
 10770018231,dark_gritty,interior,0.8,"Dark nursery, rows of babies, flashlight",e03bacd405,vision,2026-11-18T12:57:51Z
 10770021080,stylized,interior,0.6,"Cartoon pets in a shelter room, first-person hands",ae74362782,vision,2026-10-28T11:58:38Z
@@ -603,16 +607,16 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10770355219,stylized,interior,0.6,"First-person wall breaking, prison",b729d53b22,vision,2026-11-04T12:58:14Z
 10770382905,stylized,open_world,0.6,"Cartoon car interior, bright city streets, cones",15c2381ecd,vision,2026-10-30T11:59:20Z
 10770431439,realistic,interior,0.65,"Realistic pets, cozy house interior, night window",4db4a6d66e,vision,2026-10-30T11:59:20Z
-10770433673,simulator_bright,zone_progression,0.8,"+1 bow forge numbers, baseplate",74d1d22ed0,vision,2026-11-19T12:57:33Z
+10770433673,simulator_bright,zone_progression,0.55,Saturated forge scenes with floating +1T,3d59505cf5,vision,2026-11-25T12:57:45Z
 10770458796,stylized,lobby_rounds,0.5,Lying still in varied maps,10ef06e5b8,vision,2026-11-05T12:58:43Z
 10770463307,simulator_bright,linear_course,0.55,"cartoon excavator vs tsunami, bright sand",6cdd28222b,vision,2026-11-23T12:57:54Z
 10770466814,realistic,open_world,0.6,"Realistic lunar surface, astronaut sweeping",e8c2c52196,vision,2026-11-02T13:06:18Z
 10770479965,simulator_bright,plot_base,0.6,Harvester cab over bright crop fields,a1b2cbbe3f,vision,2026-10-28T11:58:38Z
 10770483911,stylized,interior,0.6,"Bedroom sleepover, pillow fight, rounded avatars",f8ebd358b4,vision,2026-11-12T12:58:26Z
-10770504297,stylized,arena,0.75,"First-person revolvers, small arena",c61b4595c4,vision,2026-11-19T12:57:33Z
+10770504297,stylized,arena,0.6,First-person revolvers in clean bright arenas,9e80f7bf85,vision,2026-11-25T12:57:45Z
 10770526777,voxel_blocky,linear_course,0.7,"Blocky river canyon, raft journey, night storm",36a06606c2,vision,2026-11-18T12:57:51Z
 10770548748,realistic,open_world,0.7,realistic bikes on Golden Gate bridge,13db82273c,vision,2026-11-11T12:57:30Z
-10770566869,stylized,arena,0.75,"soccer pitch, stadium, awards",f3571de873,vision,2026-11-15T12:56:59Z
+10770566869,simulator_bright,arena,0.45,"Bright soccer pitch, trophy promo renders",5bc1e7a9ec,vision,2026-11-25T12:57:45Z
 10770568427,simulator_bright,linear_course,0.75,Tube ride obby over bright water hazards,9657eb38e3,vision,2026-10-29T12:02:05Z
 10770575733,classic_studs,arena,0.7,"plain grey baseplate, ragdoll physics",ce5460288f,vision,2026-11-15T12:56:59Z
 10770593871,stylized,arena,0.6,"smooth dummies, grey-green test map, explosions",62d0b7d3f0,vision,2026-11-17T12:57:39Z
@@ -626,7 +630,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10770674395,realistic,interior,0.65,"Realistic shop interior, night window",c534dba739,vision,2026-11-03T12:57:55Z
 10770699460,simulator_bright,plot_base,0.6,"Bright pink rooms, house plot",80bb9bbaef,vision,2026-11-24T12:57:13Z
 10770703729,stylized,arena,0.5,"Chicken holding gun, promo render",8dc94432a3,vision,2026-11-19T12:57:33Z
-10770707307,anime,interior,0.55,"anime catboy portraits, cafe interior",3745a40882,vision,2026-11-23T12:57:54Z
+10770707307,anime,town_roleplay,0.3,Anime illustration promo only,164965b9dc,vision,2026-11-25T12:57:45Z
 10770728771,dark_gritty,interior,0.8,"Red-lit horror buildings, dark corridors",d26f7aac61,vision,2026-10-26T11:59:22Z
 10770730129,stylized,arena,0.8,"Stick ragdoll soccer pitch, clean sky",9547c4c5c3,vision,2026-11-19T12:57:33Z
 10770748262,anime,arena,0.4,Anime fighter promo art only,abae7fc907,vision,2026-10-28T11:58:38Z
@@ -638,12 +642,12 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10770934840,meme_chaotic,arena,0.4,"Pixel boss fight promo art, red heart; no world shown",178783e6e3,vision,2026-10-30T11:59:20Z
 10771012952,voxel_blocky,open_world,0.85,"Minecraft blocks, ores, hotbar UI",0c24d834a5,vision,2026-11-06T12:59:08Z
 10771051754,realistic,arena,0.6,"Realistic car crash, debris, test area",2eecdc5657,vision,2026-11-18T12:57:51Z
-10771053183,simulator_bright,plot_base,0.55,"Bright nets, ocean, money numbers",ae78a25a00,vision,2026-11-24T12:57:13Z
+10771053183,simulator_bright,open_world,0.35,Promo art only: ocean nets and rarity text,c942961796,vision,2026-11-25T12:57:45Z
 10771111717,simulator_bright,lobby_rounds,0.7,"white rooms of buttons, rounds",69eca3e964,vision,2026-11-11T12:57:30Z
 10771124452,simulator_bright,linear_course,0.6,"lava floor tower, jail cages, troll carry",cf3b6b43c5,vision,2026-11-17T12:57:39Z
 10771155665,stylized,arena,0.6,"smooth dummies, green baseplate, seesaw props",86056a56f7,vision,2026-11-17T12:57:39Z
 10771159260,voxel_blocky,lobby_rounds,0.5,"pixel ocean, prompt rounds UI",c761c044df,vision,2026-11-23T12:57:54Z
-10771238997,voxel_blocky,arena,0.6,blocky dragons on green field,84ccf08f4e,vision,2026-11-23T12:57:54Z
+10771238997,voxel_blocky,arena,0.55,Voxel dragons and rats on bright green,66c4495830,vision,2026-11-25T12:57:45Z
 10771247057,stylized,linear_course,0.75,Cartoon trucks crossing canyon bridges,76df45abeb,vision,2026-11-06T12:59:08Z
 10771269188,classic_studs,open_world,0.65,"Flat baseplate, ragdolls, tank, grey bricks",d49e0bb3c3,vision,2026-11-06T12:59:08Z
 10771273649,realistic,linear_course,0.5,First-person punch through grey walls,febd4a4faf,vision,2026-10-28T11:58:38Z
@@ -671,7 +675,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10771800287,simulator_bright,plot_base,0.55,"Candy close-ups, bright colours",f982c1b72f,vision,2026-11-05T12:58:43Z
 10771853697,realistic,open_world,0.7,"Detailed city rooftops, suit menu",1d9bd0be0a,vision,2026-11-10T12:59:05Z
 10771871836,meme_chaotic,interior,0.55,"Hand-drawn grey doodle characters, TV screens",e85a3f4911,vision,2026-11-13T13:15:32Z
-10771881861,realistic,open_world,0.8,"realistic forests, animals, rivers",cc72dc0951,vision,2026-11-22T12:57:02Z
+10771881861,realistic,open_world,0.85,"PBR animals, forests and rivers, natural lighting",8a6d790c7b,vision,2026-11-25T12:57:45Z
 10771886114,stylized,open_world,0.6,Ant tunnels and grass field,3dd689e869,vision,2026-11-19T12:57:33Z
 10771908014,voxel_blocky,tower_defense_lanes,0.7,"block dragons, floating islands",603f990d42,vision,2026-11-20T12:57:40Z
 10771935715,realistic,interior,0.5,"Dark garage, bikes; promo-heavy",40aa26f67b,vision,2026-11-06T12:59:08Z
@@ -680,7 +684,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10772048283,simulator_bright,linear_course,0.7,"Long water channel drained in lanes, gold coins",071c674d98,vision,2026-11-12T12:58:26Z
 10772066587,dark_gritty,interior,0.75,"dark moonlit house interior, horror grandma",5a63e5b342,vision,2026-11-23T12:57:54Z
 10772114384,simulator_bright,linear_course,0.65,Blueprint bridges over gaps,79bc3c6c54,vision,2026-11-10T12:59:05Z
-10772133952,voxel_blocky,zone_progression,0.6,"Voxel pets and creatures, bright",950183e6d7,vision,2026-11-24T12:57:13Z
+10772133952,voxel_blocky,zone_progression,0.5,"Voxel pets and golems, bright fields",7d7fab8b9d,vision,2026-11-25T12:57:45Z
 10772200970,stylized,zone_progression,0.5,"Promo art only: glamorous stylized humans, stage",ab7cf528b1,vision,2026-11-13T13:15:32Z
 10772210273,stylized,arena,0.55,"stylized spider enemies, cave",53d8b48915,vision,2026-11-20T12:57:40Z
 10772217708,realistic,open_world,0.7,"Wet city highway, police chase, realistic lighting",2c5c270577,vision,2026-11-09T13:00:10Z
@@ -699,6 +703,7 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10772700948,stylized,arena,0.55,"grey dummies, green baseplate, E-prompt finishers",30874d922b,vision,2026-11-17T12:57:39Z
 10772735708,stylized,interior,0.55,"Potato avatars in a supermarket, soft renders",84346fef03,vision,2026-11-06T12:59:08Z
 10772749430,stylized,interior,0.65,"Cozy cookie shop, warm light",0067b6daff,vision,2026-11-19T12:57:33Z
+10772806181,anime,arena,0.5,Anime volleyball players under stadium lights,c611cd3c05,vision,2026-11-25T12:57:45Z
 10772864993,dark_gritty,arena,0.35,single dark venom render only,d8315b48bc,vision,2026-11-11T12:57:30Z
 10772879271,stylized,interior,0.65,"Apartment bathroom and hallway, zombies",f0b6454167,vision,2026-11-24T12:57:13Z
 10772946647,dark_gritty,linear_course,0.75,"Grey sketchy forest, car fleeing spider",aa5204dcc8,vision,2026-11-16T12:57:37Z
@@ -730,8 +735,9 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10773907070,stylized,lobby_rounds,0.5,"Flat chess board UI, clean dark menus",172f104c1d,vision,2026-11-13T13:15:32Z
 10773926254,stylized,open_world,0.75,"White ragdolls, explosions, outdoor test site",33b000c815,vision,2026-11-10T12:59:05Z
 10773964844,simulator_bright,zone_progression,0.7,"+1 scary evolution, baseplate, numbers",b3f6fd0cb9,vision,2026-11-19T12:57:33Z
+10773971368,simulator_bright,plot_base,0.4,Promo only: angry customer and star rating,ba86937ce8,vision,2026-11-25T12:57:45Z
 10774051088,low_poly,arena,0.55,"flat 2D-ish stickman sandbox, city backdrop, physics props",3357cd6fac,vision,2026-11-17T12:57:39Z
-10774051115,simulator_bright,plot_base,0.6,"Rainbow ballpits on docks, bright first person",356e768931,vision,2026-11-24T12:57:13Z
+10774051115,simulator_bright,zone_progression,0.6,"Bright ball pits, vacuum tools, beach hub",0f7b53dbb1,vision,2026-11-25T12:57:45Z
 10774066980,realistic,open_world,0.8,"desert world, creature survival, fog",0fa3dcd56a,vision,2026-11-20T12:57:40Z
 10774071683,simulator_bright,plot_base,0.7,"bright water lanes, fishing creatures",3b8e3e2def,vision,2026-11-23T12:57:54Z
 10774140929,stylized,arena,0.6,"dummy on flat grass map, anime props",6ea1b622f7,vision,2026-11-20T12:57:40Z
@@ -740,13 +746,13 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10774204862,simulator_bright,arena,0.7,"Bright court, ball bomb, red/blue sides",6ab11f098c,vision,2026-11-24T12:57:13Z
 10774244015,voxel_blocky,arena,0.75,"Minecraft-like kits, grass arena",04c5d6523d,vision,2026-11-21T12:57:24Z
 10774303559,simulator_bright,linear_course,0.6,"baseplate water strip, coloured zones",137057a437,vision,2026-11-22T12:57:02Z
-10774333764,anime,zone_progression,0.55,Anime promo art only,94486b7225,vision,2026-11-24T12:57:13Z
+10774333764,anime,zone_progression,0.35,"Pure anime promo art, no world visible",60648618c6,vision,2026-11-25T12:57:45Z
 10774386745,simulator_bright,open_world,0.65,"Desert sandbox, sandworm, ragdoll",42b042d048,vision,2026-11-21T12:57:24Z
 10774392377,anime,zone_progression,0.6,+1 slayer with anime demon art,42b4d13ed6,vision,2026-11-19T12:57:33Z
 10774444233,stylized,plot_base,0.6,"Mountain with excavator/drill, bright terrain",a5cd87c9e7,vision,2026-11-18T12:57:51Z
 10774452423,simulator_bright,arena,0.7,"White ragdoll dummies, explosions, baseplate",32e3641276,vision,2026-11-19T12:57:33Z
 10774468211,stylized,open_world,0.7,"sunny yard, trees, explosions, chainsaw",0cdaaa319c,vision,2026-11-15T12:56:59Z
-10774497765,simulator_bright,linear_course,0.6,Studded orange/green throw lanes,48243489dc,vision,2026-11-24T12:57:13Z
+10774497765,simulator_bright,linear_course,0.6,"Bright studded runway, players thrown at monsters",80c1ef245f,vision,2026-11-25T12:57:45Z
 10774500456,simulator_bright,linear_course,0.6,"Pull rope distance track, rarity dinos",1a35c0cf6b,vision,2026-11-18T12:57:51Z
 10774554401,realistic,plot_base,0.65,"Detailed prison yard, cinematic lighting",3193775a7d,vision,2026-11-24T12:57:13Z
 10774639404,anime,arena,0.55,"Pixel-art anime fighters, promo only",e56e654eae,vision,2026-11-18T12:57:51Z
@@ -755,19 +761,22 @@ universe_id,art_style,map_style,confidence,notes,images_key,source,updated
 10774725421,simulator_bright,open_world,0.4,Promo art of globe and puppet hands,3f328045e2,vision,2026-11-24T12:57:13Z
 10774737741,simulator_bright,plot_base,0.55,"cartoon potato battery, green tiles",09e3e3687a,vision,2026-11-20T12:57:40Z
 10774759040,stylized,interior,0.8,clean stylized internet cafe interior,811b1605aa,vision,2026-11-23T12:57:54Z
-10774769300,stylized,open_world,0.65,"Painterly river village, boats, night lights",25dbbbfef7,vision,2026-11-24T12:57:13Z
-10774784939,simulator_bright,linear_course,0.7,"Bright stud tiers, arrow arc to animals",1d58039fc0,vision,2026-11-24T12:57:13Z
+10774769300,stylized,open_world,0.4,Painted promo art of river village fishing,448d0af542,vision,2026-11-25T12:57:45Z
+10774784939,simulator_bright,zone_progression,0.6,"Saturated checkered tiers, arrow arcs to creatures",5d78576557,vision,2026-11-25T12:57:45Z
 10774803726,simulator_bright,linear_course,0.7,throw lane on checker grass,0ceb40710c,vision,2026-11-20T12:57:40Z
 10774810800,stylized,arena,0.75,Cartoon fighters in an MMA cage,41a30e81a2,vision,2026-11-19T12:57:33Z
-10775016983,low_poly,arena,0.6,"Blocky mechs, jungle and city maps",bdc5f9728b,vision,2026-11-24T12:57:13Z
+10775016983,low_poly,arena,0.55,Blocky mechs and kaiju fighting over a city,ed85fe7808,vision,2026-11-25T12:57:45Z
 10775036022,stylized,open_world,0.6,"Plane landing on island runway, cartoon",e4cefdd8e8,vision,2026-11-18T12:57:51Z
 10775160561,realistic,interior,0.55,Realistic card packs on a cosy table,ec2c820b0e,vision,2026-11-24T12:57:13Z
 10775166914,realistic,open_world,0.65,"Realistic terrain, animals, dummies",b49218ad8f,vision,2026-11-21T12:57:24Z
 10775182046,simulator_bright,linear_course,0.7,"baseplate, coloured zone tiles, throw arc",a526b6eb87,vision,2026-11-22T12:57:02Z
-10775306701,simulator_bright,arena,0.7,"Bright grass, animals punching dummies",352f08161e,vision,2026-11-21T12:57:24Z
+10775306701,simulator_bright,arena,0.45,Bright test map with animals smashing ragdolls,ccecddf675,vision,2026-11-25T12:57:45Z
 10775483673,stylized,town_roleplay,0.6,"city street, ragdoll dummies, power VFX",8fb63195c0,vision,2026-11-23T12:57:54Z
 10775555944,meme_chaotic,arena,0.35,fake YouTube-style mod promo,f5f9d07a12,vision,2026-11-11T12:57:30Z
 10775662479,simulator_bright,arena,0.35,"Neon promo art only, RIVALS mod",e4f86ff767,vision,2026-11-18T12:57:51Z
+10775685374,realistic,open_world,0.45,"Detailed planes crashing, realistic renders",f9fa491eb4,vision,2026-11-25T12:57:45Z
 10775706743,meme_chaotic,arena,0.4,Mod-showcase meme art only,50529ccb21,vision,2026-11-21T12:57:24Z
 10775759810,simulator_bright,plot_base,0.7,"colored lanes, cast arcs, fish creatures",1f69558ba8,vision,2026-11-23T12:57:54Z
 10776436556,dark_gritty,interior,0.75,"dark house rooms, neon TV",e8501be6b3,vision,2026-11-20T12:57:40Z
+10776979229,classic_studs,town_roleplay,0.6,"Blocky school and town streets, flat parts",8f152bb45c,vision,2026-11-25T12:57:45Z
+10778568998,realistic,open_world,0.4,"Painted city skyline and beach, no gameplay",c1494c7670,vision,2026-11-25T12:57:45Z
