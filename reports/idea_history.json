@@ -3345,5 +3345,89 @@
       "theme": "Zombies",
       "title": "Fish for Survivors \ud83d\udef6"
     }
+  ],
+  "2026-11-25": [
+    {
+      "mechanics": [
+        "Shooter",
+        "Fight / battle",
+        "Tycoon / base building"
+      ],
+      "theme": "Military / war",
+      "title": "Build a Battle Barge \u2693"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Survive"
+      ],
+      "theme": "Horror",
+      "title": "Paint Runes for Light \ud83d\udd6f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Robots / mechs",
+      "title": "Reel Bots for Parts \ud83e\udd16"
+    },
+    {
+      "mechanics": [
+        "Dice / cards",
+        "Collect / index"
+      ],
+      "theme": "Fantasy / medieval",
+      "title": "Roll Dice for Castles \ud83c\udff0"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Race / drive"
+      ],
+      "theme": "Sports",
+      "title": "Whack Karts for Crowns \ud83c\udfc1"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Race / drive"
+      ],
+      "theme": "Military / war",
+      "title": "Bulldoze Bunkers for Medals \ud83e\ude96"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Collect / index"
+      ],
+      "theme": "Space",
+      "title": "Golf for Alien Pets \ud83d\udef8"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Survive"
+      ],
+      "theme": "Disaster / weather",
+      "title": "+1 Sandbag Per Step \ud83c\udf0a"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Race / drive"
+      ],
+      "theme": "Space",
+      "title": "Build a Lander \ud83c\udf15"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Ocean / pirates",
+      "title": "Grow Bait for Monster Fish \ud83e\udeb1"
+    }
   ]
 }
