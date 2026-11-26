@@ -1,54 +1,53 @@
 {
   "niches": {
     "mechanic:break_mine": {
-      "art_style": "Mostly simulator_bright or stylized cartoon renders (about 7/12); 4/12 dark anime/RNG",
+      "art_style": "Mix: ~6/12 bright stylized cartoon, ~4/12 dark/anime, a few realistic scenic.",
       "avoid": [
-        "Dark anime collage unless the game is anime",
-        "Long titles on the image"
+        "Busy dark collages that hide the action"
       ],
-      "date": "2026-11-25",
-      "direction": "Icon: a character mid-swing with a pickaxe or machine, debris bursting, bright sky, no text. Thumbnail: the biggest breakable object in the game cracking open with the player small beside it.",
+      "date": "2026-11-26",
+      "direction": "Icon: avatar swinging a pickaxe or hammer into a shocked object with debris. Thumbnail: big impact moment, debris and glow, the rare loot visible behind.",
       "do": [
-        "Freeze the moment of impact: tool hitting the target, debris flying",
-        "Keep the icon text-free",
-        "Use a bright sky and terrain backdrop",
-        "Show the size jump of what you can break (small vs huge)"
+        "Show the tool mid-impact with debris flying",
+        "Give the broken object a shocked face",
+        "Use cracked/glow effects around the hit point",
+        "Keep one clear subject pair: tool-wielder vs target"
       ],
       "icon_patterns": [
         {
           "count": "6/12",
-          "pattern": "character mid-swing with a tool or fist, impact streaks"
+          "pattern": "Avatar holding a tool or weapon (bat, pickaxe, sword)"
         },
         {
-          "count": "6/12",
-          "pattern": "bright sky or grass background"
+          "count": "5/12",
+          "pattern": "Bright sky/grass background"
         },
         {
           "count": "4/12",
-          "pattern": "dark red/purple anime or RNG art"
+          "pattern": "Dark red/black dramatic backgrounds"
         },
         {
-          "count": "10/12",
-          "pattern": "no text on the icon"
+          "count": "4/12",
+          "pattern": "Shocked/scared face on the victim object"
         }
       ],
-      "members_hash": "2b4c27b6e9",
-      "newcomer_shift": "NEW games (9-12) drop text entirely and show physical destruction or machinery: ragdoll smashing, an excavator on a mountain, voxel farm animals.",
+      "members_hash": "e31f3eb844",
+      "newcomer_shift": "NEW games show machinery (excavator) and big animals vs scared white dummy ragdolls, with realistic mountain/city backdrops.",
       "source": "vision",
-      "summary": "Characters swinging tools or smashing targets, split between bright cartoon simulators and dark anime/RNG art.",
-      "text_usage": "Little text; when used it is one rarity/odds number or an update banner.",
+      "summary": "Break/mine winners pair an avatar holding a tool with a big object being smashed, mixing bright scenes and dark anime/RNG art.",
+      "text_usage": "Little text; occasional 'WORLD 2' or rarity % in rainbow.",
       "thumbnail_patterns": [
         {
           "count": "6/12",
-          "pattern": "single hero action shot, no UI, tool striking a target"
+          "pattern": "Impact effects: cracks, debris, glow bursts"
         },
         {
-          "count": "3/12",
-          "pattern": "dark dramatic anime/aura scenes"
+          "count": "2/12",
+          "pattern": "Large rarity/percentage text"
         },
         {
-          "count": "3/12",
-          "pattern": "one big rarity or odds number as text"
+          "count": "2/12",
+          "pattern": "Before/after or size comparison split"
         }
       ]
     },
@@ -192,48 +191,53 @@
       ]
     },
     "mechanic:escape_run": {
-      "art_style": "Dark/gritty (~5/12) vs bright stylized (~6/12).",
+      "art_style": "Split ~50/50 between dark horror and bright stylized cartoon.",
       "avoid": [
-        "Muddy mid-tone images with no clear threat"
+        "Static scenes with no sense of chase"
       ],
-      "date": "2026-11-24",
-      "direction": "Icon: a scared avatar with the threat (wave, monster) looming behind. Thumbnail: the chase moment, avatar running toward the viewer, threat filling the back half.",
+      "date": "2026-11-26",
+      "direction": "Icon: terrified avatar face in front, huge threat looming behind. Thumbnail: running avatar mid-stride, threat close behind, a clear escape path ahead.",
       "do": [
-        "Show the threat large and the avatar small and scared",
-        "Use a clear chase direction",
-        "Pick one mood: full dark horror or full bright cartoon"
+        "Put the threat large behind a small fleeing avatar",
+        "Use a scared, wide-eyed face",
+        "Choose one mood: full horror dark or full bright",
+        "Add a single 'YOU!' or stage label at most"
       ],
       "icon_patterns": [
         {
-          "count": "5/12",
-          "pattern": "Dark, low-key horror lighting"
+          "count": "6/12",
+          "pattern": "Threat chasing a scared character"
         },
         {
-          "count": "4/12",
-          "pattern": "Bright cartoon threat (tsunami wave, disaster)"
+          "count": "5/12",
+          "pattern": "Dark horror lighting"
+        },
+        {
+          "count": "5/12",
+          "pattern": "Bright cartoon sky/water"
         },
         {
           "count": "2/12",
-          "pattern": "Hourglass/update timer icon"
+          "pattern": "+1 / stage text overlays"
         }
       ],
-      "members_hash": "59a628a7e9",
-      "newcomer_shift": "NEW games use bright cartoon threats (tsunami with face, UFO chase) and a cinematic escape-room look.",
+      "members_hash": "0fb169f7b6",
+      "newcomer_shift": "NEW games try odd hooks (screw-board close-up, bucket bailing, anime split art) instead of a chase.",
       "source": "vision",
-      "summary": "Split between dark horror escape art and bright cartoon disaster/obby art; the leaders are dark, newcomers bright.",
-      "text_usage": "Minimal; game logo or NEW UPDATE only.",
+      "summary": "Escape/run leaders show a scared avatar fleeing a big threat (monster, wave, police), split between horror-dark and bright obby looks.",
+      "text_usage": "Minimal text: 'STAGE 10', '+1', 'RUN HIDE', 'YOU!' labels.",
       "thumbnail_patterns": [
         {
           "count": "5/12",
-          "pattern": "Scared avatar with threat behind them"
-        },
-        {
-          "count": "5/12",
-          "pattern": "Dark interiors with a monster or killer"
+          "pattern": "Monster or wave looming over the player"
         },
         {
           "count": "3/12",
-          "pattern": "Big wave or disaster as the threat"
+          "pattern": "First-person POV with hands/controls"
+        },
+        {
+          "count": "5/12",
+          "pattern": "Scared wide-eyed face"
         }
       ]
     },
@@ -280,45 +284,49 @@
       ]
     },
     "mechanic:fishing": {
-      "art_style": "Stylized/simulator-bright cartoon (~9/12).",
+      "art_style": "Bright stylized cartoon in ~10/12.",
       "avoid": [
-        "Small creatures",
-        "Night scenes without contrast"
+        "Calm water with no action"
       ],
-      "date": "2026-11-24",
-      "direction": "Icon: a giant creature exploding out of the water with the tiny angler on a dock. Thumbnail: the reel-in moment with an extreme 1 IN X odds label.",
+      "date": "2026-11-26",
+      "direction": "Icon: giant creature leaping from water at a small avatar holding a bent rod. Thumbnail: same moment wider, with one '$/s' or odds number in the corner.",
       "do": [
-        "Show a creature far bigger than the player",
-        "Add a 1 IN X odds number",
-        "Use a splash at the waterline"
+        "Show the creature bursting out of the water with splash",
+        "Avatar small on a dock with bent rod",
+        "Add one big value or odds number",
+        "Use bright saturated blue"
       ],
       "icon_patterns": [
         {
           "count": "7/12",
-          "pattern": "Giant sea creature (kraken, shark, octopus) bursting from water"
-        },
-        {
-          "count": "5/12",
-          "pattern": "Player holding rod on a dock"
+          "pattern": "Avatar holding a rod with a bent line"
         },
         {
           "count": "7/12",
-          "pattern": "Bright blue ocean"
-        }
-      ],
-      "members_hash": "f284ce6035",
-      "newcomer_shift": "NEW games push more extreme odds numbers and odd catches (sushi, deep-sea abyss).",
-      "source": "vision",
-      "summary": "Player on a dock or boat reeling in a giant sea creature, with huge odds numbers on bright ocean scenes.",
-      "text_usage": "Big 1 IN 10,000,000-style odds or $/s values, white or rainbow with black outline.",
-      "thumbnail_patterns": [
-        {
-          "count": "6/12",
-          "pattern": "Rarity text 1 IN X or $/s value"
+          "pattern": "Giant sea creature (kraken, shark, octopus)"
         },
         {
+          "count": "8/12",
+          "pattern": "Bright blue water with splash"
+        }
+      ],
+      "members_hash": "9427ead0d1",
+      "newcomer_shift": "NEW games go niche: sushi conveyor, deep-sea depth meter, drawn fish art.",
+      "source": "vision",
+      "summary": "Fishing winners show an avatar on a dock reeling in a giant creature bursting from bright blue water.",
+      "text_usage": "One big number: $/s value or '1 in X' odds, top right.",
+      "thumbnail_patterns": [
+        {
           "count": "5/12",
-          "pattern": "Fishing line arcing to a huge creature"
+          "pattern": "Big catch value or odds text ($/s, '1 in X')"
+        },
+        {
+          "count": "4/12",
+          "pattern": "Dock or boat foreground"
+        },
+        {
+          "count": "6/12",
+          "pattern": "Splash effects around catch"
         }
       ]
     },
@@ -416,58 +424,59 @@
       ]
     },
     "mechanic:hit_swing": {
-      "art_style": "simulator_bright cartoon renders dominate (about 8/12); a few cinematic realistic renders",
+      "art_style": "Bright simulator/stylized cartoon in ~8/12; a few realistic-anime fighters (MMA, glowing eyes).",
       "avoid": [
-        "Text on the icon",
-        "Busy scenes with more than two subjects"
+        "Dark muddy scenes",
+        "Small subjects lost in the frame"
       ],
-      "date": "2026-11-25",
-      "direction": "Icon: a giant reacting creature or target, close-up, with impact streaks and no text. Thumbnail: small player left, bold arc flying right into the target, stepped colour tiers below and one rarity number top-right.",
+      "date": "2026-11-26",
+      "direction": "Icon: close-up of a giant reward creature reacting to the hit, avatar small in corner. Thumbnail: avatar left swinging, a yellow arc to a big target on coloured zone blocks, one '1 in X' number top-right.",
       "do": [
-        "Show one huge creature or target reacting, close-up, on the icon",
-        "Draw a thick yellow arc from a small player to the target on the thumbnail",
-        "Put one odds or income number in the top-right corner",
-        "Use saturated sky blue and grass green with impact streaks"
+        "Show avatar on left mid-swing with a curved yellow trajectory arc",
+        "Put a huge, open-mouthed creature or reward on the right",
+        "Add one rainbow-outlined '1 in X' or $/s number top-right",
+        "Use bright blue sky and flat green grass",
+        "Keep the icon text-free and close-up"
       ],
       "icon_patterns": [
         {
           "count": "7/12",
-          "pattern": "one oversized creature or target fills the icon, close-up, mouth open or mid-reaction"
-        },
-        {
-          "count": "11/12",
-          "pattern": "no words on the icon"
-        },
-        {
-          "count": "7/12",
-          "pattern": "bright blue sky and green baseplate background"
+          "pattern": "Bright blue sky + green grass background"
         },
         {
           "count": "6/12",
-          "pattern": "impact streaks, glow or explosion burst"
+          "pattern": "Big creature/target (turkey, shark, skeleton, tree) dominates frame"
+        },
+        {
+          "count": "8/12",
+          "pattern": "Avatar in action pose (swing, throw, cast)"
+        },
+        {
+          "count": "10/12",
+          "pattern": "No text on icon"
         }
       ],
-      "members_hash": "0b05bfd374",
-      "newcomer_shift": "NEW games (9-12) lean on cinematic, more realistic renders: MMA fighters, explosion ragdolls, a dark concert hall, instead of flat bright simulator scenes.",
+      "members_hash": "4a5c2f6d00",
+      "newcomer_shift": "NEW games lean on physics chaos (explosions, ragdolls, drawn carts) and realistic fighters instead of the bright arc-to-creature formula.",
       "source": "vision",
-      "summary": "Bright toy-like renders of a player launching or swinging at an oversized creature or target, with a big arc or impact effect.",
-      "text_usage": "Icons almost never use text; thumbnails use one small number (odds or $/s) in a corner.",
+      "summary": "Leaders show a Roblox avatar mid-swing or mid-cast with a huge creature or reward target on bright grass-and-sky scenes.",
+      "text_usage": "Icons mostly text-free; thumbnails add one rarity/odds number in rainbow outline font.",
       "thumbnail_patterns": [
         {
           "count": "4/12",
-          "pattern": "small player on the left, yellow arc trajectory to a big target on the right"
+          "pattern": "Yellow arc trail showing the throw/cast path from player to target"
         },
         {
-          "count": "4/12",
-          "pattern": "rarity or income number in the top-right (1 in 5.95T, $68.5B/s)"
-        },
-        {
-          "count": "3/12",
-          "pattern": "stepped coloured block tiers as the ground"
+          "count": "4/10",
+          "pattern": "Big '1 in X' odds or $/s number top-right"
         },
         {
           "count": "2/12",
-          "pattern": "black silhouette with ? as a mystery reward"
+          "pattern": "Silhouette with '?' teasing a hidden reward"
+        },
+        {
+          "count": "3/12",
+          "pattern": "Layered coloured block terrain (green/sand/red/purple zones)"
         }
       ]
     },
@@ -570,140 +579,146 @@
       ]
     },
     "mechanic:paint_create": {
-      "art_style": "Mixed: stylized Roblox renders (about 6/12), realistic sandbox scenes (about 4/12), one painted portrait.",
+      "art_style": "Mostly bright stylized; ~4/12 realistic sandbox (planes, desert, rally).",
       "avoid": [
-        "Empty sandbox screenshots with no subject"
+        "Tiny UI-only shots"
       ],
-      "date": "2026-11-23",
-      "direction": "Icon: chunky logo plus a reacting dummy splashed with paint/effect. Thumbnail: what the player made coming to life next to a scared dummy, with a red arrow.",
+      "date": "2026-11-26",
+      "direction": "Icon: the thing you made, big and centered, with a short wordmark. Thumbnail: drawing/paint on the left with an arrow to the 3D result coming alive on the right.",
       "do": [
-        "Put the game name as a big chunky logo on the icon",
-        "Show the creation or chaos result, not the empty canvas",
-        "Use one expressive dummy reacting to what you made",
-        "Show a before/after (Draw a duck to real duck) for creation games"
+        "Show the creation itself huge and readable",
+        "Use a red arrow from tool/drawing to result",
+        "Add a bold short wordmark",
+        "Keep backgrounds bright and clean"
       ],
       "icon_patterns": [
         {
           "count": "6/12",
-          "pattern": "big bold game-name logo on the icon"
-        },
-        {
-          "count": "5/12",
-          "pattern": "white/blue ragdoll dummy or noob being hit"
+          "pattern": "Title text logo on icon"
         },
         {
           "count": "4/12",
-          "pattern": "explosions/fire or paint splatter"
+          "pattern": "White ragdoll dummy as subject"
+        },
+        {
+          "count": "6/12",
+          "pattern": "Bright sky/green backdrop"
+        },
+        {
+          "count": "4/12",
+          "pattern": "Vehicle as hero subject"
         }
       ],
-      "members_hash": "ba99ded5b0",
-      "newcomer_shift": "NEW games use first-person or vehicle POV shots (rally cockpit) and minimal blood-splatter logos.",
+      "members_hash": "19c450d940",
+      "newcomer_shift": "NEW games are realistic vehicle sims (rally, jets) and ragdoll war chaos, less drawing.",
       "source": "vision",
-      "summary": "Paint/create and sandbox games lean on ragdoll chaos and bold logo text, with white ragdoll dummies and explosions in about a third of them.",
-      "text_usage": "Heavy use of big chunky title logos (RAGDOLL SANDBOX, BLOOD LAB, PLANE CRASH).",
+      "summary": "Paint/create games show the created thing big (drawn cart, duck drawing, plane) next to a reacting avatar, mostly bright.",
+      "text_usage": "Heavy use of game-title logos (RAGDOLL SANDBOX, PLANE CRASH, BLOOD LAB).",
       "thumbnail_patterns": [
         {
-          "count": "4/12",
-          "pattern": "ragdoll chaos: bodies flying, weapons, explosions"
-        },
-        {
-          "count": "4/12",
-          "pattern": "logo text placed on the thumbnail"
-        },
-        {
           "count": "3/12",
-          "pattern": "realistic vehicle/terrain sandbox scene"
+          "pattern": "Before/after or 'real vs drawn' comparison with arrow"
+        },
+        {
+          "count": "4/12",
+          "pattern": "Sandbox destruction: explosions, ragdolls flying"
+        },
+        {
+          "count": "4/12",
+          "pattern": "Bold title wordmark on thumbnail"
         }
       ]
     },
     "mechanic:party_minigames": {
-      "art_style": "Mixed: realistic/cinematic ~5/11, stylized cartoon ~4/11",
+      "art_style": "Mixed: bright stylized ~6/12, realistic/dark shooters and pixel art for the rest.",
       "avoid": [
-        "Single lonely character",
-        "Cold flat lighting"
+        "Empty lobby screenshots"
       ],
-      "date": "2026-11-19",
-      "direction": "Icon: a group of avatars mid-reaction around one object, warm light, short caps title. Thumbnail: split with a dumb vs genius reaction and a big challenge caption.",
+      "date": "2026-11-26",
+      "direction": "Icon: two avatars face to face with VS lightning. Thumbnail: the concept in a short caps headline over one funny moment between players.",
       "do": [
-        "Show 3-5 characters reacting together",
-        "Use a warm sunset or cosy interior light",
-        "Put a short challenge caption in caps",
-        "Make faces large and expressive"
+        "State the game in 2-4 caps words",
+        "Show two players reacting to each other",
+        "Use one strong background colour"
       ],
       "icon_patterns": [
         {
-          "count": "5/11",
-          "pattern": "Warm cinematic lighting (sunset, interiors)"
+          "count": "4/12",
+          "pattern": "Two avatars facing each other / VS"
         },
         {
-          "count": "4/11",
-          "pattern": "Group of characters together"
+          "count": "5/12",
+          "pattern": "Big bold title text"
         },
         {
-          "count": "4/11",
-          "pattern": "Logo text as the main icon element"
+          "count": "4/12",
+          "pattern": "Flat simple background"
         }
       ],
-      "members_hash": "a8e2cd9889",
-      "newcomer_shift": "NEW games use warm sunset scenes (sniper scope, festival group) and an industrial 'ONE MORE BOX' poster style.",
+      "members_hash": "f1ccfa0b9c",
+      "newcomer_shift": "NEW games use cartoon VS framing and moody pixel/industrial art.",
       "source": "vision",
-      "summary": "Small mixed niche: warm cinematic scenes and bright cartoon quiz split-screens; no single dominant look.",
-      "text_usage": "Logo-led (TOGETHER, KRILLION, BRASS HELL) or a big quiz caption (NAME A COUNTRY, DON'T GET CAUGHT!).",
+      "summary": "Party games are small and visually inconsistent; the best show two avatars facing off or a bold one-line concept.",
+      "text_usage": "Text carries the concept: short caps headline on most.",
       "thumbnail_patterns": [
         {
-          "count": "4/11",
-          "pattern": "Warm orange/sunset palette"
+          "count": "4/12",
+          "pattern": "Short concept headline (NAME A COUNTRY, DON'T GET CAUGHT!)"
         },
         {
-          "count": "4/11",
-          "pattern": "Characters reacting together"
+          "count": "2/12",
+          "pattern": "Split comparison with arrow"
         }
       ]
     },
     "mechanic:plus_one_stat": {
-      "art_style": "simulator_bright dominates (about 10/12)",
+      "art_style": "Bright simulator/stylized cartoon in ~10/12.",
       "avoid": [
-        "Muted colours",
-        "Scenes without any number"
+        "Dark backgrounds that hide the +1s"
       ],
-      "date": "2026-11-25",
-      "direction": "Icon: the avatar doing the core action with +1s popping off. Thumbnail: split frame, left the weak start with +1, right the maxed result with a huge number.",
+      "date": "2026-11-26",
+      "direction": "Icon: avatar close-up mid-transformation with glowing aura and +1s floating around. Thumbnail: weak form left, red arrow, huge powered form right, '+999T' type number.",
       "do": [
-        "Scatter white +1 numbers with black outline around the avatar",
-        "Show a weak vs strong split",
-        "Use an open-mouth hype expression"
+        "Scatter 4-6 white '+1' numbers with black outline around the avatar",
+        "Show a before/after growth with a red arrow",
+        "Use a glowing aura on the powered-up form",
+        "Keep the background bright cyan/green"
       ],
       "icon_patterns": [
         {
+          "count": "8/12",
+          "pattern": "Floating '+1' / '+100' numbers"
+        },
+        {
           "count": "7/12",
-          "pattern": "floating +1 / +100 numbers around the character"
+          "pattern": "Classic noob/bacon avatar face close-up"
         },
         {
           "count": "8/12",
-          "pattern": "classic bacon-hair avatar face as the subject"
+          "pattern": "Bright saturated backgrounds"
         },
         {
-          "count": "8/12",
-          "pattern": "bright saturated background"
+          "count": "4/12",
+          "pattern": "Glow/aura around the avatar"
         }
       ],
-      "members_hash": "e08774680e",
-      "newcomer_shift": "NEW games split the frame (1 vs 999M, two boxers, weak vs strong armour) to show the progression jump.",
+      "members_hash": "9934c4e05d",
+      "newcomer_shift": "NEW games add sharper weapon close-ups, fighter faces and voxel/Minecraft looks.",
       "source": "vision",
-      "summary": "Roblox avatar mid-action surrounded by floating +1 numbers, usually bright with a growth payoff.",
-      "text_usage": "Mostly numbers: +1, +100, 999M, $978Qa; rarely words.",
+      "summary": "+1 stat games are bright, avatar-centered, covered in floating '+1' numbers with a transformation or big creature.",
+      "text_usage": "Floating +1s everywhere; occasional big headline (ROLL A LEGENDARY, THANKSGIVING!).",
       "thumbnail_patterns": [
         {
-          "count": "6/12",
-          "pattern": "+1 numbers floating around the action"
+          "count": "4/12",
+          "pattern": "Before/after transformation (small to buff, normal to venom)"
         },
         {
           "count": "3/12",
-          "pattern": "small-to-huge comparison (1 vs 999M)"
+          "pattern": "Huge money or stat number ($999,999 / +999T)"
         },
         {
-          "count": "3/12",
-          "pattern": "big money or stat number as text"
+          "count": "2/12",
+          "pattern": "Arrow pointing to 'YOU'"
         }
       ]
     },
@@ -798,48 +813,53 @@
       ]
     },
     "mechanic:rng_roll": {
-      "art_style": "anime / dark glow (about 7/12)",
+      "art_style": "~6/12 dark anime/aura, rest bright stylized.",
       "avoid": [
-        "Generic anime aura if the theme is not anime"
+        "Plain characters without effects"
       ],
-      "date": "2026-11-25",
-      "direction": "Icon: the rare rolled object glowing gold on dark. Thumbnail: ROLL A LEGENDARY style headline over a glowing reveal of the rarest item.",
+      "date": "2026-11-26",
+      "direction": "Icon: hand rolling a die next to a glowing rare character. Thumbnail: rare roll exploding with aura, '1 in 6 BILLION' style text on top.",
       "do": [
-        "Put the rolled item glowing in the centre",
-        "Use one bold ROLL or odds line",
-        "Add sparkle and light rays"
+        "Show the rarest roll glowing big in the center",
+        "Add rainbow '1 in X' text top",
+        "Use a dice or roll button in hand for the icon",
+        "Use strong aura effects"
       ],
       "icon_patterns": [
         {
           "count": "6/12",
-          "pattern": "dark background with glowing aura character"
+          "pattern": "Glowing powerful character"
+        },
+        {
+          "count": "5/12",
+          "pattern": "Dark purple/black/red background"
         },
         {
           "count": "3/12",
-          "pattern": "1 in X or roll text on the icon"
+          "pattern": "Dice or slot visual"
         },
         {
-          "count": "4/12",
-          "pattern": "anime character face close-up"
+          "count": "3/12",
+          "pattern": "Seasonal (turkey/Halloween) art"
         }
       ],
-      "members_hash": "9ba693fec0",
-      "newcomer_shift": "NEW games roll everyday things (licence plates, haircuts) with bright gold or cartoon art instead of anime auras.",
+      "members_hash": "ae24fdd034",
+      "newcomer_shift": "NEW games try object rolls (license plates, haircuts) and golem/skeleton cartoons on bright backgrounds.",
       "source": "vision",
-      "summary": "Dark aura anime characters and rarity odds dominate, with a bright cartoon minority.",
-      "text_usage": "Odds numbers and ROLL / RNG words in bold yellow.",
+      "summary": "RNG games use glowing rare characters and huge '1 in X' odds text, mixing dark anime art with bright cartoon rolls.",
+      "text_usage": "Odds numbers are the main text; titles like ROLL A LEGENDARY.",
       "thumbnail_patterns": [
         {
-          "count": "6/12",
-          "pattern": "dark dramatic scene with neon glow"
+          "count": "3/12",
+          "pattern": "Huge '1 in X' odds text in rainbow gradient"
         },
         {
-          "count": "3/12",
-          "pattern": "big odds or ROLL text"
+          "count": "6/12",
+          "pattern": "Aura/energy effects around the rolled character"
         },
         {
           "count": "2/12",
-          "pattern": "bright cartoon with YOU arrows"
+          "pattern": "Hand rolling dice or pressing button"
         }
       ]
     },
