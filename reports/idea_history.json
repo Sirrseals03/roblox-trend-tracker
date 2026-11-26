@@ -3429,5 +3429,87 @@
       "theme": "Ocean / pirates",
       "title": "Grow Bait for Monster Fish \ud83e\udeb1"
     }
+  ],
+  "2026-11-26": [
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Collect / index"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Harvest Storms for Cash \u26c8\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Escape / run"
+      ],
+      "theme": "Horror",
+      "title": "Sketch Exits to Survive \u270f\ufe0f"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Hit / swing / launch"
+      ],
+      "theme": "Sports",
+      "title": "Grow Balls for Trophies \ud83c\udfc6"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Escape / run"
+      ],
+      "theme": "Prison / police",
+      "title": "Grow Keys for Freedom \ud83d\udd11"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Ancient / pyramids",
+      "title": "Fish for Relics \ud83d\udc0a"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle"
+      ],
+      "theme": "Robots / mechs",
+      "title": "Draw Mechs for Battle \ud83e\udd16"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Escape / run"
+      ],
+      "theme": "Ancient / pyramids",
+      "title": "+1 Torch Light \ud83c\udffa"
+    },
+    {
+      "mechanics": [
+        "Race / drive",
+        "Hit / swing / launch"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Stunt Cars Over Volcanoes \ud83c\udf0b"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Fight / battle"
+      ],
+      "theme": "Giant / huge",
+      "title": "Chip Giants for Gold \ud83d\uddff"
+    },
+    {
+      "mechanics": [
+        "Tycoon / base building",
+        "Survive"
+      ],
+      "theme": "Space",
+      "title": "Build a Meteor Dome \u2604\ufe0f"
+    }
   ]
 }
