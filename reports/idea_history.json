@@ -3511,5 +3511,88 @@
       "theme": "Space",
       "title": "Build a Meteor Dome \u2604\ufe0f"
     }
+  ],
+  "2026-11-27": [
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Race / drive"
+      ],
+      "theme": "Vehicles",
+      "title": "Crash Trucks for Gold \ud83d\ude9a"
+    },
+    {
+      "mechanics": [
+        "Break / mine / dig",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "title": "Tunnel for Flags \ud83d\udea9"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Collect / index"
+      ],
+      "theme": "Space",
+      "title": "Grow Aliens for Cash \ud83d\udc7d"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Disaster / weather",
+      "title": "Fish a Flooded Town \ud83c\udf0a"
+    },
+    {
+      "mechanics": [
+        "Grow / farm",
+        "Fight / battle"
+      ],
+      "theme": "Horror",
+      "title": "Grow Ghosts at Night \ud83d\udc7b"
+    },
+    {
+      "mechanics": [
+        "+1 stat per action",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "title": "+1 Kaiju Size \ud83e\udd96"
+    },
+    {
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Fashion / beauty",
+      "title": "Fish Up Outfits \ud83d\udc57"
+    },
+    {
+      "mechanics": [
+        "Hit / swing / launch",
+        "Collect / index"
+      ],
+      "theme": "Space",
+      "title": "Bat Stars for Pets \u2b50"
+    },
+    {
+      "mechanics": [
+        "Shooter",
+        "Fight / battle"
+      ],
+      "theme": "Horror",
+      "title": "Shoot Shadows to Survive \ud83d\udd26"
+    },
+    {
+      "mechanics": [
+        "Paint / create",
+        "Fight / battle",
+        "Shooter"
+      ],
+      "theme": "Military / war",
+      "title": "Build a Battle Blimp \ud83c\udf88"
+    }
   ]
 }
