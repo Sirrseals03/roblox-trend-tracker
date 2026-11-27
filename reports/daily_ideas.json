@@ -1,395 +1,398 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "ideas": [
     {
-      "title": "Harvest Storms for Cash ⛈️",
+      "title": "Crash Trucks for Gold 🚚",
+      "scope": "large",
+      "genre": "Simulation · Physics",
+      "mechanics": [
+        "Break / mine / dig",
+        "Race / drive"
+      ],
+      "theme": "Vehicles",
+      "hook": "Drive a heavy truck full speed into walls of rock and ore. The harder you crash, the more ore breaks loose and falls into your truck bed.",
+      "core_loop": [
+        "Pick a truck and a mine tunnel",
+        "Build up speed down the ramp",
+        "Smash into ore walls and keep the truck alive",
+        "Haul the loose ore back before the truck falls apart",
+        "Sell ore and upgrade the bumper, engine and frame"
+      ],
+      "twist": "Your truck takes real crash damage. Every hit breaks more ore, but if you lose a wheel you have to limp home with whatever stayed in the bed.",
+      "monetization": [
+        "2x ore multiplier pass",
+        "VIP garage with a bonus truck slot",
+        "Armour plating bundles (developer product)",
+        "Truck paint and smoke-trail skins"
+      ],
+      "retention": [
+        "Deeper tunnels with rarer ore unlocked by depth",
+        "Weekly mine event with a limited ore",
+        "Codes for repair kits on updates",
+        "Server leaderboard for the biggest single crash"
+      ],
+      "why_now": "Break / mine / dig + Race / drive is a top pair (9 new games, 136,366 new-game CCU). Break / mine / dig is at 1.71 (up 0.23 this week), Physics Sim is the top subgenre at 2.65, and realistic art is at 1.96. Crash Engine (42,364 CCU) and BloxNG [CRASH PHYSICS] 💥 (29,750) show crash physics pulls players.",
+      "inspired_by": [
+        "Crash Engine",
+        "BloxNG [CRASH PHYSICS] 💥"
+      ],
+      "differentiator": "Crashing is how you mine, not just a show, so how you hit the wall decides what you earn.",
+      "art_style": "realistic",
+      "map_style": "linear_course"
+    },
+    {
+      "title": "Tunnel for Flags 🚩",
+      "scope": "large",
+      "genre": "PvP · Team",
+      "mechanics": [
+        "Break / mine / dig",
+        "Fight / battle"
+      ],
+      "theme": "Military / war",
+      "hook": "Two armies dig tunnels under a blocky battlefield to reach the enemy flag from below, while defenders dig counter-tunnels to cut them off.",
+      "core_loop": [
+        "Join a team and grab a shovel or drill",
+        "Dig toward the enemy base under the surface",
+        "Fight enemy diggers when your tunnels meet",
+        "Pop up under their flag and run it home",
+        "Spend war points on better drills and gear"
+      ],
+      "twist": "The ground is shared. Every tunnel you dig is also a path the enemy can use, and tunnels can collapse onto whoever is inside.",
+      "monetization": [
+        "VIP pass with a faster drill",
+        "2x war points multiplier",
+        "Drill and shovel skins",
+        "Extra loadout slot (storage)"
+      ],
+      "retention": [
+        "Ranked weekly ladder",
+        "New map layout every week",
+        "Limited event drills",
+        "Daily first-win bonus"
+      ],
+      "why_now": "Break / mine / dig + Fight / battle is a top pair (9 new games, 154,102 CCU). Military / war is at 1.69 with Voxel Wars (29,969 CCU), Break / mine / dig is at 1.71, and Voxel / blocky is the fastest rising art style at 2.34.",
+      "inspired_by": [
+        "Voxel Wars"
+      ],
+      "differentiator": "The fight happens underground, so map control is about where you dig, not where you stand.",
+      "art_style": "voxel_blocky",
+      "map_style": "arena"
+    },
+    {
+      "title": "Grow Aliens for Cash 👽",
       "scope": "medium",
       "genre": "Simulation · Grow",
       "mechanics": [
         "Grow / farm",
         "Collect / index"
       ],
-      "theme": "Disaster / weather",
-      "hook": "Plant crops that only grow when a storm hits them, then drag your field into the path of tornadoes, hail and lightning to grow rare storm plants.",
+      "theme": "Space",
+      "hook": "Plant alien seeds in craters on your own moon plot. They hatch into little aliens that make cash, and the low gravity means a careless harvest floats away.",
       "core_loop": [
-        "Plant seeds on your farm plot",
-        "Watch the forecast and move crops into the storm's path",
-        "Harvest storm-charged crops when the weather passes",
-        "Sell crops and fill the storm-plant index",
-        "Buy tougher seeds that need bigger storms"
+        "Plant alien seeds in craters",
+        "Water them with space goo until they hatch",
+        "Collect cash from grown aliens",
+        "Sell or keep them to fill the alien index",
+        "Buy rarer seeds and bigger craters"
       ],
-      "twist": "Each storm type mutates crops differently: lightning makes glowing crops, hail makes crystal crops, but a direct tornado hit can rip your whole row away.",
+      "twist": "Meteor showers hit random plots. A hit can mutate an alien into a rare glowing form or knock it into space.",
       "monetization": [
-        "2x harvest multiplier",
-        "Luck pass for rare storm mutations",
-        "VIP plot with an extra field row",
-        "Storm summon (developer product) to call the next storm early"
+        "2x cash multiplier",
+        "Luck pass for rare mutations",
+        "VIP crater with extra space",
+        "Storage pass for more alien slots"
       ],
       "retention": [
-        "Storm schedule with a rare super-storm every hour",
-        "Storm-plant index with rewards for each page",
-        "Offline growth between storms",
-        "Codes on updates"
-      ],
-      "why_now": "Grow / farm + Disaster / weather is the top gap in the data (score 5.57). Grow / farm is at 1.89 with Throw a Seed (38,578 CCU) and Disaster / weather is at 2.30 with Stop The Tsunami! (9,181).",
-      "inspired_by": [
-        "Throw a Seed",
-        "Stop The Tsunami!"
-      ],
-      "differentiator": "The weather is the growth engine, so the risky choice of where to put your field is the whole game.",
-      "art_style": "low_poly",
-      "map_style": "plot_base"
-    },
-    {
-      "title": "Sketch Exits to Survive ✏️",
-      "scope": "medium",
-      "genre": "Horror · Escape",
-      "mechanics": [
-        "Paint / create",
-        "Escape / run"
-      ],
-      "theme": "Horror",
-      "hook": "You're trapped in a dark school at night with a monster. Draw a door, ladder or hole on any wall with your chalk and it becomes real for a few seconds.",
-      "core_loop": [
-        "Find chalk sticks around the building",
-        "Draw an exit shape on a wall or floor",
-        "Run through before the drawing fades",
-        "Reach the next floor and the next room",
-        "Escape the building to unlock new maps"
-      ],
-      "twist": "The monster can use your drawings too, so a door you leave behind can let it catch up.",
-      "monetization": [
-        "VIP with a longer-lasting chalk",
-        "Chalk colour packs (cosmetic)",
-        "Extra life developer product",
-        "2x escape coins"
-      ],
-      "retention": [
-        "New building every update",
-        "Daily speed-escape leaderboard",
-        "Chalk skin collection",
-        "Co-op runs for up to 4 friends"
-      ],
-      "why_now": "Paint / create + Horror is a strong gap (score 4.99). Paint / create is at 1.67 with Draw Your Cart! (10,672) and Interiors are rising at 1.91, led by Suzy Says! [HORROR] (18,648).",
-      "inspired_by": [
-        "Draw Your Cart!",
-        "Suzy Says! [HORROR]"
-      ],
-      "differentiator": "Drawing is your only way out, so every chase is a fast doodle under pressure instead of a fixed route.",
-      "art_style": "dark_gritty",
-      "map_style": "interior"
-    },
-    {
-      "title": "Grow Balls for Trophies 🏆",
-      "scope": "small",
-      "genre": "Simulation · Sports",
-      "mechanics": [
-        "Grow / farm",
-        "Hit / swing / launch"
-      ],
-      "theme": "Sports",
-      "hook": "Grow sports balls on plants in your garden, then kick each one at a giant goal across a field. Rarer balls fly further and score bigger.",
-      "core_loop": [
-        "Plant ball seeds on your plot",
-        "Harvest grown balls",
-        "Kick them at distance goals for coins",
-        "Buy better seeds and stronger boots",
-        "Unlock new fields with farther goals"
-      ],
-      "twist": "Balls keep growing while you wait, so you choose between kicking a small ball now or a huge heavy one later that is harder to aim.",
-      "monetization": [
-        "2x coin multiplier",
-        "Luck pass for rare golden balls",
-        "VIP boots with extra power",
-        "Auto-harvest pass"
-      ],
-      "retention": [
-        "Trophy index for every ball type",
-        "Weekly longest-kick leaderboard",
+        "Alien index with rewards per page",
+        "Hourly meteor shower",
         "Offline growth",
         "Codes on updates"
       ],
-      "why_now": "Grow / farm + Sports is an open gap (score 4.65). Grow / farm is at 1.89 and Hit / swing / launch is at 1.87 (up 0.43 this week), led by Throw a Seed (38,578) and Ragdoll Soccer (21,905).",
+      "why_now": "Space is at 2.37 and Grow / farm is at 1.82 with Throw a Seed (44,598 CCU) and [🐜] Ant Evolution (19,077). Collect / index + Grow / farm is a pair (6 new games, 51,141 CCU) and Money / rich is at 1.89.",
       "inspired_by": [
         "Throw a Seed",
-        "Ragdoll Soccer"
+        "[🐜] Ant Evolution"
       ],
-      "differentiator": "Farming and kicking are joined: what you grow is your ammo and your size choice changes your shot.",
+      "differentiator": "Space weather is both the risk and the luck source, so you decide when to protect your plot and when to gamble.",
       "art_style": "simulator_bright",
+      "map_style": "plot_base"
+    },
+    {
+      "title": "Fish a Flooded Town 🌊",
+      "scope": "medium",
+      "genre": "Simulation · Fishing",
+      "mechanics": [
+        "Fishing",
+        "Collect / index"
+      ],
+      "theme": "Disaster / weather",
+      "hook": "A town has flooded. Paddle a boat through the streets and cast into windows, shops and car parks to reel up cars, safes, pets and furniture.",
+      "core_loop": [
+        "Paddle to a street in the flood",
+        "Cast into buildings and reel up items",
+        "Bring catches back to your rooftop base",
+        "Sell them or keep them for the flood index",
+        "Upgrade your rod, boat and line strength"
+      ],
+      "twist": "The water level changes every few minutes. Low water opens ground-floor shops, high water opens rooftops and the rarest catches.",
+      "monetization": [
+        "2x sell multiplier",
+        "Luck pass for rare catches",
+        "Auto-reel pass",
+        "Bigger boat storage pass"
+      ],
+      "retention": [
+        "Flood index with rewards per street",
+        "Limited storm event with a new catch set",
+        "Mutated catches (muddy, golden)",
+        "Codes on updates"
+      ],
+      "why_now": "Disaster / weather is the top theme at 2.41 with Stop The Tsunami! (16,555 CCU). Fishing is at 1.46 and up 0.54 this week with [🐟] Fish For Sea Animals (37,698) and Cast For Fish! (21,095). Collect / index + Fishing is a pair with 16 new games and 128,080 CCU.",
+      "inspired_by": [
+        "Stop The Tsunami!",
+        "[🐟] Fish For Sea Animals",
+        "Cast For Fish!"
+      ],
+      "differentiator": "You fish a whole town instead of open water, so every building is a different loot pool.",
+      "art_style": "stylized",
+      "map_style": "open_world"
+    },
+    {
+      "title": "Grow Ghosts at Night 👻",
+      "scope": "medium",
+      "genre": "Survival · Grow",
+      "mechanics": [
+        "Grow / farm",
+        "Fight / battle"
+      ],
+      "theme": "Horror",
+      "hook": "Your graveyard plot only grows ghost crops after dark, but the night also brings monsters that try to eat your harvest.",
+      "core_loop": [
+        "Plant ghost seeds at dusk",
+        "Defend the plot with a lantern and tools at night",
+        "Harvest ghost crops at sunrise",
+        "Sell them and buy stronger seeds and defenses",
+        "Push into longer, scarier nights"
+      ],
+      "twist": "The rarest ghosts only grow in the dark corners where monsters spawn, so greed means danger.",
+      "monetization": [
+        "2x harvest multiplier",
+        "Luck pass for rare ghosts",
+        "VIP plot with an extra row",
+        "Lantern and tool skins"
+      ],
+      "retention": [
+        "Nightly boss monster",
+        "Ghost index",
+        "Night streak rewards",
+        "Limited event seeds"
+      ],
+      "why_now": "Horror is up 0.54 this week to 1.28 with Suzy Says! [HORROR] (18,648 CCU) and [🏴‍☠️] Throw a Friend for Monsters (20,424). Grow / farm is at 1.82, and the night-survive format is working for Stay the Night (19,828).",
+      "inspired_by": [
+        "Stay the Night",
+        "Suzy Says! [HORROR]",
+        "Throw a Seed"
+      ],
+      "differentiator": "Farming and survival share one clock: day is safe but nothing grows, night pays but bites.",
+      "art_style": "dark_gritty",
+      "map_style": "plot_base"
+    },
+    {
+      "title": "+1 Kaiju Size 🦖",
+      "scope": "small",
+      "genre": "Simulation · +1",
+      "mechanics": [
+        "+1 stat per action",
+        "Break / mine / dig"
+      ],
+      "theme": "Giant / huge",
+      "hook": "You are a tiny kaiju that gets +1 size every second. Stomp through blocky cities and break bigger buildings as you grow.",
+      "core_loop": [
+        "Grow +1 size every second",
+        "Stomp buildings for cash",
+        "Buy size boosters",
+        "Unlock bigger city zones",
+        "Rebirth for a permanent size multiplier"
+      ],
+      "twist": "Each zone has a size gate: too small and you cannot break the towers, too big and you crush the bonus coins too.",
+      "monetization": [
+        "2x size speed pass",
+        "Auto-stomp pass",
+        "VIP pass",
+        "Pet storage pass for baby kaiju"
+      ],
+      "retention": [
+        "Rebirths",
+        "Baby kaiju pets",
+        "Biggest kaiju leaderboard",
+        "Limited city events"
+      ],
+      "why_now": "+1 ___ is a rising title formula at 1.46 with [🧬] +1 Venom Evolution (12,392 CCU). Giant / huge is at 1.70 with Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE] (14,185), and Break / mine / dig is at 1.71.",
+      "inspired_by": [
+        "[🧬] +1 Venom Evolution",
+        "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]"
+      ],
+      "differentiator": "Growth is felt through destruction, so the +1 number turns into bigger buildings falling.",
+      "art_style": "voxel_blocky",
       "map_style": "zone_progression"
     },
     {
-      "title": "Grow Keys for Freedom 🔑",
-      "scope": "medium",
-      "genre": "Simulation · Escape",
-      "mechanics": [
-        "Grow / farm",
-        "Escape / run"
-      ],
-      "theme": "Prison / police",
-      "hook": "Secretly grow key plants in your prison cell. Each rare key opens a new wing of the prison until you can break out.",
-      "core_loop": [
-        "Plant key seeds under your bunk",
-        "Water them while guards aren't looking",
-        "Harvest keys and open locked doors",
-        "Grab better seeds from the new wing",
-        "Reach the final gate and escape"
-      ],
-      "twist": "Guards do cell checks on a timer, so you must hide or move your plants before they arrive or lose your crop.",
-      "monetization": [
-        "Extra plant pot pass",
-        "Luck pass for rare keys",
-        "VIP cell with a hidden stash",
-        "2x growth speed"
-      ],
-      "retention": [
-        "Prison wings unlock in order",
-        "Rare key index",
-        "Daily escape streak reward",
-        "New prisons on updates"
-      ],
-      "why_now": "Grow / farm + Prison / police is a gap (score 4.08). Grow / farm is at 1.89 and Prison / police is at 1.30, with 13 Days to Escape [ALPHA] (9,254) and Prison Tycoon (5,833).",
-      "inspired_by": [
-        "13 Days to Escape [ALPHA]",
-        "Prison Tycoon"
-      ],
-      "differentiator": "A calm grow loop mixed with guard-check tension, so farming has real stakes.",
-      "art_style": "low_poly",
-      "map_style": "interior"
-    },
-    {
-      "title": "Fish for Relics 🐊",
+      "title": "Fish Up Outfits 👗",
       "scope": "small",
       "genre": "Simulation · Fishing",
       "mechanics": [
         "Fishing",
         "Collect / index"
       ],
-      "theme": "Ancient / pyramids",
-      "hook": "Cast into a desert river beside the pyramids and reel up ancient relics, golden statues and the odd angry crocodile.",
+      "theme": "Fashion / beauty",
+      "hook": "Cast into a sparkly lake and reel up clothes instead of fish. Wear your rarest catches and show them off on the dock.",
       "core_loop": [
-        "Cast into the river",
-        "Reel in relics and fish",
-        "Sell relics to the museum",
-        "Buy better rods and bait",
-        "Unlock deeper tomb pools"
+        "Cast and reel up clothing pieces",
+        "Wear them right away",
+        "Sell duplicates for coins",
+        "Fill the outfit index by set",
+        "Unlock new lakes with rarer sets"
       ],
-      "twist": "Some relics are cursed: keep them and your luck rises, but a mummy starts following you until you sell it.",
+      "twist": "Pieces come in matching sets. Wearing a full set gives a luck bonus for the next set.",
       "monetization": [
-        "2x sell multiplier",
-        "Luck pass for golden relics",
+        "Luck pass",
+        "2x coins pass",
         "Auto-reel pass",
-        "Extra backpack storage"
+        "Wardrobe storage pass"
       ],
       "retention": [
-        "Museum index with rewards",
-        "Limited events with new relic sets",
-        "Mutation catches",
+        "Outfit index with set rewards",
+        "Weekly limited set",
+        "Mutated pieces (glitter, gold)",
         "Codes on updates"
       ],
-      "why_now": "Fishing + Collect / index is a top new-game pair (15 new games, 96,336 CCU). Fishing is at 1.42 with [🐟] Fish For Sea Animals (32,813) and the \"___ for ___\" formula is at 1.83 (up 0.72 this week). Fishing + Ancient / pyramids is an open gap.",
+      "why_now": "Fishing + Fashion / beauty is an open gap (score 2.75). Fishing is up 0.54 this week to 1.46 with Fish for Secret Animals! (24,445 CCU) and [EVENT] River Hunter (23,652), and Collect / index is up 0.28 to 1.24.",
       "inspired_by": [
-        "[🐟] Fish For Sea Animals",
-        "Cast For Fish!"
+        "Fish for Secret Animals!",
+        "[EVENT] River Hunter"
       ],
-      "differentiator": "An untouched setting for the hot fishing loop, plus the cursed relic risk choice.",
+      "differentiator": "Every catch is something you wear, so the index is also your avatar.",
       "art_style": "stylized",
       "map_style": "zone_progression"
     },
     {
-      "title": "Draw Mechs for Battle 🤖",
-      "scope": "large",
-      "genre": "PvP · Physics",
+      "title": "Bat Stars for Pets ⭐",
+      "scope": "small",
+      "genre": "Simulation · Launch",
       "mechanics": [
-        "Paint / create",
-        "Fight / battle"
+        "Hit / swing / launch",
+        "Collect / index"
       ],
-      "theme": "Robots / mechs",
-      "hook": "Draw your mech's legs, arms and weapons with limited ink, watch it come to life as a physics robot, then send it to fight other players' drawings.",
+      "theme": "Space",
+      "hook": "Falling stars drop from the sky. Hit them with your bat and the farther they fly, the rarer the star pet that lands.",
       "core_loop": [
-        "Draw a mech body with your ink",
-        "Attach weapon parts you have unlocked",
-        "Fight another mech in a short physics match",
-        "Win ink upgrades and parts",
-        "Draw bigger, stronger mechs"
+        "Wait for a falling star",
+        "Time your swing to bat it",
+        "Collect the star pet where it lands",
+        "Equip pets for swing power",
+        "Unlock new sky zones"
       ],
-      "twist": "Whatever you draw is exactly how it moves, so a wobbly leg means a wobbly mech.",
+      "twist": "Each zone's sky has planets in the way. Bounce a star off a planet for a mutation bonus.",
       "monetization": [
-        "Extra ink VIP",
-        "Part bundles",
-        "2x win rewards",
-        "Mech colour and trail skins"
+        "2x swing power multiplier",
+        "Luck pass",
+        "VIP pass",
+        "Star shower (developer product)"
       ],
       "retention": [
-        "Ranked weekly ladder",
-        "Save and share best designs",
-        "Boss raids against giant kaiju",
-        "Limited part events"
+        "Star pet index",
+        "Hourly meteor shower",
+        "Mutations",
+        "Codes"
       ],
-      "why_now": "Paint / create + Robots / mechs is a gap (score 3.66). Paint / create is at 1.67 with Draw Your Cart! (10,672), Robots / mechs is at 1.72 with Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE] (11,697), and Physics Sim is the top subgenre at 2.59.",
+      "why_now": "Hit / swing / launch is the top rising mechanic at 1.99 (up 0.44) with Throw a Seed (44,598 CCU) and Hyper Realistic Ragdoll (110,080). Space is at 2.37, and Collect / index + Hit / swing / launch is a pair with 129,948 CCU.",
       "inspired_by": [
-        "Draw Your Cart!",
-        "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]"
+        "Throw a Seed",
+        "[🏹] Shoot Arrows For Animals!"
       ],
-      "differentiator": "Your own drawing is the fighter, so no two mechs look or fight the same.",
-      "art_style": "low_poly",
-      "map_style": "arena"
+      "differentiator": "You hit a moving target from the sky instead of throwing from a stand, so timing matters as much as power.",
+      "art_style": "simulator_bright",
+      "map_style": "zone_progression"
     },
     {
-      "title": "+1 Torch Light 🏺",
-      "scope": "small",
-      "genre": "Simulation · +1",
+      "title": "Shoot Shadows to Survive 🔦",
+      "scope": "medium",
+      "genre": "Survival · Horror",
       "mechanics": [
-        "+1 stat per action",
-        "Escape / run"
+        "Shooter",
+        "Fight / battle"
       ],
-      "theme": "Ancient / pyramids",
-      "hook": "Every step you take inside the pyramid makes your torch +1 brighter. Brighter light lets you go deeper, find treasure and scare off mummies.",
+      "theme": "Horror",
+      "hook": "Shadow monsters hunt you through a dark building. Your only weapon is a light gun, and it runs out of battery.",
       "core_loop": [
-        "Walk the pyramid halls to raise your light",
-        "Enter darker chambers as your light grows",
-        "Grab treasure in each chamber",
-        "Rebirth for light multipliers",
-        "Reach the pharaoh's tomb"
+        "Enter the building with a crew",
+        "Shoot shadows with light beams",
+        "Find batteries and fuses",
+        "Turn the lights back on room by room",
+        "Escape and spend coins on better guns"
       ],
-      "twist": "Mummies can only move in the dark, so the edge of your light is where the danger is.",
+      "twist": "Lit rooms are safe but drain shared power, so the team has to choose which rooms to keep lit.",
       "monetization": [
-        "2x light multiplier",
-        "Auto-walk pass",
-        "Torch skins",
-        "Extra treasure storage"
+        "VIP pass",
+        "2x coins multiplier",
+        "Light gun skins",
+        "Extra battery slot"
       ],
       "retention": [
-        "Rebirth tiers",
-        "Light leaderboard",
-        "Offline light gain",
-        "Pet scarabs that boost light"
+        "New floor every update",
+        "Daily challenges",
+        "Limited event monsters",
+        "Crew leaderboards"
       ],
-      "why_now": "The \"+1 ___\" formula is at 1.48 with [🧬] +1 Venom Evolution (9,456) and [W3] +1 Scary Evolution (5,841). Interiors are rising at 1.91, and +1 stat + Ancient / pyramids is an open gap.",
+      "why_now": "Horror is up 0.54 this week to 1.28, Interiors / corridors is the top rising map style at 1.77, and Shooter is at 1.38. Fight / battle + Survive is a pair (10 new games, 63,953 CCU), with Stay the Night (19,828) and NIGHT WITH OPAH (27,936) showing night-horror pull.",
       "inspired_by": [
-        "[🧬] +1 Venom Evolution",
-        "[W3] +1 Scary Evolution"
+        "Stay the Night",
+        "NIGHT WITH OPAH"
       ],
-      "differentiator": "The stat you grow is also how much of the map you can see, so progress is visible every step.",
-      "art_style": "voxel_blocky",
+      "differentiator": "Light is ammo, safety and the score at once, so every shot costs something.",
+      "art_style": "dark_gritty",
       "map_style": "interior"
     },
     {
-      "title": "Stunt Cars Over Volcanoes 🌋",
-      "scope": "medium",
-      "genre": "Simulation · Physics",
-      "mechanics": [
-        "Race / drive",
-        "Hit / swing / launch"
-      ],
-      "theme": "Disaster / weather",
-      "hook": "Floor it off a ramp and launch your car over an erupting volcano. Land it to cash in, or crash into lava and watch it fall apart.",
-      "core_loop": [
-        "Pick a car and drive at the ramp",
-        "Launch over the volcano",
-        "Earn cash for distance and landing",
-        "Upgrade engine, boost and armour",
-        "Unlock bigger volcanoes"
-      ],
-      "twist": "Each eruption throws lava rocks into the air, so the right timing can bounce you further or smash your car mid-flight.",
-      "monetization": [
-        "2x cash multiplier",
-        "Rocket boost pass",
-        "Car skin bundles",
-        "VIP garage slot"
-      ],
-      "retention": [
-        "Distance leaderboard",
-        "New volcanoes on updates",
-        "Car collection",
-        "Daily stunt challenges"
-      ],
-      "why_now": "Hit / swing / launch + Race / drive is the top new-game pair (12 new games, 100,442 CCU). Disaster / weather is at 2.30, Physics Sim at 2.59 and Vehicle Sim at 1.56, led by BloxNG [CRASH PHYSICS] 💥 (23,482).",
-      "inspired_by": [
-        "BloxNG [CRASH PHYSICS] 💥",
-        "Hyper Realistic Ragdoll"
-      ],
-      "differentiator": "The disaster is the course: eruptions change every jump, so no two runs land the same way.",
-      "art_style": "realistic",
-      "map_style": "linear_course"
-    },
-    {
-      "title": "Chip Giants for Gold 🗿",
-      "scope": "medium",
-      "genre": "Action · Co-op",
-      "mechanics": [
-        "Break / mine / dig",
-        "Fight / battle"
-      ],
-      "theme": "Giant / huge",
-      "hook": "Giant stone golems walk across the land. Climb onto them with your pickaxe and chip off ore chunks before they shake you off.",
-      "core_loop": [
-        "Wait for a giant to spawn",
-        "Climb on and mine ore from its body",
-        "Dodge its swipes and stomps",
-        "Sell ore and upgrade your pickaxe",
-        "Take on bigger, rarer giants"
-      ],
-      "twist": "Mining the giant's weak spots makes it angrier but drops rarer ore, so greedy players risk getting flung for the whole server.",
-      "monetization": [
-        "2x ore multiplier",
-        "Luck pass for rare ore",
-        "Grip pass to stay on longer",
-        "VIP pickaxe skins"
-      ],
-      "retention": [
-        "Giant index with every golem type",
-        "Server boss giants on a timer",
-        "Ore mutations",
-        "Codes on updates"
-      ],
-      "why_now": "Break / mine / dig + Fight / battle is a top pair (8 new games, 80,073 CCU). Break / mine / dig is at 1.51 (up 0.11), and Giant / huge is at 1.74 with Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE] (11,697). Low poly art is rising at 1.63.",
-      "inspired_by": [
-        "[PVP] Sandworm Playground",
-        "Mechs vs Kaiju's Ragdoll | [MAJOR UPDATE]"
-      ],
-      "differentiator": "The mine is a moving boss, so mining turns into a shared climb-and-hold fight.",
-      "art_style": "low_poly",
-      "map_style": "open_world"
-    },
-    {
-      "title": "Build a Meteor Dome ☄️",
+      "title": "Build a Battle Blimp 🎈",
       "scope": "large",
-      "genre": "Sandbox · Survival",
+      "genre": "PvP · Sandbox",
       "mechanics": [
-        "Tycoon / base building",
-        "Survive"
+        "Paint / create",
+        "Fight / battle",
+        "Shooter"
       ],
-      "theme": "Space",
-      "hook": "Build a dome over your base block by block, then survive the meteor shower. Whatever is still standing after the strike earns you cash.",
+      "theme": "Military / war",
+      "hook": "Build your own blimp from balloons, armor and cannons, then fly it into sky battles against other players' builds.",
       "core_loop": [
-        "Collect blocks and cash",
-        "Build your dome and shelter",
-        "Survive the meteor shower round",
-        "Earn rewards for surviving parts",
-        "Unlock stronger materials"
+        "Build a blimp from unlocked parts",
+        "Fly into a sky arena",
+        "Shoot down rival blimps",
+        "Earn parts and coins",
+        "Build bigger blimps"
       ],
-      "twist": "Meteors leave space crystals in craters, so players must run out of their domes mid-shower to grab them.",
+      "twist": "Every balloon you lose drops your blimp lower, so damage changes how you fly.",
       "monetization": [
-        "Material bundles",
-        "2x cash multiplier",
-        "Blueprint save pass",
-        "VIP plot with extra space"
+        "VIP with extra build space",
+        "2x coins multiplier",
+        "Part bundles",
+        "Blimp paint skins"
       ],
       "retention": [
-        "Meteor storm every few minutes",
-        "Weekly giant meteor event",
-        "Best-dome leaderboard",
-        "Codes on updates"
+        "Ranked weekly ladder",
+        "Save and share designs",
+        "Boss sky fortress raids",
+        "Limited part events"
       ],
-      "why_now": "Sandbox is at 1.95 and Physics Sim at 2.59. Space is the top theme at 2.35 and Disaster / weather is at 2.30, with Build Your World! 🔨 (21,625) and Stop The Tsunami! (9,181) proving build-then-survive works.",
+      "why_now": "Build a ___ is a rising title formula at 1.23 with Build Your World! 🔨 (30,218 CCU). Paint / create is at 1.59, Sandbox is at 1.86, and Military / war is at 1.69 with Voxel Wars (29,969). Fight / battle + Shooter is a pair with 160,833 CCU.",
       "inspired_by": [
         "Build Your World! 🔨",
-        "Stop The Tsunami!"
+        "Voxel Wars",
+        "Draw Your Cart!"
       ],
-      "differentiator": "Building and surviving are one test, and the crater crystals pull players out of safety.",
-      "art_style": "voxel_blocky",
-      "map_style": "plot_base"
+      "differentiator": "Your build is your health bar, so design choices show up in every fight.",
+      "art_style": "low_poly",
+      "map_style": "arena"
     }
   ]
 }
