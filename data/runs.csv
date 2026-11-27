@@ -1245,3 +1245,7 @@ ts,task,ok,count,requests,detail
 2026-11-27T12:14:27Z,third_party,1,30,6,"{""listed"": 7998, ""above_floor"": 3596, ""resolved"": 1, ""added"": 30}"
 2026-11-27T12:22:17Z,snapshot,1,5730,317,"{""polled"": 5730, ""active"": 5590}"
 2026-11-27T12:24:32Z,thumbs,1,805,255,"{""niches"": 144, ""games"": 805, ""urls_refreshed"": 805, ""downloaded"": 221, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
+2026-11-27T21:16:45Z,discover,1,8,57,"{""listed"": 1891, ""unique"": 1094, ""added"": 8, ""maturity"": 1094, ""errors"": [""search brainrot: HTTP 429 for https://apis.roblox.com/search-api/omni-search?searchQuery=brainrot&sessionId=13a6ad4a-fa98-44a3-bef3-5c89d868137a&pageToken=eyJzdGFydCI6NDAsImNvdW50Ijo0MCwiZW5kT2ZQYWdlIjpmYWxzZX0%3D&pageType=all: {\""errors\"":[{\""code\"":0,\""message\"":\""\""}]}\n"", ""search lucky block: HTTP 429 for https://apis.roblox.com/search-api/omni-search?searchQuery=lucky+block&sessionId=13a6ad4a-fa98-44a3-bef3-5c89d8681"
+2026-11-27T21:16:54Z,third_party,1,47,17,"{""listed"": 8034, ""above_floor"": 3956, ""resolved"": 11, ""added"": 47}"
+2026-11-27T21:25:15Z,snapshot,1,5735,323,"{""polled"": 5735, ""active"": 5635}"
+2026-11-27T21:25:42Z,thumbs,1,815,40,"{""niches"": 144, ""games"": 815, ""urls_refreshed"": 10, ""downloaded"": 38, ""errors"": 0, ""pending"": 0, ""report_niches"": 144}"
